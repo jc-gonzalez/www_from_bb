@@ -1,0 +1,10 @@
+#+SETUPFILE: config.inc
+
+* Software
+
+Llevo en el desarrollo de aplicaciones software de manera profesional, con diferentes grados de complejidad y criticidad, desde los 17 años.  Es fácil de imaginar que en este tiempo he hecho multitud de cosas, todas muy diferentes.
+
+Creo que con todas las experiencias en este campo me da para crear un nuevo blog.  En este nuevo blog, "[[/blog/yebsh/yebsh.html][Y el bit se hizo]]", mostraré algunos ejemplos de desarrollos que he realizado en los últimos tiempos a título personal independiente.  Mi intención es añadir ejemplos de mis trabajos de los primeros tiempos, pero creo que va a ser algo difícil.  También añadiré reflexiones, descubrimientos, pequeñas recetas, y cosas así.
+
+
+

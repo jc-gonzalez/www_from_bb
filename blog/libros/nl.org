@@ -1,0 +1,149 @@
+#+TITLE: Cómo escribí: Noctis Labyrinthus
+#+DATE: <2015-04-28 ma.>
+#+AUTHOR: J. C. Gonzalez
+#+EMAIL: jcg@jcgonzalez.org
+
+#+SETUPFILE: webconfig.inc
+#+SETUPFILE: config.inc
+
+* Cómo escribí: Noctis Labyrinthus
+:PROPERTIES:
+:ID:       80E229F8-E0F7-4FA1-8177-34863428599B
+:PUBDATE:  <2015-07-08 Wed 00:04>
+:END:
+
+Este pequeño blog es una especie de registro de cómo escribí /Noctis Labyrinthus/.
+
+De momento los artículos de esta novísima sección están por escribir, pero he querido al menos incluir los títulos con una doble motivación: primero, dar a conocer al lector lo que iré incluyendo; y segundo, para que me sirvan a mí mismo de recordatorio de todo lo que quiero incluir.  Como los artículos que aquí aparezcan lo harán ordenados siguiento un criterio de antigüedad creciente en cuanto a su contenido, así aparecen ahora los títulos de los artículos vacíos.
+
+** TODO Mis primeros royalties
+:PROPERTIES:
+:ID:       87A6AB41-6B59-4E44-B7A3-4786B8F0250F
+:END:
+
+** TODO Autopublicación
+:PROPERTIES:
+:ID:       D551C789-CF2F-4AAE-AD58-B0E98F25B8C0
+:END:
+
+** TODO Maquetando
+:PROPERTIES:
+:ID:       E5B3AA03-7D5F-4ABB-A3B5-609E641F1E31
+:END:
+
+** [2015-08-31 lun] La portada
+:PROPERTIES:
+:ID:       DF197E0C-E49D-44BF-A40F-89E1DB1CC389
+:END:
+
+ Había visto que para autopublicarse uno mismo un libro (ahondaré en ello en un artículo posterior), además de contar con los servicios de publicación de alguna entidad o empresa, era necesario al menos realizar una maquetación de la obra, así como el diseño de una portada y contraportada.  Todo esto podía a su vez ser subcontratado a terceros, o ser realizado por uno mismo.  Y evidentemente, cualquiera que me conozca sabe que opté por esta segunda opción.
+
+No quiero entrar en detalles acerca del diseño de la portada.  Pero sí contaré una anécdota acerca del diseño final.  Por diversas razones, que no vienen a cuento, el diseño final de la portada no era enteramente satisfactorio para mí.  Era más o menos como había pensado, pero le faltaba algo.  No tenía mucha idea de lo que era.  Intenté meterle, con las típicas aplicaciones de corrección de imágenes, varias capas con luces, introducir algún tipo de textura, y cosas así.  Nada.  No conseguía lo que quería.
+
+Tras un par de días sin tocar la portada (seguía trabajando en el texto del libro, que aún no estaba concluído del todo), se me ocurrió una cosa al llegar a casa.  Ese día iba a estar solo por una hora o así, ya que no había salido tarde del trabajo, y quien iba a recoger a los niños al cole era mi mujer.  Así que cogí un folio en blanco, y unas ceras de colores (creo que unos marrones, rojo, naranja, negro, y no sé si incluso azul o morado), y me puse a dibujar más o menos el paisaje que se ve en la portada, pero con trazos irregulares y a toda velocidad.  No tardé en concluir mi obra ni cinco minutos.  Tras observar que podía haber conseguido lo que perseguía, escaneé el folio, e incluí la imagen resultante como nueva capa en la imagen de la portada.  La mezclé adecuadamente y /voilá!//  Funcionó.  La rugosidad del dibujo de las ceras hizo que la imagen de la portada adquiriese la textura irregular que yo deseaba.  Apenas la toqué posteriormente.
+
+Como comentario final, señalar que semanas después de la publicación, comenté varios temas acerca del libro con un amigo.  Y me dijo que hacía tiempo, él había leído una serie de consejos para hacer una portada atractiva al público.  Y que la mía cumplía con todos ellos.  Aquello me puso realmente muy contento: aunque mi éxito editorial se quedase en un puñado de amigos, siempre podía decir que mi portada cumplía con ciertos criterios de éxito reconocidos.
+
+
+** [2015-08-30 lun] Revisiones
+:PROPERTIES:
+:ID:       94610489-B787-4F80-8D41-BAE90DB8E900
+:END:
+
+Tras un período de vacaciones (cortas, como todas las vacaciones), continúo con mi relación abreviada de la experiencia de escribir "Noctis Labyrinthus".
+
+Cuando quedaban un par de capítulos para el final, más o menos, pasé a revisión lo que llevaba escrito a un grupo de buenos amigos.  Ya había pedido a mi hermana y mi mujer que perdiesen algo de su tiempo en leer los primeros capítulos de la novela, para que me contasen qué les parecía el cariz de la misma, el tempo, etc.  En esas primeras revisiones les solicité que se olvidasen totalmente de correcciones gramaticales, de ortografía, etc., ya que con posterioridad se realizarían ese tipo de análisis en el texto en repetidas ocasiones.  Y la aceptación fue bastante buena.
+
+Como digo, cuando quedaba poco para el final pasé lo que llevaba escrito a unos amigos.  Los comentarios fueron más que positivos, lo cuál me produjo una satisfacción increíble, como cualquiera puede suponer.  Evidentemente también hubo comentarios críticos, y alguno negativo relativo a algún aspecto concreto o detalle del manuscrito.  Pero era precisamente por ello que le había solicitado esta revisión a estas personas: porque sabía que si algo no les gustaba, me lo iban a decir.  Y como esperaba, no me fallaron.
+
+A continuación de la recepción de los comentarios, era habitual que casi cada día me preguntasen, medio en broma, medio en serio, que si había terminado ya.  Me decían que estaban deseando que concluyese por fin el libro, para poder leerlo completamente.  Y aquellas bromas, aquellas peticiones, ellos lo saben bien, se lo agradezco profundamente, porque me dieron la fuerza y el empujón que necesitaba al final para finalizarlo.
+
+** [2015-07-13 lun] Se vislumbra el final
+:PROPERTIES:
+:ID:       1AEE07AB-A0D4-4E65-8D6B-63ED93424CB2
+:END:
+
+Por muy poco que se avance cada día, si continuamos poco a poco escribiendo una historia, lo natural es que en algún momento lleguemos al final.  En efecto, a partir de cierto punto, ya podía saborear el final de mi novela.
+
+En ese punto, sin embargo, me ocurrió algo curioso.  Tenía ya en la cabeza cuál sería el final de la historia.  Y sentí la necesidad de escribir el final.  No fue por simple impaciencia, no.  Era una manera de establecer un horizonte, de determinar claramente cual era el ámbito de desarrollo de lo que restaba de novela.  Y, por qué no decirlo, una forma de evitar que la novela tomase las riendas de la historia: algo así como decirle "aquí mando yo".
+
+A la postre, creo que me precipité ligeramente.  El final, tras releerlo tranquilamente, creo que resulta ligeramente abrupto.  Pero eso son lecciones aprendidas para el futuro.
+
+En definitiva: en realidad, quien mandaba era la novela...
+
+** [2015-07-07 mar] La historia manda
+:PROPERTIES:
+:ID:       775C44C3-4EED-4D34-A73D-08DA49F83CBA
+:END:
+
+Una de las cosas más curiosas que me ha pasado mientras escribía mi novela ha sido descubrir que a partir de cierto momento en la redacción del primer borrador era la historia misma y no yo quien decidía el camino que el relato había de seguir.  Era de lo más intrigante y a la vez apasionante: yo había decidido que en determinado momento la historia debía orientarse de determinada manera, pero al llegar ahí descubría que lo que la historia demandaba era desarrollarse por otro lado, analizar determinado hilo adyacente, o detenernos en ciertos aspectos que a priori pensaba que eran irrelevantes.
+
+Había leído y escuchado hablar a algún escritor, incluso personajes ya consagrados, acerca de sus historias como de entes vivos, que tenían personalidad propia.  No sé si dotarle de tal a la mía, pero lo que si es cierto es que he experimentado cierta resistencia a la hora de conducir el argumento por ciertos derroteros que yo deseaba, mientras que se apreciaba una mayor facilidad al continuar por otras vías, como si la novela misma te ayudase, te empujase a continuar por ahí.
+
+Ha sido sorprendente y muy interesante.
+
+** [2015-07-04 sáb] Ritmo variable
+:PROPERTIES:
+:ID:       58BA3B95-1936-4EB1-B27A-C9AC84846DD2
+:END:
+
+Como puede haber deducido cualquiera que me conozca un poco, el objetivo de escribir todos los días unas 200 palabras pronto se reveló ciertamente utópico.  Por un lado, había días que me ponía a escribir y de una tirada hacía 500 palabras, o incluso 1000.  Eso es bueno.  Pero otros días, por mucho que me sentase frente a mi Emacs, no había nada en mi cerebro que se inclinase hacia la redacción novelística.  Y eso es malo.
+
+Aún más: en ocasiones, durante días, semanas enteras, bien por cansancio, bien por distracción, o bien por no saber realmente cómo seguir, no era capaz ni siquiera de ponerme frente al texto que tenía entre manos.  Y eso es peor.
+
+En la figura donde muestro una gráfica realizada a partir de los datos registrados de progreso diario se puede apreciar perfectamente cómo el progreso se quedaba estancado durante días, semanas y a veces meses enteros.
+
+El período más largo de inactividad, no obstante, coincidió con unas semanas de intensa actividad en lo laboral.  Estabamos intentando desarrollar un compañero y yo lo que sería a la postre una semilla de un futuro producto para nuestra compañía.  Ésta había sido una empresa orientada a proyectos.  Pero en el nuevo mercado en el que se movía la tendencia era a la utilización de productos ya consolidados, ajustados a las necesidades de cada cliente.  Bien, ese no era nuestro caso, al menos en el ámbito en el que mi departamento se movía.  Y mi jefe por aquel entonces, amigo mío de toda la vida por cierto, y yo mismo, habíamos identificado una ventana de oportunidad clarísima, y un retorno de inversión para el desarrollo de un nuevo producto bastante prometedor.  La alta dirección de la compañía carecía de la visión necesaria en aquel entonces para valorar esta opción, por lo que nos lanzamos un compañero y yo (apoyados de cerca por mi jefe directo) a la creación de un prototipo funcional, una prueba de concepto, con el fin de demostrar a nuestra dirección que lo que decíamos tenía fundamento.  Este período de excitación a nivel laboral conllevó un parón en la redacción del primer borrador de mi novela.
+
+(¿Que cómo terminó la historia?  Terminó con la declaración de "proyecto de máxima prioridad" de nuestra semilla de producto, pero la asignación de un total de cero personas y cero horas para el desarrollo del producto, por lo que en la práctica ello significó que nada de lo diseñado por mí y mi colega se llevó a la práctica; se perdió la ventana de oportunidad, y yo tuve la gran suerte de poder abandonar la compañia por un puesto en el Centro Europeo de Astronomía Espacial de la Agencia Espacial Europea.)
+
+** [2015-06-25 jue] Seguimiento del progreso del libro
+:PROPERTIES:
+:ID:       322F9D7A-3330-4449-B1E2-1F082E79ED8D
+:END:
+
+En un artículo anterior mencioné que establecí un número de páginas objetivo para el conjunto de la novela.  Pues bien, para monitorizar el progreso del libro, posteriormente convertí este número de páginas en número mínimo de palabras; para ello estudié el número de palabras por página con diferentes tipografías y tamaños de letra, y escogí un valor promedio.  Con ello, llegué al objetivo final de un número mínimo de palabras para mi novela.
+
+La idea de utilizar el número de palabras para controlar el avance de la novela se basaba en dos premisas: la primera, que seguramente no conseguiría escribir todos los días (por falta de tiempo, de ganas, de energías, etc.); la segunda, que aunque era probable que muchas veces me pusiera a escribir y completase un gran número de páginas, había de establecer una cantidad mínima que me animase a escribir siquiera ese poco.  Pensé que el mínimo sería un par de párrafos o así, así que establecí de nuevo ese límite de manera arbitraria en unas 200 palabras.  Es decir, mi intención era forzarme a escribir todos los días al menos 200 palabras.  Y dado que el límite quedaba establecido en un determinado número de palabras, parecía natural establecer ese control del progreso en palabras.  Posteriormente podría convertir más o menos el número de palabras a número de paginas, e incluso a número estimado de capítulos.
+
+He de reconocer que ls idea de llevar un control del progreso de mi libro la adopte tras leer un artículo en uno de mis blogs favoritos, NOOP.nl, de Jurgen Appelo.  El artículo,  "[[http://noop.nl/2009/10/how-i-track-progress-on-my-book.html][How I track progress on my book]]", de 2009, trataba de cómo el autor llevaba un control del progreso de su libro (un libro sobre management, muy bueno por cierto, de más de 300 páginas).  Cuando lo lei me encantó, y en esencia seguí su método, con ligeras variaciones.  En la imagen siguiente puede verse el aspecto de la tabla que he utilizado para controlar el progreso de mi libro.
+
+#+caption: Tabla de seguimiento de la extensión de cada capítulo
+[[../../img/NL_progress.png]]
+
+Como complemento a esta tabla, cada día que escribía registraba la cantidad de palabras que llevaba.  De esta manera en poco tiempo pude comenzar a realizar estimaciones acerca de mi progreso futuro, y comparar esas estimaciones con la fecha deseada de conclusión.  En la siguiente figura se aprecia un diagrama con los datos registrados durante la escritura del libro, y una proyección de los mismos para la estimación de la fecha de finalización.
+
+#+caption: Gráfica con los datos de progreso diario
+[[../../img/NL_progress_graph.png]]
+
+** [2015-06-23 mar] Estructura de la novela
+:PROPERTIES:
+:ID:       361B651F-4739-42FD-BB67-BDF86F737AFF
+:END:
+
+Cuando me decidí a escribir la novela que más o menos tenía en la cabeza, lo primero que me planteé fue: ¿existe alguna manera de estructurar la novela de manera que resulte más atractiva?
+
+Tras investigar un poco (y hay que recordar que en esto de escribir soy un verdadero ignorante), descubrí que no hay una única manera.  Lo sospechaba.  De hecho, hay muchas maneras, y aquello me complicaba un poco la vida.
+
+Sin embargo, en un par de lugares leí que una manera de mantener la atención del lector es estructurar la novela en secciones o partes, y sincronizar los momentos de crisis de la novela con los finales de cada sección.  De esta manera se estimula al lector a continuar leyendo, de manera que pueda descubrir la forma en que se resuelve cada crisis.
+
+Antes de continuar, necesitaba definir un objetivo para la extensión de la novela.  Sí, lo sé, quizá no es lo más ortodoxo.  Algunos me diréis que la novela es algo vivo, que ella misma define si aún queda relato o no.  Y tenéis razón.  Pero me conozco, y necesitaba un objetivo definido y cuantificable.  De hecho, el reo que había establecido interiormente durante las navidades de 2013 fue del estilo de "escribir con una de las historias que tengo en la cabeza una novela de al menos X páginas".  De manera que establecí un número de páginas mínimo, de manera absolutamente arbitraria.
+
+Una vez establecido un número de páginas objetivo, calculé cuántos capítulos podría introducir, a partir de un número medio aproximado de páginas por capítulo.  Mi idea era hacer los capítulos relativamente cortos.  De esta forma establecí un número de capítulos aproximado a priori de entre 11 y 12.
+
+A continuación, estudié la manera de encajar las diferentes etapas de la novela en cada capítulo, intentando cuadrar los momentos de mayor climax como antesala de cada sección.
+
+A los lectores resta juzgar si el resultado de tantas cuentas valió la pena.
+
+** [2015-06-21 dom] ¡He publicado una novela!
+:PROPERTIES:
+:ID:       25B41EB6-73E5-422E-B3FB-2118D4AB368E
+:END:
+
+Hace unos dos meses desde que publiqué mi primera novela.  Llevaba mucho tiempo rumiándola.  La verdad es que tenía tres o cuatro ideas, y al final desarrollé una de ellas.
+
+Hace tres años más o menos intenté empezar a escribir algo, como propósito de Año Nuevo.  Y como corresponde a la tradición, lo abandoné antes siquiera de empezar.  Al año siguiente ni me lo planteé.  No, no es que abandonase la idea.  Era simplemente una... replanificación estratégica.
+
+El año pasado, sin embargo, me propuse firmemente afrontar la tarea que seguía teniendo ahi, en la parte posterior del cerebelo, picándome constantemente como un gusanito fastidioso.  Aquella voluntad se vio reforzada por la escasa motivación que me acompañaba en mis tareas profesionales...  pero esto es harina de otro costal; mejor será tratar en otro lado este tema de la [[../pv/20150701_Motivacion.html][motivación]].
+
+Así que establecí un pequeño esquema de trabajo, una planificación y un método de monitorización de mi progreso (en los siguientes artículos explicaré brevemente cada de estos elementos), y me puse manos a la obra.

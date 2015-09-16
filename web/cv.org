@@ -1,0 +1,130 @@
+#+SETUPFILE: config.inc
+
+* Curriculum Vitae
+Una visión condensada y alternativa de este Curriculum Vitae puede verse en http://re.vu/jcgonzalez
+
+#+attr_html: :width 10% :style position: absolute; right: -5px;
+[[./img/JC3-filtered.jpg]]
+
+** Estudios Superiores
+
+ + 1989-1994 :: Licenciado en Física (Astrofísica) por la Universidad Complutense de Madrid.
+
+** Especialidad
+
+ - Ingeniería de Software
+
+ - Software Crítico
+
+ - Procesos y Mejora Continua
+
+** Idiomas
+
+ - Español (lengua materna)
+
+ - Inglés (hablado y escrito)
+
+ - Alemán (hablado y escrito, conocimiento medio)
+
+** Experiencia Profesional
+
+*** 2015-actualidad - Telespazio Vega UK / ESAC
+
+*Sci Ops Systems and Software Engineer* para la misión *EUCLID* de la Agencia Espacial Europea ([[http://www.esa.int][ESA]]), en el Centro Europeo de Astronomía Espacial ([[http://www.esa.int/About_Us/ESAC/][ESAC]]).
+
+*** 2001–2015 - GMV Aerospace and Defence S.A.
+
+ + 2009–2015 :: Jefe de Proyecto en la Payload Data Processing Division (Payload Data Processing and Applications Unit)
+
+   - Jefe de Proyecto del proyecto Enhanced Online Archive Phase 2 (E-OA Ph2), para la evolución y mejora del Archivo On-line, para la diseminación, publicación y acceso a productos de las misiones del Earth Observation (EO) Payload Data Ground Segment (PDGS) Evolution Program de la Agencia Espacial Europea (ESA).
+
+   - Jefe de Proyecto de SMOSCP34CD, para el desarrollo de los Procesadores de Niveles 3 y 4 y de las Herramientas del Centro Experto (en ESAC) de los datos obtenidos por el satélite SMOS, de la Agencia Espacial Europea (ESA).
+
+   - Jefe de Proyecto de SPECTRO3D, para el diseño de un sistema de análisis de datos de espectroscopía 3D, conjuntamente con la Universidad Complutense de Madrid.
+
+   - Colaboración en el proyecto SAFE, del ESA Earth Observation (EO) Payload Data Ground Systems (PDGS) Evolution Program, para el desarrollo de un estandar de diseminación de datos, dentro del marco del Long-Term Data Preservation Program.
+
+   - Colaboración en el proyecto EarthCARE, del ESA Earth Observation (EO) Payload Data Ground Systems (PDGS) Evolution Program.
+
+ + 2005–2015 :: Miembro del Comité CMMI de GMV, y del Grupo de Trabajo de Alta Madurez para CMMI ML 4 y 5.
+
+   - 2009: CMMI® Appraisal Team Member en el Standard CMMI® Appraisal for Process Improvement (SCAMPI), en GMV, S.A. (evaluación de cumplimiento de GMV con el CMMI Maturity Level 4 y 5): como resultado GMV alcanzó CMMI ML 5.
+
+   - 2005: CMMI® Appraisal Team Member en el Standard CMMI® Appraisal for Process Improvement (SCAMPI), en GMV, S.A. (evaluación de cumplimiento de GMV con el CMMI Maturity Level 3): como resultado GMV alcanzó CMMI ML 3.
+
+ + 2005–2009 :: Ingeniero de Proyecto en los Elementos de Galileo OSPF (Orbitography and Synchronisation Processing Facility) e IPF (Integrity Processing Facility), en la División Galileo.
+
+   - Miembro del OSPF Real-Time Monitoring & Control System V1B Integration Team.
+
+   - Responsable del subsistema OSPF AF ODTS (Orbit Determination and Time Synchronization).
+
+   - Responsable de los Interfaces Externos de los Elementos OSPF e IPF en el Segmento de Tierra del Sistema Galileo.
+
+ + 2004-2005 :: Ingeniero de Proyecto en GMV S.A., dentro del proyecto EGNOS ASQF.
+
+ + 2004 :: Ingeniero de Proyecto en GMV S.A. (Unidad de Defensa), dentro del proyecto ASTA-Eurofighter, para EADS-CASA, trabajando desplazado en las instalaciones de EADS-Deutschland en Manching, Ingolstadt (Alemania).
+
+ + 2003 :: Ingeniero de Proyecto en GMV S.A., trabajando desplazado en las instalaciones de EADS-CASA en Getafe, Madrid, en el marco del proyecto Interim Training, para el Eurofighter.
+
+ + 2003-2004 :: Ingeniero de Proyecto en el marco de proyecto TERESA2 (MSTRUP), para ESA.
+
+ + 2003 :: Ingeniero de Proyecto en GMV S.A., dentro del proyecto ASTA-Eurofighter, para EADS-CASA.
+
+ + 2001-2003 :: Ingeniero de Proyecto en el proyecto EGNOS CPF-PS, responsable de la implementación, integración y validación del algoritmo de sincronización de tiempos.
+
+*** 1997-2000 - Max-Planck-Institut für Physik (Munich)
+
+Estudios de doctorado en el diseño, viabilidad y prestaciones del telescopio MAGIC (Major Advanced Gamma-ray Imaging Cerenkov).  Responsable de la simulación del telescopio (actualmente existen dos telescopios MAGIC en el Observatorio del Roque de los Muchachos, en La Palma, Islas Canarias).
+
+*** 1995-1996 - Depto. de Física Atómica, Molecular y Nuclear de la Facultad de CC. Físicas, Univ. Computense de Madrid
+
+Becas predoctorales en el marco del proyecto “Contributions to Delphi and HEGRA”. 
+
+Profesor ayudante de laboratorio de física.
+
+*** 1988-1990 - I.M.S. Ibérica S.A.
+
+Freelance, Responsable del Depto. de Ofimática, trabajando para I.M.S. Ibérica S.A. (del Dun & Bradstreet Corp., actualmente IMS Health). Desarrollo de aplicaciones para gestión de bases de datos y realización de análisis de mercado e informes de ventas de productos farmaceúticos.
+
+** Publicaciones y Contribuciones a Conferencias Internacionales
+
+La lista muestra los artículos y contribuciones más importantes.
+
+ - Blanch O., *González J.C.*, Kornmayer H., /“Detailed Monte Carlo studies for the MAGIC telescope”/, in Proc. «27th International Cosmic-Rays Conference», Hamburg, Ago. 2001.
+
+ - Cortina J., *González J.C.*, /“The cosmic electron background in low energy imaging atmospheric Cherenkov telescopes: effect of the geomagnetic field”/, Astroparticle Physics, 15 (2001) 203-210.
+
+ - *González J.C.*, Mirzoyan R., /“The Energy Resolution of the MAGIC Telescope”/, in D. Kieda, M. Salamon and B. Dingus, eds., Proc. «26th International Cosmic-Rays Conference», Salt-Lake City, vol. 5, pp. 199-202, Ago. 1999.
+
+ - *González J.C.* et al., /“Comparison between HEGRA and RXTE ASM data from Mkn 501”/, in Proc. of the «VI Workshop Towards a Major Atmospheric Cherenkov Detector», Snowbird, Ago. 1999.
+
+ - *González J.C.* et al., /“Monte-Carlo Studies for The MAGIC Telescope Project”/, in O.C. De Jager, ed., Proc. of the «IV Workshop Towards a Major Atmospheric Cherenkov Detector», Krüger Nat. Park, pp. 422-432, Ago. 1997.
+
+ - *González J.C.* et al., /“Simulation of the MAGIC Telescope”/, Monte Carlo analisys chapter in J.A. Barrio et al., «The MAGIC Technical Proposal», Nov. 1997.
+
+** Trabajos dirigidos
+
+ - /“Estudio de cascadas atmosféricas iniciadas por rayos gamma cósmicos a alto ángulo cenital”/, por Aitor Ibarra, Trabajo de Investigación Pre-doctoral,
+Co-directores: J. C. González & V. Fonseca, Dept. Física Atómica, Molecular y Nuclear, Fac. Ciencias Físicas, Universidad Complutense de Madrid, 1999.
+
+** Cursos Impartidos
+
+ - Curso de C Avanzado, del 4 al 6 de marzo de 2008 (12h), en GMV Aerospace and Defence, S.A.
+
+ - Curso de C Avanzado, del 14 al 16 de junio de 2011 (10h), en GMV Aerospace and Defence, S.A.
+
+ - Curso de Estadística Básica, 18 de enero de 2012 (4h), en GMV Aerospace and Defence, S.A.
+
+** Charlas y Conferencias
+
+ - GMV: Today's Projects for Tomorrow's World, 4 de marzo de 2010, charla a alumnos de doctorado, Sala de Grados, Facultad de Informática, Universidad Complutense de Madrid.
+
+** Intereses, aficiones y más
+
+Los intereses de J. C. González son múltiples y variados: desde el desarrollo de software de alta criticidad, de gran calidad y rendimiento, métodos de análisis estadístico, pasando por la astrofísica, la física teórica, la topología, los sistemas complejos y caóticos, hasta la antropología, la historia de las religiones y corrientes de pensamiento, y la psicología social y cultural.  Lo que le mueve es fundamentalmente la necesidad de aprender cosas nuevas.
+
+Sus aficiones más destacadas son la lectura (ciencia ficción, fantasía, pero también ensayos científicos relacionados con la matemática o la física, psicología y antropología), la cocina, el cine y la fotografía.
+
+Es creador y editor del blog Ciencia en sí misma ([[www.jcgonzalez.org/cienciaensimisma]]), en el que incluye periódicamente noticias de campos científicos diversos, muy especialmente de astrofísica.
+ 
+

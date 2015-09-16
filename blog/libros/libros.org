@@ -1,0 +1,19 @@
+#+TITLE: Cómo escribo...
+#+DATE: <2015-04-28 ma.>
+#+AUTHOR: J. C. Gonzalez
+#+EMAIL: jcg@jcgonzalez.org
+
+#+SETUPFILE: webconfig.inc
+#+SETUPFILE: config.inc
+
+* Cómo escribo...
+:PROPERTIES:
+:ID:       9A516404-FDDB-4F10-97CA-9F5D6ED0C835
+:PUBDATE:  <2015-07-08 Wed 00:04>
+:END:
+
+Este pequeño blog es una especie de diario acerca de la manera en la
+que afronto la escritura de mi siguiente novela.  Ello no deja de ser
+una breve narración de una esperiencia vital, por lo que me gusta
+pensar que quizá le resulte útil a alguien.
+

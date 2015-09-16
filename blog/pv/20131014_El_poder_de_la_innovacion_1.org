@@ -1,0 +1,41 @@
+#+SETUPFILE: webconfig.inc
+#+KEYWORDS: innovación,sit
+* El poder de la innovación (I)
+  :PROPERTIES:
+  :ID:       94AF703C-90C0-437D-9F41-B851FE14C810
+  :PUBDATE:  <2015-07-08 Wed 00:04>
+  :END:
+
+/Publicado: 14 octubre 2013, 22:50/
+
+/No hemos sido los primeros, pero seremos los mejores, porque la innovación es lo que distingue a un líder de los demás./
+
+Esta cita, de Steve Jobs resume a mi juicio una de las verdades más sencillas que existen en el mundo de la industria y la empresa, y en realidad en muchas otras facetas de la vida: la capacidad de innovación es lo que marca la diferencia entre una persona o una compañía líder y los demás.
+
+** Las bondades de la innovación
+   :PROPERTIES:
+   :ID:       1A0F0CA2-2CA5-4134-A2B6-5EBA0BF76868
+   :END:
+
+Es fácil aportar argumentos a esta visión. En primer lugar, la innovación en sí misma es una respuesta del individuo o la compañía a la necesidad de anticiparse al mercado, a los usuarios, y a sus competidores. Incorporándo estrategias y planteamientos que impliquen una apuesta por la innovación aumenta este acto casi reflejo de anticipación ante los demás.
+
+Por otro lado, la innovación es una herramienta potentísima para el descubrimiento de nuevos negocios, productos, servicios e incluso nichos de mercado. En este caso, la innovación permite no sólo responder con mejores productos o servicios, sino también ser los primeros en definirlos e implantarlos.
+
+En tercer lugar, la innovación, entendida como creación o modificación de algo, resulta estimulante a la mayoría de los seres humanos. Dicho de otra forma: introducir en las empresas los mecanismos adecuados para que cualquiera de los empleados pueda aportar sus mejoras al statu quo ya existente, hace que se perciba una cierta atención por parte de la capa de alta gestión hacia el resto de la plantilla, lo cual actúa de manera muy positiva.
+
+** La innovación, elemento imprescindible
+   :PROPERTIES:
+   :ID:       DB41BD65-51FB-4E80-88FA-2C1E8ED43EDE
+   :END:
+
+Hasta aquí, hemos visto por qué la innovación es buena. La pregunta es: ¿es imprescindible? Y la respuesta, a mi juicio, es que sí. El entorno en el que se mueve una compañía se ve sometido a una evolución cada vez más rápida evolución del entorno, lo que unido a las exigencias de los clientes, la creciente competencia y la reducción de márgenes, hacen imprescindible la innovación como recurso para conseguir una mejor posición en el mercado. El no apostar por la innovación en una compañía hace que ésta, sin duda, se encuentre condenada a quedar desfasada. Resulta evidente: si siempre haces lo mismo y de la misma manera el resultado será siempre igual; si los demás mejoran sus procesos o productos, sus resultados serán mejores que el tuyo; pero si algo hace que tus procesos se vean afectados, probablemente tus resultados empeorarán. Conclusión: sin innovación una compañía se verá abocada, tarde o temprano, al fracaso.
+
+Aún reconociendo las bondades y la necesidad de la innovación, pocos directivos tienen idea de cómo sacarle partido: en una encuesta realizada por la prestigiosa consultora Arthur D. Little entre un panel de casi setecientos directivos globales, menos de uno entre cuatro creen que han aprendido el arte de obtener valor de negocio de la innovación.
+
+En próximos artículos exploraremos el mundo de la innovación, de cómo gestionarla y explotarla, así como su relación con la mejora continua.
+
+
+
+
+
+#+TITLE: El poder de la innovación (I)

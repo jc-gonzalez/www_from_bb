@@ -1,0 +1,40 @@
+#+SETUPFILE: webconfig.inc
+
+* Incrustando Python en C++
+
+Me encanta navegar por la red buscando trucos nuevos de programación, incluso en lenguajes que no domino.  Hoy he encontrado dos joyitas, la primera de las cuales detallo brevemente en esta entrada de blog.  Se trata de la manera de incrustar la ejecución de scripts de *Python* en programas en *C++*.
+
+Como es obligado, incluyo el programa "Hello World!" de ejemplo de marras.
+
+#+BEGIN_SRC C++ -n
+#include <Python.h>
+int main(int argc, char *argv[])
+{
+    Py_Initialize();
+    PyRun_SimpleString("print 'Hello world!'");
+    Py_Finalize();
+    return 0;
+}
+#+END_SRC
+
+Para compilar este código hay que saber dónde está nuestra instalación Python.  Yo uso [[https://store.continuum.io/cshop/anaconda/][Anaconda]] de /Continuum Analytics Inc./.  De esta manera, en mi caso la compilación la realizo de esta forma:
+
+#+BEGIN_SRC sh
+$ g++ main.cpp -o main $(/opt/anaconda/bin/python-config --cflags --ldflags)
+#+END_SRC
+
+Una vez compilado y enlazado, comprobamos que el programa hace lo que se espera de él:
+
+#+BEGIN_SRC sh
+$ ./main
+Hello world!
+#+END_SRC
+
+En fin, esto me abre un mundo de posibilidades.
+
+
+
+
+
+
+#+TITLE: Incrustando Python en C++

@@ -1,0 +1,26 @@
+#+SETUPFILE: config.inc
+
+* Libros
+
+** Noctis Labyrinthus
+:PROPERTIES:
+:CUSTOM_ID: NoctisLab
+:END:
+
+Acabo de publicar mi primera novela, *[[http://www.amazon.com/Noctis-Labyrinthus-Spanish-J-Gonz%C3%A1lez/dp/8460678741/ref=sr_1_1?ie=UTF8&qid=1429954774&sr=8-1&keywords=noctis+labyrinthus][Noctis Labyrinthus]]*.
+
+[[./img/NL.jpg]]
+
+La vida profesional de Nathaniel Kielczy se ve truncada por un accidente. Decidido a rehacer su mundo huyendo de los fantasmas de su pasado, deberá sin embargo poner todos sus conocimientos, ingenio y habilidades al servicio de un bien superior que se presagia imposible: salvar a la Humanidad de la destrucción.
+
+En tapa blanda y e-book.
+
+Puedes ver la ficha en [[http://www.amazon.com/Noctis-Labyrinthus-Spanish-J-Gonz%C3%A1lez/dp/8460678741/ref=sr_1_1?ie=UTF8&qid=1429954774&sr=8-1&keywords=noctis+labyrinthus][Amazon]].
+
+- Cómo escribí /Noctis Labyrinthus/ :: Estoy recopilando en una serie de artículos mi experiencia en la creación de esta novela.  Lamentablemente, lo he pensado a posteriori, por lo que no se trata de algún tipo de diario ni nada parecido, sino más bien un registro de toda la experiencia, tal y como la he vivido y recuerdo.  Podéis encontrar este conjunto de artículos en esta [[./blog/libros/nl.org][página]].
+
+** Mi próxima novela
+
+Llevo ya un tiempo dándole vueltas a la historia de mi próxima novela.  Como en la anterior, la idea lleva madurándose en mi cabeza desde hace bastante tiempo.  Pero ha llegado la hora de darle una forma más o menos definitiva, y de atacar de nuevo el folio en blanco.
+
+Si quieres seguir mis altos y bajos en este nuevo viaje, puedes hacerlo en esta [[./blog/libros/libros.html][página]].

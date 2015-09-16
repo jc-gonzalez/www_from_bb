@@ -1,0 +1,39 @@
+#+SETUPFILE: config.inc
+
+* Arte
+
+Quizá titular esta sección con “Arte” pueda resultar presuntuoso... pero el título era corto, y conveniente.  En cualquier caso, son pequeñas obras que he ido haciendo a lo largo de los años.  Es posible que artísticamente no sean gran cosa, pero desde luego siempre he puesto lo mejor de mí en ellos.
+
+Y pintar me relaja un montón...
+
+** The city 
+
+#+CAPTION: The City - Óleo sobre lienzo
+#+NAME:   fig:TheCity
+[[./img/Arte_TheCity.jpg]]
+
+** Mariví
+
+#+CAPTION: Mariví - Plumilla y pastel sobre cartulina marmolada
+#+NAME:   fig:Marivi
+[[./img/Arte_Marivi.jpg]]
+
+** Atardecer
+
+#+CAPTION: Atardecer - Acrílico sobre doble lienzo
+#+NAME:   fig:Atardecer
+[[./img/Arte_Atardecer.jpg]]
+
+** Cielo y tierra
+
+#+CAPTION: Cielo y Tierra - Acrílico sobre lienzo
+#+NAME:   fig:CieloYTierra
+[[./img/Arte_Cielo_y_Tierra.jpg]]
+
+** Ayer, hoy, mañana
+ 
+#+CAPTION: Ayer, hoy, mañana - Acrílico sobre lienzo
+#+NAME:   fig:AyerHoyManana
+[[./img/Arte_Ayer-hoy-manana.jpg]]
+
+

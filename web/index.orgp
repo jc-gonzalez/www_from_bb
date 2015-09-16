@@ -1,0 +1,18 @@
+#+TITLE: J. C. Gonzalez Personal Web Site
+#+DATE: [2015-06-24 Wed]
+#+AUTHOR: J. C. Gonzalez
+#+EMAIL: jcg@jcgonzalez.org
+
+#+SETUPFILE: ./webconfig.inc
+
+
+#+INCLUDE: inicio.org       :minlevel 1
+#+INCLUDE: cv.org           :minlevel 1
+#+INCLUDE: articulos.org    :minlevel 1
+#+INCLUDE: software.org     :minlevel 1
+#+INCLUDE: arte.org         :minlevel 1
+#+INCLUDE: libros.org       :minlevel 1
+#+INCLUDE: blogs.org        :minlevel 1
+#+INCLUDE: estado.org       :minlevel 1
+#+INCLUDE: acercade.org     :minlevel 1
+

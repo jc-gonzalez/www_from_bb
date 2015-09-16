@@ -1,0 +1,56 @@
+#+TITLE: Primum vivere
+#+DATE: <2015-04-28 ma.>
+#+AUTHOR: J. C. Gonzalez
+#+EMAIL: jcg@jcgonzalez.org
+
+#+SETUPFILE: webconfig.inc
+#+SETUPFILE: config.inc
+
+* Primum vivere
+:PROPERTIES:
+:ID:       108D55DF-5737-43C3-BF6A-9032C360BFAA
+:PUBDATE:  <2015-07-08 Wed 00:04>
+:END:
+
+En este blog incluyo pequeños artículos sobre liderazgo, creatividad, innovación, y gestión de proyectos.  Espero que os resulten interesantes.
+
+#+INCLUDE: 20140320_I3_Creatividad.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20140320_I3_Creatividad.html][ver más...]])
+
+
+#+INCLUDE: 20131110_Ser_un_lider_1.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20131110_Ser_un_lider_1.html][ver más...]])
+
+
+#+INCLUDE: 20131022_El_poder_de_la_innovacion_2_SIT.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20131022_El_poder_de_la_innovacion_2_SIT.html][ver más...]])
+
+
+#+INCLUDE: 20131014_El_poder_de_la_innovacion_1.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20131014_El_poder_de_la_innovacion_1.html][ver más...]])
+
+
+#+INCLUDE: 20130801_Liderazgo_militar_1.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20130801_Liderazgo_militar_1.html][ver más...]])
+
+
+#+INCLUDE: 20130801_El_buen_diseno.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20130801_El_buen_diseno.html][ver más...]])
+
+
+#+INCLUDE: 20130508_Arrancamos.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20130508_Arrancamos.html][ver más...]])

@@ -1,0 +1,14 @@
+#+SETUPFILE: webconfig.inc
+
+* ¡Arrancamos!
+
+Esta es la obligada entrada cero de este nuevo blog sobre cositas de programación.  Comenzamos.
+
+
+
+
+
+
+
+
+#+TITLE: ¡Arrancamos!

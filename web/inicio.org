@@ -1,0 +1,31 @@
+* Inicio
+
+#+attr_html: :width 10% :style position: absolute; left: -5px;
+[[./img/JCpalma.jpg]]
+
+** Bienvenidos
+
+Hola, me llamo José Carlos.  Soy astrofísico por la Facultad de Ciencias Físicas de la Universidad Complutense de Madrid.  Realicé estudios de doctorado entre 1995 y 1997 en el Grupo de Altas Energías, en el Departamento de Física Atómica, Molecular y Nuclear, y después en el Instituto Max Planck de Física de Munich, en Alemania, donde fui responsable de la simulación y la prueba de concepto del Telescopio MAGIC (Major Advanced Gamma-ray Imaging Cherenkov Telescope); actualmente existen dos de estos telescopios en el Observatorio del Roque de los Muchachos, en la isla de La Palma, en las Islas Canarias.
+
+Llevo trabajando en desarrollo de software desde 1988, donde comencé a la edad de 18 años como autónomo, desarrollando programas de ofimática de gestión de bases de datos, para la empresa IMS Health, dentro del mercado farmacéutico.
+
+He trabajado durante catorce años en la compañía GMV Aerospace and Defence, S.A., donde he estado involucrado en varios proyectos de software crítico, como el sistema EGNOS para la aumentación de GPS en Europa; o el simulador ASTA para el caza de combate Eurofighter; o la capa de control y monitorización de tiempo real, o el sistema de sincronización de relojes y determinación de órbitas, dentro del Sistema Galileo.  Desde 2009 hasta 2015 he formado parte del equipo de la División de Sistemas de Ciencia, y en la actualidad de la División de Payload Data Processing, donde he sido jefe de proyecto y he colaborado en proyectos como el procesado, analisis y diseminación de datos de varias misiones de la Agencia Espacial Europea ([[http://www.esa.int/ESA][ESA]]). 
+
+También he pertenecido, desde 2005 hasta 2015, al Comité CMMI de GMV, cuya labor es la de monitorizar y mejorar los procesos de calidad dentro de la empresa.  En el ámbito de CMMI, he actuado como evaluador en las campañas para la certificación de GMV como poseedora de CMMI Maturity Level 3 (en 2005), y CMMI Maturity Level 5 (en 2010).  En los últimos años formé parte del grupo de CMMI Alta Madurez de GMV.
+
+En la actualidad estoy vinculado a la compañía *Telespazio Vega UK*, y trabajo en el *Centro Europeo de Astronomía Espacial* ([[http://www.esa.int/About_Us/ESAC/][ESAC]]) de la ESA.  Formo parte del equipo de la misión EUCLID, dentro del sistema de análisis QLA.
+
+Mis intereses son múltiples, aunque mis inclinaciones son claramente hacia ámbitos científicos y tecnológicos.
+
+Me interesa el desarrollo de software de alta criticidad, de gran calidad y rendimiento, los métodos de análisis estadístico, la astrofísica, la física teórica, la topología, y los sistemas complejos y caóticos.
+
+Me interesa también la antropología, la historia de las religiones y corrientes de pensamiento, y la psicología social y cultural.  Del mismo modo, todo lo que últimamente se está avanzando acerca del cerebro y la mente llama mi atención.
+
+Yo diría que lo que le mueve es fundamentalmente la necesidad de aprender cosas nuevas.
+
+¿Mis aficiones? La lectura (ciencia ficción, fantasía, pero también ensayos científicos relacionados con la matemática o la física, psicología y antropología), la cocina, el cine y la fotografía.  Y últimamente también escribir en alguno de mis blogs o algún tipo de relato (acabo de publicar una pequeña [[#NoctisLab][novela de ciencia ficción]]).
+
+Muchas gracias por visitar esta página web. Aunque, como suele pasar con todas las páginas personales, se encuentra permanentemente en construcción.
+
+
+

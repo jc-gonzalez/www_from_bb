@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Cómo escribí: Noctis Labyrinthus</title>
+<!-- 2015-09-15 Tue 22:29 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="J. C. Gonzalez" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="../../css/styles/bigblow/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="../../css/styles/bigblow/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="../../css/styles/bigblow/css/hideshow.css"/>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/bigblow.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/hideshow.js"></script>
+<script type="text/javascript" src="../../css/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<link rel="alternate" type="application/rss+xml"
+                href="http://www.jcgonzalez.org/jcg/blog/libros/nl.xml"
+                title="RSS blogs feed">
+</head>
+<body>
+<div id="preamble" class="status">
+<div class="header"></div>
+</div>
+<div id="content">
+<h1 class="title">Cómo escribí: Noctis Labyrinthus</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">Cómo escribí: Noctis Labyrinthus</a>
+<ul>
+<li><a href="#sec-1-1"><span class="todo TODO">TODO</span> Mis primeros royalties</a></li>
+<li><a href="#sec-1-2"><span class="todo TODO">TODO</span> Autopublicación</a></li>
+<li><a href="#sec-1-3"><span class="todo TODO">TODO</span> Maquetando</a></li>
+<li><a href="#sec-1-4"><span class="timestamp-wrapper"><span class="timestamp">[2015-08-31 lun]</span></span> La portada</a></li>
+<li><a href="#sec-1-5"><span class="timestamp-wrapper"><span class="timestamp">[2015-08-30 lun]</span></span> Revisiones</a></li>
+<li><a href="#sec-1-6"><span class="timestamp-wrapper"><span class="timestamp">[2015-07-13 lun]</span></span> Se vislumbra el final</a></li>
+<li><a href="#sec-1-7"><span class="timestamp-wrapper"><span class="timestamp">[2015-07-07 mar]</span></span> La historia manda</a></li>
+<li><a href="#sec-1-8"><span class="timestamp-wrapper"><span class="timestamp">[2015-07-04 sáb]</span></span> Ritmo variable</a></li>
+<li><a href="#sec-1-9"><span class="timestamp-wrapper"><span class="timestamp">[2015-06-25 jue]</span></span> Seguimiento del progreso del libro</a></li>
+<li><a href="#sec-1-10"><span class="timestamp-wrapper"><span class="timestamp">[2015-06-23 mar]</span></span> Estructura de la novela</a></li>
+<li><a href="#sec-1-11"><span class="timestamp-wrapper"><span class="timestamp">[2015-06-21 dom]</span></span> ¡He publicado una novela!</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><a id="ID-80E229F8-E0F7-4FA1-8177-34863428599B" name="ID-80E229F8-E0F7-4FA1-8177-34863428599B"></a>Cómo escribí: Noctis Labyrinthus</h2>
+<div class="outline-text-2" id="text-1">
+
+<p>
+Este pequeño blog es una especie de registro de cómo escribí <i>Noctis Labyrinthus</i>.
+</p>
+
+<p>
+De momento los artículos de esta novísima sección están por escribir, pero he querido al menos incluir los títulos con una doble motivación: primero, dar a conocer al lector lo que iré incluyendo; y segundo, para que me sirvan a mí mismo de recordatorio de todo lo que quiero incluir.  Como los artículos que aquí aparezcan lo harán ordenados siguiento un criterio de antigüedad creciente en cuanto a su contenido, así aparecen ahora los títulos de los artículos vacíos.
+</p>
+</div>
+
+<div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1"><a id="ID-87A6AB41-6B59-4E44-B7A3-4786B8F0250F" name="ID-87A6AB41-6B59-4E44-B7A3-4786B8F0250F"></a><span class="todo TODO">TODO</span> Mis primeros royalties</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+</div>
+
+<div id="outline-container-sec-1-2" class="outline-3">
+<h3 id="sec-1-2"><a id="ID-D551C789-CF2F-4AAE-AD58-B0E98F25B8C0" name="ID-D551C789-CF2F-4AAE-AD58-B0E98F25B8C0"></a><span class="todo TODO">TODO</span> Autopublicación</h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+</div>
+
+<div id="outline-container-sec-1-3" class="outline-3">
+<h3 id="sec-1-3"><a id="ID-E5B3AA03-7D5F-4ABB-A3B5-609E641F1E31" name="ID-E5B3AA03-7D5F-4ABB-A3B5-609E641F1E31"></a><span class="todo TODO">TODO</span> Maquetando</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+</div>
+
+<div id="outline-container-sec-1-4" class="outline-3">
+<h3 id="sec-1-4"><a id="ID-DF197E0C-E49D-44BF-A40F-89E1DB1CC389" name="ID-DF197E0C-E49D-44BF-A40F-89E1DB1CC389"></a><span class="timestamp-wrapper"><span class="timestamp">[2015-08-31 lun]</span></span> La portada</h3>
+<div class="outline-text-3" id="text-1-4">
+
+<p>
+Había visto que para autopublicarse uno mismo un libro (ahondaré en ello en un artículo posterior), además de contar con los servicios de publicación de alguna entidad o empresa, era necesario al menos realizar una maquetación de la obra, así como el diseño de una portada y contraportada.  Todo esto podía a su vez ser subcontratado a terceros, o ser realizado por uno mismo.  Y evidentemente, cualquiera que me conozca sabe que opté por esta segunda opción.
+</p>
+
+<p>
+No quiero entrar en detalles acerca del diseño de la portada.  Pero sí contaré una anécdota acerca del diseño final.  Por diversas razones, que no vienen a cuento, el diseño final de la portada no era enteramente satisfactorio para mí.  Era más o menos como había pensado, pero le faltaba algo.  No tenía mucha idea de lo que era.  Intenté meterle, con las típicas aplicaciones de corrección de imágenes, varias capas con luces, introducir algún tipo de textura, y cosas así.  Nada.  No conseguía lo que quería.
+</p>
+
+<p>
+Tras un par de días sin tocar la portada (seguía trabajando en el texto del libro, que aún no estaba concluído del todo), se me ocurrió una cosa al llegar a casa.  Ese día iba a estar solo por una hora o así, ya que no había salido tarde del trabajo, y quien iba a recoger a los niños al cole era mi mujer.  Así que cogí un folio en blanco, y unas ceras de colores (creo que unos marrones, rojo, naranja, negro, y no sé si incluso azul o morado), y me puse a dibujar más o menos el paisaje que se ve en la portada, pero con trazos irregulares y a toda velocidad.  No tardé en concluir mi obra ni cinco minutos.  Tras observar que podía haber conseguido lo que perseguía, escaneé el folio, e incluí la imagen resultante como nueva capa en la imagen de la portada.  La mezclé adecuadamente y <i>voilá!/</i>  Funcionó.  La rugosidad del dibujo de las ceras hizo que la imagen de la portada adquiriese la textura irregular que yo deseaba.  Apenas la toqué posteriormente.
+</p>
+
+<p>
+Como comentario final, señalar que semanas después de la publicación, comenté varios temas acerca del libro con un amigo.  Y me dijo que hacía tiempo, él había leído una serie de consejos para hacer una portada atractiva al público.  Y que la mía cumplía con todos ellos.  Aquello me puso realmente muy contento: aunque mi éxito editorial se quedase en un puñado de amigos, siempre podía decir que mi portada cumplía con ciertos criterios de éxito reconocidos.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-5" class="outline-3">
+<h3 id="sec-1-5"><a id="ID-94610489-B787-4F80-8D41-BAE90DB8E900" name="ID-94610489-B787-4F80-8D41-BAE90DB8E900"></a><span class="timestamp-wrapper"><span class="timestamp">[2015-08-30 lun]</span></span> Revisiones</h3>
+<div class="outline-text-3" id="text-1-5">
+
+<p>
+Tras un período de vacaciones (cortas, como todas las vacaciones), continúo con mi relación abreviada de la experiencia de escribir "Noctis Labyrinthus".
+</p>
+
+<p>
+Cuando quedaban un par de capítulos para el final, más o menos, pasé a revisión lo que llevaba escrito a un grupo de buenos amigos.  Ya había pedido a mi hermana y mi mujer que perdiesen algo de su tiempo en leer los primeros capítulos de la novela, para que me contasen qué les parecía el cariz de la misma, el tempo, etc.  En esas primeras revisiones les solicité que se olvidasen totalmente de correcciones gramaticales, de ortografía, etc., ya que con posterioridad se realizarían ese tipo de análisis en el texto en repetidas ocasiones.  Y la aceptación fue bastante buena.
+</p>
+
+<p>
+Como digo, cuando quedaba poco para el final pasé lo que llevaba escrito a unos amigos.  Los comentarios fueron más que positivos, lo cuál me produjo una satisfacción increíble, como cualquiera puede suponer.  Evidentemente también hubo comentarios críticos, y alguno negativo relativo a algún aspecto concreto o detalle del manuscrito.  Pero era precisamente por ello que le había solicitado esta revisión a estas personas: porque sabía que si algo no les gustaba, me lo iban a decir.  Y como esperaba, no me fallaron.
+</p>
+
+<p>
+A continuación de la recepción de los comentarios, era habitual que casi cada día me preguntasen, medio en broma, medio en serio, que si había terminado ya.  Me decían que estaban deseando que concluyese por fin el libro, para poder leerlo completamente.  Y aquellas bromas, aquellas peticiones, ellos lo saben bien, se lo agradezco profundamente, porque me dieron la fuerza y el empujón que necesitaba al final para finalizarlo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-6" class="outline-3">
+<h3 id="sec-1-6"><a id="ID-1AEE07AB-A0D4-4E65-8D6B-63ED93424CB2" name="ID-1AEE07AB-A0D4-4E65-8D6B-63ED93424CB2"></a><span class="timestamp-wrapper"><span class="timestamp">[2015-07-13 lun]</span></span> Se vislumbra el final</h3>
+<div class="outline-text-3" id="text-1-6">
+
+<p>
+Por muy poco que se avance cada día, si continuamos poco a poco escribiendo una historia, lo natural es que en algún momento lleguemos al final.  En efecto, a partir de cierto punto, ya podía saborear el final de mi novela.
+</p>
+
+<p>
+En ese punto, sin embargo, me ocurrió algo curioso.  Tenía ya en la cabeza cuál sería el final de la historia.  Y sentí la necesidad de escribir el final.  No fue por simple impaciencia, no.  Era una manera de establecer un horizonte, de determinar claramente cual era el ámbito de desarrollo de lo que restaba de novela.  Y, por qué no decirlo, una forma de evitar que la novela tomase las riendas de la historia: algo así como decirle "aquí mando yo".
+</p>
+
+<p>
+A la postre, creo que me precipité ligeramente.  El final, tras releerlo tranquilamente, creo que resulta ligeramente abrupto.  Pero eso son lecciones aprendidas para el futuro.
+</p>
+
+<p>
+En definitiva: en realidad, quien mandaba era la novela&#x2026;
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-7" class="outline-3">
+<h3 id="sec-1-7"><a id="ID-775C44C3-4EED-4D34-A73D-08DA49F83CBA" name="ID-775C44C3-4EED-4D34-A73D-08DA49F83CBA"></a><span class="timestamp-wrapper"><span class="timestamp">[2015-07-07 mar]</span></span> La historia manda</h3>
+<div class="outline-text-3" id="text-1-7">
+
+<p>
+Una de las cosas más curiosas que me ha pasado mientras escribía mi novela ha sido descubrir que a partir de cierto momento en la redacción del primer borrador era la historia misma y no yo quien decidía el camino que el relato había de seguir.  Era de lo más intrigante y a la vez apasionante: yo había decidido que en determinado momento la historia debía orientarse de determinada manera, pero al llegar ahí descubría que lo que la historia demandaba era desarrollarse por otro lado, analizar determinado hilo adyacente, o detenernos en ciertos aspectos que a priori pensaba que eran irrelevantes.
+</p>
+
+<p>
+Había leído y escuchado hablar a algún escritor, incluso personajes ya consagrados, acerca de sus historias como de entes vivos, que tenían personalidad propia.  No sé si dotarle de tal a la mía, pero lo que si es cierto es que he experimentado cierta resistencia a la hora de conducir el argumento por ciertos derroteros que yo deseaba, mientras que se apreciaba una mayor facilidad al continuar por otras vías, como si la novela misma te ayudase, te empujase a continuar por ahí.
+</p>
+
+<p>
+Ha sido sorprendente y muy interesante.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-8" class="outline-3">
+<h3 id="sec-1-8"><a id="ID-58BA3B95-1936-4EB1-B27A-C9AC84846DD2" name="ID-58BA3B95-1936-4EB1-B27A-C9AC84846DD2"></a><span class="timestamp-wrapper"><span class="timestamp">[2015-07-04 sáb]</span></span> Ritmo variable</h3>
+<div class="outline-text-3" id="text-1-8">
+
+<p>
+Como puede haber deducido cualquiera que me conozca un poco, el objetivo de escribir todos los días unas 200 palabras pronto se reveló ciertamente utópico.  Por un lado, había días que me ponía a escribir y de una tirada hacía 500 palabras, o incluso 1000.  Eso es bueno.  Pero otros días, por mucho que me sentase frente a mi Emacs, no había nada en mi cerebro que se inclinase hacia la redacción novelística.  Y eso es malo.
+</p>
+
+<p>
+Aún más: en ocasiones, durante días, semanas enteras, bien por cansancio, bien por distracción, o bien por no saber realmente cómo seguir, no era capaz ni siquiera de ponerme frente al texto que tenía entre manos.  Y eso es peor.
+</p>
+
+<p>
+En la figura donde muestro una gráfica realizada a partir de los datos registrados de progreso diario se puede apreciar perfectamente cómo el progreso se quedaba estancado durante días, semanas y a veces meses enteros.
+</p>
+
+<p>
+El período más largo de inactividad, no obstante, coincidió con unas semanas de intensa actividad en lo laboral.  Estabamos intentando desarrollar un compañero y yo lo que sería a la postre una semilla de un futuro producto para nuestra compañía.  Ésta había sido una empresa orientada a proyectos.  Pero en el nuevo mercado en el que se movía la tendencia era a la utilización de productos ya consolidados, ajustados a las necesidades de cada cliente.  Bien, ese no era nuestro caso, al menos en el ámbito en el que mi departamento se movía.  Y mi jefe por aquel entonces, amigo mío de toda la vida por cierto, y yo mismo, habíamos identificado una ventana de oportunidad clarísima, y un retorno de inversión para el desarrollo de un nuevo producto bastante prometedor.  La alta dirección de la compañía carecía de la visión necesaria en aquel entonces para valorar esta opción, por lo que nos lanzamos un compañero y yo (apoyados de cerca por mi jefe directo) a la creación de un prototipo funcional, una prueba de concepto, con el fin de demostrar a nuestra dirección que lo que decíamos tenía fundamento.  Este período de excitación a nivel laboral conllevó un parón en la redacción del primer borrador de mi novela.
+</p>
+
+<p>
+(¿Que cómo terminó la historia?  Terminó con la declaración de "proyecto de máxima prioridad" de nuestra semilla de producto, pero la asignación de un total de cero personas y cero horas para el desarrollo del producto, por lo que en la práctica ello significó que nada de lo diseñado por mí y mi colega se llevó a la práctica; se perdió la ventana de oportunidad, y yo tuve la gran suerte de poder abandonar la compañia por un puesto en el Centro Europeo de Astronomía Espacial de la Agencia Espacial Europea.)
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-9" class="outline-3">
+<h3 id="sec-1-9"><a id="ID-322F9D7A-3330-4449-B1E2-1F082E79ED8D" name="ID-322F9D7A-3330-4449-B1E2-1F082E79ED8D"></a><span class="timestamp-wrapper"><span class="timestamp">[2015-06-25 jue]</span></span> Seguimiento del progreso del libro</h3>
+<div class="outline-text-3" id="text-1-9">
+
+<p>
+En un artículo anterior mencioné que establecí un número de páginas objetivo para el conjunto de la novela.  Pues bien, para monitorizar el progreso del libro, posteriormente convertí este número de páginas en número mínimo de palabras; para ello estudié el número de palabras por página con diferentes tipografías y tamaños de letra, y escogí un valor promedio.  Con ello, llegué al objetivo final de un número mínimo de palabras para mi novela.
+</p>
+
+<p>
+La idea de utilizar el número de palabras para controlar el avance de la novela se basaba en dos premisas: la primera, que seguramente no conseguiría escribir todos los días (por falta de tiempo, de ganas, de energías, etc.); la segunda, que aunque era probable que muchas veces me pusiera a escribir y completase un gran número de páginas, había de establecer una cantidad mínima que me animase a escribir siquiera ese poco.  Pensé que el mínimo sería un par de párrafos o así, así que establecí de nuevo ese límite de manera arbitraria en unas 200 palabras.  Es decir, mi intención era forzarme a escribir todos los días al menos 200 palabras.  Y dado que el límite quedaba establecido en un determinado número de palabras, parecía natural establecer ese control del progreso en palabras.  Posteriormente podría convertir más o menos el número de palabras a número de paginas, e incluso a número estimado de capítulos.
+</p>
+
+<p>
+He de reconocer que ls idea de llevar un control del progreso de mi libro la adopte tras leer un artículo en uno de mis blogs favoritos, NOOP.nl, de Jurgen Appelo.  El artículo,  "<a href="http://noop.nl/2009/10/how-i-track-progress-on-my-book.html">How I track progress on my book</a>", de 2009, trataba de cómo el autor llevaba un control del progreso de su libro (un libro sobre management, muy bueno por cierto, de más de 300 páginas).  Cuando lo lei me encantó, y en esencia seguí su método, con ligeras variaciones.  En la imagen siguiente puede verse el aspecto de la tabla que he utilizado para controlar el progreso de mi libro.
+</p>
+
+
+<div class="figure">
+<p><img src="../../img/NL_progress.png" alt="NL_progress.png" />
+</p>
+<p><span class="figure-number">Figure 1:</span> Tabla de seguimiento de la extensión de cada capítulo</p>
+</div>
+
+<p>
+Como complemento a esta tabla, cada día que escribía registraba la cantidad de palabras que llevaba.  De esta manera en poco tiempo pude comenzar a realizar estimaciones acerca de mi progreso futuro, y comparar esas estimaciones con la fecha deseada de conclusión.  En la siguiente figura se aprecia un diagrama con los datos registrados durante la escritura del libro, y una proyección de los mismos para la estimación de la fecha de finalización.
+</p>
+
+
+<div class="figure">
+<p><img src="../../img/NL_progress_graph.png" alt="NL_progress_graph.png" />
+</p>
+<p><span class="figure-number">Figure 2:</span> Gráfica con los datos de progreso diario</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-1-10" class="outline-3">
+<h3 id="sec-1-10"><a id="ID-361B651F-4739-42FD-BB67-BDF86F737AFF" name="ID-361B651F-4739-42FD-BB67-BDF86F737AFF"></a><span class="timestamp-wrapper"><span class="timestamp">[2015-06-23 mar]</span></span> Estructura de la novela</h3>
+<div class="outline-text-3" id="text-1-10">
+
+<p>
+Cuando me decidí a escribir la novela que más o menos tenía en la cabeza, lo primero que me planteé fue: ¿existe alguna manera de estructurar la novela de manera que resulte más atractiva?
+</p>
+
+<p>
+Tras investigar un poco (y hay que recordar que en esto de escribir soy un verdadero ignorante), descubrí que no hay una única manera.  Lo sospechaba.  De hecho, hay muchas maneras, y aquello me complicaba un poco la vida.
+</p>
+
+<p>
+Sin embargo, en un par de lugares leí que una manera de mantener la atención del lector es estructurar la novela en secciones o partes, y sincronizar los momentos de crisis de la novela con los finales de cada sección.  De esta manera se estimula al lector a continuar leyendo, de manera que pueda descubrir la forma en que se resuelve cada crisis.
+</p>
+
+<p>
+Antes de continuar, necesitaba definir un objetivo para la extensión de la novela.  Sí, lo sé, quizá no es lo más ortodoxo.  Algunos me diréis que la novela es algo vivo, que ella misma define si aún queda relato o no.  Y tenéis razón.  Pero me conozco, y necesitaba un objetivo definido y cuantificable.  De hecho, el reo que había establecido interiormente durante las navidades de 2013 fue del estilo de "escribir con una de las historias que tengo en la cabeza una novela de al menos X páginas".  De manera que establecí un número de páginas mínimo, de manera absolutamente arbitraria.
+</p>
+
+<p>
+Una vez establecido un número de páginas objetivo, calculé cuántos capítulos podría introducir, a partir de un número medio aproximado de páginas por capítulo.  Mi idea era hacer los capítulos relativamente cortos.  De esta forma establecí un número de capítulos aproximado a priori de entre 11 y 12.
+</p>
+
+<p>
+A continuación, estudié la manera de encajar las diferentes etapas de la novela en cada capítulo, intentando cuadrar los momentos de mayor climax como antesala de cada sección.
+</p>
+
+<p>
+A los lectores resta juzgar si el resultado de tantas cuentas valió la pena.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-11" class="outline-3">
+<h3 id="sec-1-11"><a id="ID-25B41EB6-73E5-422E-B3FB-2118D4AB368E" name="ID-25B41EB6-73E5-422E-B3FB-2118D4AB368E"></a><span class="timestamp-wrapper"><span class="timestamp">[2015-06-21 dom]</span></span> ¡He publicado una novela!</h3>
+<div class="outline-text-3" id="text-1-11">
+
+<p>
+Hace unos dos meses desde que publiqué mi primera novela.  Llevaba mucho tiempo rumiándola.  La verdad es que tenía tres o cuatro ideas, y al final desarrollé una de ellas.
+</p>
+
+<p>
+Hace tres años más o menos intenté empezar a escribir algo, como propósito de Año Nuevo.  Y como corresponde a la tradición, lo abandoné antes siquiera de empezar.  Al año siguiente ni me lo planteé.  No, no es que abandonase la idea.  Era simplemente una&#x2026; replanificación estratégica.
+</p>
+
+<p>
+El año pasado, sin embargo, me propuse firmemente afrontar la tarea que seguía teniendo ahi, en la parte posterior del cerebelo, picándome constantemente como un gusanito fastidioso.  Aquella voluntad se vio reforzada por la escasa motivación que me acompañaba en mis tareas profesionales&#x2026;  pero esto es harina de otro costal; mejor será tratar en otro lado este tema de la <a href="../pv/20150701_Motivacion.html">motivación</a>.
+</p>
+
+<p>
+Así que establecí un pequeño esquema de trabajo, una planificación y un método de monitorización de mi progreso (en los siguientes artículos explicaré brevemente cada de estos elementos), y me puse manos a la obra.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'jcgonzalezorg';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<div class="footer">
+<table bordeer="0" cellpadding="0">
+<tr><td><a href="https://es.linkedin.com/in/jcglez"><img src="../../img/linkedin.jpg"/></a></td>
+<td><a href="https://twitter.com/JoseCGlezGcia"><img src="../../img/twitter.jpg"/></a></td>
+<td><a href="https://www.google.com/+JCGonzalezGcia"><img src="../../img/googleplus.jpg"/></a></td>
+<td><a href="http://www.jcgonzalez.org/jcg/blog/libros/nl.xml"><img src="../../img/rss.png" width="24px"/></a></td>
+<td style="width:30%"></td>
+<td>Copyright 2015 J. C. Gonzalez <a href="mailto:jcg@jcgonzalez.org">jcg@jcgonzalez.org</a> - Last updated 2015-08-31 Mon 10:38 <br>
+Built with Emacs 24.5.1 - Org mode 8.2.10 - (<a href="http://validator.w3.org/check?uri=referer">Validate</a> HTML)</td></tr></table>
+</div>
+</div>
+</body>
+</html>

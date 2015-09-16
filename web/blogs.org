@@ -1,0 +1,29 @@
+#+SETUPFILE: config.inc
+
+* Blogs
+
+** Ciencia en sí misma
+
+ [[http://www.jcgonzalez.org/cienciaensimisma][Ciencia en sí misma]] es un blog donde incluyo noticias de índole científico, por su relevancia o bien por su interés particular.  No pretende ser un blog exhaustivo, ni completo.  Pretendo simplemente mostrar las noticias que a mi juicio, personal y subjetivo, pueden ser del interés para todo el mundo (no sólo investigadores), y que por su naturaleza, su especificidad, o por su carencia de potencial especulativo, no encuentran cabida en los medios de masas habituales.
+
+[[./img/cesm.png]]
+
+Al blog puede accederse a través de este enlace: [[http://www.jcgonzalez.org/cienciaensimisma][Ciencia en sí misma]].
+
+** Primum Vivere
+
+[[./blog/pv/pv.html][Primum vivere]] es un blog donde intento plasmar reflexiones y experiencias propias acerca del Liderazgo, la Innovación y la Creatividad.  No pretende ser nada exhaustivo ni tener capacidad académica, pero me alegrará saber si le ha servido de ayuda a alguien.
+
+Al blog puede accederse a través de este enlace: [[./blog/pv/pv.html][Primum vivere]].
+
+** La sana curiosidad
+
+[[./blog/lsc/lsc.html][La sana curiosidad]] es un blog donde intento incluir curiosidades que me encuentro aquí y allá.
+
+[[./img/lsc.png]]
+
+Al blog puede accederse a través de este enlace: [[./blog/lsc/lsc.html][La sana curiosidad]].
+
+** Y el bit se hizo
+
+Mi nuevo blog, "[[./blog/yebsh/yebsh.html][Y el bit se hizo]]", estará orientado puramente al mundo del software.

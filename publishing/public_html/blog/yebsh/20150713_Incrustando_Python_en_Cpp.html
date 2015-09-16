@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Incrustando Python en C++</title>
+<!-- 2015-07-18 Sat 11:35 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="J.C.González" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="../../css/styles/bigblow/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="../../css/styles/bigblow/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="../../css/styles/bigblow/css/hideshow.css"/>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/bigblow.js"></script>
+<script type="text/javascript" src="../../css/styles/bigblow/js/hideshow.js"></script>
+<script type="text/javascript" src="../../css/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<link rel="alternate" type="application/rss+xml"
+                href="http://www.jcgonzalez.org/jcg/blog/yebsh/yebsh.xml"
+                title="RSS blogs feed">
+</head>
+<body>
+<div id="preamble" class="status">
+<div class="header"></div>
+</div>
+<div id="content">
+<h1 class="title">Incrustando Python en C++</h1>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1">Incrustando Python en C++</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Me encanta navegar por la red buscando trucos nuevos de programación, incluso en lenguajes que no domino.  Hoy he encontrado dos joyitas, la primera de las cuales detallo brevemente en esta entrada de blog.  Se trata de la manera de incrustar la ejecución de scripts de <b>Python</b> en programas en <b>C++</b>.
+</p>
+
+<p>
+Como es obligado, incluyo el programa "Hello World!" de ejemplo de marras.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-C++"><span class="linenr">1: </span>#include &lt;Python.h&gt;
+<span class="linenr">2: </span>int main(int argc, char *argv[])
+<span class="linenr">3: </span>{
+<span class="linenr">4: </span>    Py_Initialize();
+<span class="linenr">5: </span>    PyRun_SimpleString("print 'Hello world!'");
+<span class="linenr">6: </span>    Py_Finalize();
+<span class="linenr">7: </span>    return 0;
+<span class="linenr">8: </span>}
+</pre>
+</div>
+
+<p>
+Para compilar este código hay que saber dónde está nuestra instalación Python.  Yo uso <a href="https://store.continuum.io/cshop/anaconda/">Anaconda</a> de <i>Continuum Analytics Inc.</i>.  De esta manera, en mi caso la compilación la realizo de esta forma:
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh">$ g++ main.cpp -o main $(/opt/anaconda/bin/python-config --cflags --ldflags)
+</pre>
+</div>
+
+<p>
+Una vez compilado y enlazado, comprobamos que el programa hace lo que se espera de él:
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh">$ ./main
+Hello world!
+</pre>
+</div>
+
+<p>
+En fin, esto me abre un mundo de posibilidades.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'jcgonzalezorg';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<div class="footer">
+<table bordeer="0" cellpadding="0">
+<tr><td><a href="https://es.linkedin.com/in/jcglez"><img src="../../img/linkedin.jpg"/></a></td>
+<td><a href="https://twitter.com/JoseCGlezGcia"><img src="../../img/twitter.jpg"/></a></td>
+<td><a href="https://www.google.com/+JCGonzalezGcia"><img src="../../img/googleplus.jpg"/></a></td>
+<td><a href="http://www.jcgonzalez.org/jcg/blog/yebsh/yebsh.xml"><img src="../../img/rss.png" width="24px"/></a></td>
+<td style="width:30%"></td>
+<td>Copyright 2015 J.C.González <a href="mailto:jcg@jcgonzalez.org">jcg@jcgonzalez.org</a> - Last updated 2015-07-13 Mon 15:15 <br>
+Built with <a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10) - (<a href="http://validator.w3.org/check?uri=referer">Validate</a> HTML)</td></tr></table>
+</div>
+</div>
+</body>
+</html>

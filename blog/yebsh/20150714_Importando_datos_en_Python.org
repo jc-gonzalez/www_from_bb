@@ -1,0 +1,74 @@
+#+SETUPFILE: webconfig.inc
+
+* Importando datos en Python
+
+El otro día nos surgió la siguiente duda.  De la misma manera que uno puede abrir cierto tipo de ficheros con aplicaciones a las que se encuentre asociado ese tipo de ficheros (p.ej. ficheros de datos en CSV asociados a Microsoft Excel), ya sea haciendo dole click en un navegador de ficheros o a través de menús contextuales (del estilo de "Abrir con..."), ¿sería posible asociar un determinado tipo de fichero para se abra en una sesión de consola Python, para realizar con esos datos cualquier tipo de cálculo que deseemos?  La respuesta sabíamos que era sí, pero no sabíamos muy bien cómo hacerlo.
+
+La solución que encontré fue la siguiente.  Para fijar ideas, supongamos que queremos leer ficheros CSV.  Estoy trabajando en un sistema Linux Ubuntu 14.04 LTS, pero el procedimiento es equivalente en otros sistemas.
+
+Lo primero es crear el lector de datos.  En nuestro caso la lectura la podemos realizar así:
+
+#+BEGIN_SRC python
+from numpy import genfromtxt
+    
+dataset = genfromtxt(csvFile, delimiter=',')
+#+END_SRC
+
+Con esto nos aseguramos la lectura de los datos de un fichero cuyo nombre está en la variable =csvFile=.  Ahora bien, siempre que ejecutemos esto, los datos se cargarán siempre en una variable con el nombre =dataset=.  Vamos a darle algo que carácter.  Vamos a hacer que el nombre de la variable donde se carguen los datos varíe con el nombre del fichero.  Una forma de hacerlo es
+
+#+BEGIN_SRC python
+import os
+import sys
+from os.path import basename
+    
+csvFile = sys.argv[1]
+datasetName = os.path.splitext(basename(csvFile))[0]
+#+END_SRC
+
+Con esto creamos un nombre de variable idéntico al del fichero, pero sin el /path/ y sin la extensión.  De esta forma, si =csvFile= vale =/home/pepe/data/mydata201508.csv=, el valor de la variable =datasetName= (y por tanto el nombre de nuestra futura variable con los datos leídos) será =mydata201508=.
+
+Ahora nos queda juntar las dos partes.  Además, no queremos solamente que se ejecute un script en Python cuando seleccionemos un fichero CSV; queremos que se ejecute (que lea el fichero), y además que nos deje la consola abierta para trabajar.
+
+Nuestro mini-script Python final es el siguiente (en mi sistema uso *Anaconda*, instalado en =/opt=).:
+
+#+BEGIN_SRC python -n
+#!/opt/anaconda/bin/ipython -i
+
+import os
+import sys
+from numpy import genfromtxt
+from os.path import basename
+    
+csvFile = sys.argv[1]
+datasetName = os.path.splitext(basename(csvFile))[0]
+evalCmd = datasetName + " = genfromtxt(csvFile, delimiter=',')"
+exec(evalCmd)
+print "Dataset " + datasetName + " loaded."
+#+END_SRC
+
+Hemos completado la mitad del puzle.  La otra mitad es conseguir asociar los ficheros .CSV con este script.  Una manera rápida de hacerlo (exclusiva de mi sistema Linux) es crear el siguiente fichero en =~/.local/share/applications/=, con el nombre que deseemos, con la extensión =.desktop=.  En mi caso, =readCSV.desktop=:
+
+#+BEGIN_SRC sh
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=gnome-panel-launcher
+Exec=/home/jcgonzalez/ws/python/call_and_get_data/readCSV.py %F
+Name[en_US]=readCSV into ipython
+Name=readCSV into ipython
+Icon=gnome-panel-launcher
+#+END_SRC
+
+De esta manera, tendremos una aplicación llamada =readCSV= en nuestro menú contextual de "Abrir con...", a la que podremos asociar los ficheros CSV.  Al abrir uno con este script, se nos abre una sesión interactiva de Python (=ipython= en mi caso), con los datos cargados en memoria, y mostrando un mensaje con el nombre de la variable leída.
+
+#+caption: Selección de fichero CSV y de aplicación a usar para abrirlo
+[[../../img/step4a.png]]
+
+#+caption: Sesión ipython abierta con los datos importados
+[[../../img/step4b.png]]
+
+
+#+TITLE: Importando datos en Python

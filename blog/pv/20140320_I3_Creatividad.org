@@ -1,0 +1,73 @@
+#+SETUPFILE: webconfig.inc
+#+KEYWORDS: creatividad
+* I³ - Creatividad
+  :PROPERTIES:
+  :ID:       B1872574-638A-4AC4-A144-1EA0A472C273
+  :PUBDATE:  <2015-07-08 Wed 00:04>
+  :END:
+
+/Publicado: 20 marzo 2014, 06:09 - Categorías: Creatividad  - Comentarios: 2/
+
+La Creatividad es algo fascinante. La Creatividad es un misterio que poco a poco está siendo estudiado más y más. Este estudio está permitiendo vislumbrar algunos de los mecanismos que se activan, de forma consciente o inconsciente, en el cerebro humano. Todavía queda mucho por conocer; apenas hemos arañado la superficie de un vasto campo de conocimiento. Y sin embargo, por poco que conozcamos, por poco que vayamos descubriendo acerca de algunos de los enigmas que la Creatividad esconde, sabemos que la repercusión que estos descubrimientos pueden tener en la forma de abordar los diferentes problemas de nuestra vida será enorme.
+
+Unos de los primeros misterios que intentamos dilucidar es: ¿cuáles son las componentes fundamentales de la Creatividad? ¿Existe algún aspecto más relevante que otros que sea capaz de dar explicación a las diferencias que aparecen entre diferentes seres humanos a la hora de echar mano de la Creatividad? A mi juicio, existen en efecto tres vertientes básicas, tres componentes casi equivalentes en importancia, y que determinan el potencial creativo de una persona. Estas tres componentes son la Inteligencia, la capacidad de Innovación, y la Intuición. A esta factorización de la Creatividad en estas tres componentes es a lo que me refiero cuando hablo de I³.
+
+Este artículo es el primero de una serie que se centrará en el análisis de los diferentes elementos que dan conforman cada uno de estas componentes, así como en la comparativa cualitativa de todos ellos a la hora de poner a trabajar nuestra creatividad. Por el momento, describamos brevemente cada una de estas componentes.
+
+** Inteligencia
+   :PROPERTIES:
+   :ID:       0AAFDCE1-7E53-428C-BAC3-8A1A42D4936E
+   :END:
+
+La Inteligencia (con mayúsculas) tiene gran conjunto de elementos particulares, es un componente poliédrico de nuestra personalidad. Con ello me refiero a que existen muchos tipos de inteligencias, siendo cada una de ellas una visión particular, la proyección de esa Inteligencia humana en un determinado ámbito de la vida. El diccionario de la RAE define la inteligencia (en sus acepciones 1 y 2) como la capacidad de entender o comprender, o de resolver problemas. En una definición algo más amplia, podríamos decir que es la capacidad de pensar, entender, asimilar y elaborar información, con el fin de utilizarla para resolver problemas. En esta última definición se hace referencia implícita a la relación que la inteligencia posee con funciones cerebrales elementales como la percepción y la memoria. Para completar el cuadro elemental, digamos que etimológicamente la palabra inteligencia tiene su origen en el término latino “inteligere”, compuesto de “intus” (entre) y “legere” (escoger), de manera que su traducción libre sería algo como “capacidad de elección”. Este significado evidentemente no está en contradicción con lo que hoy en día se entiende por inteligencia, ya que para poder escoger esa “capacidad de elección” es necesario primero un análisis del problema y su entorno, y una manera de resolución del problema en términos de selección de alguna de sus posibles soluciones.
+
+Sin embargo, como decía antes, en la actualidad se piensa que existen diferentes tipos de inteligencia. Quizá el exponente más claro de esta visión sea el neuropsicólogo Howard Gardner, que planteó en los 1980 su teoría de las inteligencias múltiples, según la cual cada persona posee varios tipos de inteligencia, desarrolladas en mayor o menor medida: musical, cinético-corporal, lógico-matemática, lingüística, espacial, interpersonal e intrapersonal. Cada individuo, por medio de influencias culturales y diferentes ambientes sociales, desarrolla unas más que otras. La principal de las críticas que se le hace a este tipo de teorías es la de que algunas de esas “inteligencias” en realidad se referirían a “habilidades” o “destrezas”. Otra aproximación al intento de aprehender qué es la inteligencia lo dio Robert Sternberg, que estableció tres categorías de inteligencia en su teoría triárquica: inteligencia componencial-analítica (la capacidad de planificación y ejecución de planes), inteligencia experiencial-creativa (la capacidad de asimilación de elementos novedosos) e inteligencia contextual-práctica (conducta adaptativa para con el mundo real). Finalmente, no podemos dejar de citar la inteligencia emocional, que tan famoso ha hecho al psicólogo Daniel Goleman, a pesar de que fueros otros los que años antes de su famoso libro acuñaron el término. Sea como fuere, y dejando aparte los diferentes elementos o parcelas en las que podemos categorizar la inteligencia humana, parece claro que existen varias vertientes complementarias, y que en efecto existen varios tipos de inteligencia.
+
+** Innovación
+   :PROPERTIES:
+   :ID:       5783966C-5AE6-4B95-B9EC-354BAFAEB40A
+   :END:
+
+La capacidad de Innovación se relaciona con el potencial que posee cada ser humano para hallar respuestas novedosas a problemas tanto nuevos como ya conocidos. Pero además, tiene una vertiente eminentemente práctica e incluso comercial. De hecho, aunque existen muchas definiciones (tengo conocimiento más de 20 definiciones), las más extendidas podrían resumirse en el siguiente enunciado: la innovación es la creación de un nuevo producto o proceso, o la modificación de uno ya existente, y su introducción efectiva en el mercado. Finalmente, si deseamos un punto de vista más teórico, menos mercantilista, podríamos decir que la innovación es el arte de conjugar elementos ordinarios con novedosos, tales como la experiencia, el conocimiento, medios técnicos o tecnologías para llegar a un resultado nuevo que nos dé un valor superior. Es la manera de conjugar esos elementos, confiriendo al resultado ese valor extra, lo que enlaza la Innovación con la Creatividad.
+
+** Intuición
+   :PROPERTIES:
+   :ID:       572C2790-A55A-4E3D-ABE8-A8877CCC3BE2
+   :END:
+
+Finalmente, el tercer componente de la Creatividad a mi juicio es la Intuición. La Intuición podría describirse como la facultad de comprender las cosas al instante sin necesidad de razonamiento. En este sentido, permite la adquisición de conocimiento por vías no racionales, de manera directa y en general autoevidente. De manera coloquial se la asimila a los presentimientos, aunque esto, como recalcan los científicos, no quiere decir que tenga relación con experiencias mágicas o paranormales. Al contrario, se intenta explicar cómo el producto de procesos mentales a los cuales aún no sabemos acceder mediante la conciencie. Según esto, algún día, en un futuro no muy lejano, hallaremos las razones exactas para dichos fenómenos.
+
+Los científicos están comenzando a tener indicios de que la intuición puede ser más efectiva que los modelos de elección racional. Parece quedar fuera de duda el que las decisiones instintivas son eficaces. Y ahora, algunos sostienen que a veces pueden serlo mucho más que una elección racional. La razón podría estar en la evolución: nuestro cerebro ha sido entrenado durante miles de años, de manera que las decisiones intuitivas adecuadas habrían ido acumulándose en una especie de libro de instrucciones al que recurrimos ante cada situación y en el que hallamos respuestas rápidas y precisas. Tendríamos en nuestros cerebros, en nuestros genes, una enciclopedia de “heurísticas”. Una heurística ignora información, y esto es lo que acelera la toma de decisión en la situación adecuada. En nuestra vida cotidiana, a menudo nos regimos más por estas reglas generales que por lo que solía llamarse racional.
+
+Para mí, el reconocimiento de la Intuición como fuente de conocimiento en términos similares al del análisis racional es uno de los grandes avances de la ciencia del siglo XXI.
+
+En definitiva, sería la convolución de estos tres grandes componentes, la Inteligencia, la Innovación y la Intuición, lo que daría su naturaleza a lo que hemos dado en llamar proceso creativo. En artículos posteriores desarrollaremos argumentos que expliquen aún más el papel que juega cada uno de ellos, e intentaremos dar una visión de las interdependencias que existen.
+
+(Éste y otros artículos podrán consultarse también desde el grupo de LinkedIn I³ Creatividad )
+
+
+
+------
+
+** Comentarios
+   :PROPERTIES:
+   :ID:       0DCFD58C-B5AB-4F24-982C-F944B1E9EAD3
+   :END:
++ Edu Tapias [2014-04-05] ::
+
+Jose Carlos, me gusta tu articulo, te felicito, creo que has hecho una descripcion muy acertada de lo que es la creatividad, tan importante en nuestros dias.
+
+Para mi el ser creativo es un ser que se lo trabaja, lo desarrolla, tiene ciertas componentes innatas que ayudan en mayor o menor medida. Efectivamente hay muchos tipos de inteligencia, y se ha demostrado que la inteligencia es plastica y se reduce y dilata a lo largo de nuestra vida asi que depende que cada uno de nosotros el ser màs o menos inteligentes. Al igual que la capacidad de innovacion que depende que tu actitud frente al mundo y las preguntas que te hagas y como te las hagas. O la intuicion que para mi es la capacidad de comunicacion con tu inconsciente, de formularle preguntas y comprender sus respuestas.
+
+Segun Alex Rovira y que yo comparto: para CREAR es necesario: primero CREER: en ti y en el resto, SABER: adquirir los conocimientos necesarios , PODER hacerte con las capacidades, herramientas y medios necesarios que te permitan abordar el problema… y por fin CREAR …pero con el fin de LEGAR algo mejor a los que vienen detràs …
+
+Un abrazo.
+  - JC [2014-04-21] ::
+
+Muchas gracias, Edu. Desde luego, comparto totalmente esa dualidad de introspección que conlleva el proceso creativo, junto con el fin de legado del mismo.
+
+Un abrazo.
+
+
+
+#+TITLE: I³ - Creatividad

@@ -1,0 +1,20 @@
+#+SETUPFILE: webconfig.inc
+
+* ¡Arrancamos!
+  :PROPERTIES:
+  :ID:       F178993A-3F1B-4902-8B14-060C3224B2AE
+  :PUBDATE:  <2015-07-08 Wed 00:04>
+  :END:
+
+/Publicado 8 mayo 2013, 07:26/
+
+En este blog pretendo hablar de una multitud de temas, todos relacionados, pero a su vez relativamente independientes. En este sentido, este es un blog cajón desastre. Pero son temas que me interesan, y sobre los que permanentemente estoy intentando aprender y reflexionar. Y, bueno, me apetecía plasmar mis reflexiones en un blog. Pues bien, aquí está. Veremos si a la larga esto tiene algún sentido para alguien más.
+
+Pretendo tratar temas como la gestión de equipos y proyectos, la gestión del tiempo, el liderazgo y la estrategia dentro de las empresas. Ni que decir tiene que soy prácticamente un profano en todas estas materias, pero estoy muy interesado en ampliar mis conocimientos, así que este blog debe tomarse más como un cuaderno de notas. Con ello lo que pretendo decir dos cosas:
+
+    - sed indulgentes, y
+    - cualquier comentario es mas que bienvenido.
+
+Por último, gracias de nuevo por pasarte por aquí. Espero que vuelvas pronto.
+
+#+TITLE: ¡Arrancamos!

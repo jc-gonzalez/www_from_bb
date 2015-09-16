@@ -1,0 +1,43 @@
+#+SETUPFILE: webconfig.inc
+#+KEYWORDS: innovación,sit
+* El poder de la innovación (II): experimentos con Systematic Inventive Thinking
+  :PROPERTIES:
+  :ID:       25EA967D-C368-4260-960F-10CEDBD144BD
+  :PUBDATE:  <2015-07-08 Wed 00:04>
+  :END:
+
+/Publicado: 22 octubre 2013, 22:07 - Comentarios: 1/
+
+En el anterior artículo, planteé ciertos argumentos a favor de la innovación. Es casi seguro que todos compartimos estas ideas. Pero no dejaban de mostrar un punto de vista teórico. En este artículo narraré una experiencia eminentemente práctica que se está produciendo estos días.
+Inquietud por la innovación
+
+En la compañía en que trabajo (que desarrolla proyectos y productos de ingeniería de software para el sector aeroespacial, fundamentalmente) poseemos múltiples canales para el aporte de sugerencias, de ideas de negocio, y de mejora continua en general. Pero, además, existe una inquietud por encontrar vías nuevas de innovación, el deseo continuo de hallar formas nuevas de mejorar los productos y servicios que la compañía ofrece.
+
+Como muestra de todo ello, está en marcha en la casa un experimento acerca de la posible utilización de técnicas de Systematic Inventive Thinking. De todos son conocidos conceptos tales como brainstorming, pensamiento lateral, y otros relacionados, dentro del mundo de la innovación y la creatividad. La premisa que subyace a todos ellos es que un gran flujo de ideas, aunque desordenado, puede dar lugar a soluciones para los problemas planteados. Pero en los últimos 20 años, este paradigma ha sido puesto en entredicho por otra manera de aproximarse a la creación de ideas innovadoras. La denominada Teoría de la Resolución Inventiva de Problemas (Theory of Inventive Problem Solving, o TIPS, en sus siglas en inglés) proclama que las ideas innovadoras obtenidas como solución de múltiples problemas, las verdaderamente creativas, comparten cierto tipo de patrones. Es más, de acuerdo con sus tesis, un gran flujo de ideas, generado como producto de una de las técnicas tradicionales, no asegura la obtención de una solución realmente adecuada. Y lo que es más importante en el ámbito de la innovación, las soluciones encontradas no serían particularmente innovadoras o creativas. El argumento dado por los creadores y defensores de esta teoría es que precisamente el esfuerzo de pensar más allá del entorno del problema real, la abstracción que se propugna desde las técnicas tradicionales, llevan al individuo a desenfocar el problema, y a su cerebro a divagar de manera poco productiva. Las técnicas de Systematic Inventive Thinking, derivadas del TIPS, abogan por una estrategia diferente.
+Principios del Systematic Inventive Thinking
+
+La metodología de Systematic Inventive Thinking intenta analizar los productos o servicios ya existentes, con el fin de encontrar nuevos e innovadores productos o servicios, o incluso abrir nuevos mercados. Tiene en su fundamento dos principios basicos novedosos. El primero es usar los elementos de lo que se denomina el Closed World, entendido como el entorno inmediatamente adyacente al sistema en estudio. De esta forma, restringiéndonos a este entorno cerrado, ayudamos al cerebro a enfocarse en los recursos disponibles, y le forzamos a buscar resultados innovadores. El segundo se plasma en la frase Function Follows Form: significa dejar de seguir la estrategia tradicional (partir de un problema, para buscar una solución) para comenzar con una solución conceptual, virtual, y tratar de encontrar los problemas que resuelve. Abstracto como podría parecer esto, el Systematic Inventive Thinking se traduce en una serie de patrones que los investigadores han encontrado en gran cantidad de soluciones innovadoras estudiadas, en multiples campos del conocimiento, de la industria, y otros.
+
+A partir de los patrones identificados, los investigadores han creado una serie de procedimientos sencillos, mediante los cuales sería posible definir nuevos productos o servicios innovadores a partir de otros ya existentes. Es decir, se pueden llegar a productos o servicios innovadores siguiendo una serie de pasos bien definidos. De ahí el término systematic.
+Experimentos con Systematic Inventive Thinking
+
+Con todo esto en mente, nos planteamos la posibilidad de aplicar estas técnicas a los productos de la casa. Evidentemente, el esfuerzo requerido para ello debería ser justificable: no podíamos embarcarnos en un análisis como éste a ciegas, sin saber si finalmente íbamos a llegar a buen puerto. Por ello, se pensó en la ejecución de dos experimentos, dos tests para evaluar la capacidad del método, cada uno con un producto de la casa, y que servirían para poner a prueba las técnicas involucradas en casos prácticos. En base a los resultados de ambos experimentos, se decidiría acerca de la posibilidad de institucionalizar algún proceso de innovación que incluyese las técnicas de Systematic Inventive Thinking.
+
+Uno de los dos experimentos ya ha sido realizado, con aceptables resultados. Algunas de las soluciones innovadoras encontradas durante la ejecución del experimento ya habían sido contempladas por el equipo del producto, en general como respuesta a necesidades del cliente. Otras, aún habiendo sido vislumbradas en algún momento, se han desvelado, mediante la estricta aplicación de las técnicas SIT, como productos o servicios innovadores bastante prometedores. Aún es necesario ejecutar el segundo experimento, analizar los hallazgos que en él se encuentren, y establecer conclusiones. En un próximo artículo comentaré cuál es el resultado final y las conclusiones a que llegamos.
+
+
+
+
+------
+** Comentarios
+   :PROPERTIES:
+   :ID:       276C40C3-994F-4497-97CD-210E63DBBD69
+   :END:
+
+- Teo [2013-10-23] ::
+
+Que idea tan buena, espero que tengáis mucha suerte y que de buenos resultados.
+
+
+
+#+TITLE: El poder de la innovación (II)

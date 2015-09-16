@@ -1,0 +1,11 @@
+#+SETUPFILE: config.inc
+
+* Contacto
+
+#+attr_html: :width 10% :style position: absolute; left: -5px;
+[[./img/JC4.jpg]]
+
+Si desea contactar conmigo, puede hacerlo a través de la dirección de correo [[mailto:jcg@jcgonzalez.org][jcg@jcgonzalez.org]].
+
+También puede contactar conmigo a través de mi perfil en [[http://es.linkedin.com/in/jcglez][LinkedIn]]
+

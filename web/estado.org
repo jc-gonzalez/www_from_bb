@@ -1,0 +1,27 @@
+#+SETUPFILE: config.inc
+
+* Estado
+
+#+attr_html: :width 10% :style position: absolute; left: -5px;
+[[./img/JC2.png]]
+
+Si pudiera resumir en un puñado de palabras mis actividades actuales, sería algo así:
+
+- leyendo :: Estoy releyendo la serie /Espacio Revelación/ de [[https://en.wikipedia.org/wiki/Alastair_Reynolds][Alastair Reynolds]].  Me encantan estos libros.  De todas formas, tengo en parrilla uno que me recomendaron encarecidamente hace muy poco, [[https://es.wikipedia.org/wiki/El_marciano][The Martian]] de [[https://en.wikipedia.org/wiki/Andy_Weir_%28writer%29][Andy Weir]], que parece que es bastante bueno.  Como nota adicional, Ridley Scott estrenará la versión cinematográfica a finales de este año.
+
+- escribiendo :: Hace poco he publicado mi primera novela.  Y ya tengo en la cabeza algo de la siguiente.  Veremos cuanto tiempo me lleva escribirla...
+
+- escuchando :: En mi línea, música relajante a veces, algo más cañera otras.
+
+- hackeando :: Ahora estoy jugando un poco con [[https://www.docker.com/][Docker]].  En segundo plano, intento echar un vistazo a OCaml, y alguna cosilla más.
+
+- estudiando :: En estos momentos estoy intentando empaparme de temas relacionados con la [[https://en.wikipedia.org/wiki/Dark_energy][energía oscura]], por motivos profesionales.
+
+- diseñando :: Bueno, de momento nada.  No, espera: estoy pensando en poner un molino de viento hecho con una botella para ahuyentar a los topos, que alguno hay por el huerto...
+
+- viendo :: El otro día comencé a ver una nueva serie en la TV, [[http://www.imdb.com/title/tt3155320/][Extant]], con Halle Berry como protagonista.  Veremos qué tal evoluciona, de momento me ha dejado un poco frío.
+
+- esperando :: Que llegue ya el buen tiempo de manera definitiva y sobre todo las vacaciones.
+
+- deseando :: Que llegue el fin de semana para irnos a disfrutar de nuestra casita de campo, y ver qué tal sigue nuestro huerto.
+

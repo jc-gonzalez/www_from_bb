@@ -1,0 +1,18 @@
+#+SETUPFILE: config.inc
+
+* Acerca de ...
+
+#+attr_html: :width 10% :style position: absolute; left: -5px;
+[[./img/JC4.jpg]]
+
+** Sobre este sitio web
+
+Este sitio web está realizado enteramente (salvo las imágenes) mediante el uso de ficheros de texto plano, gestionados y escritos con el editor/entorno *Emacs*, y la ayuda del modo *Org*.  Es un primer intento de tener todo mi material web en ficheros de texto sencillos, y en un systema que me permite la incorporación de nuevos artículos, páginas y secciones de manera increíblemente sencilla.
+
+** Contacto
+
+Si desea contactar conmigo, puede hacerlo a través de la dirección de correo [[mailto:jcg@jcgonzalez.org][jcg@jcgonzalez.org]].
+
+También puede contactar conmigo a través de mi perfil en [[http://es.linkedin.com/in/jcglez][LinkedIn]], en [[https://www.google.com/+JCGonzalezGcia][Google+]], o a través de mi cuenta en [[https://twitter.com/JoseCGlezGcia][Twitter]] ([[https://twitter.com/JoseCGlezGcia][@josecglezgcia]]).
+
+

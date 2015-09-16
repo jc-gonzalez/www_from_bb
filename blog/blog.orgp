@@ -1,0 +1,12 @@
+#+TITLE: J. C. Gonzalez Blogs
+#+DATE: <2015-04-28 ma.>
+#+AUTHOR: J. C. Gonzalez
+#+EMAIL: jcg@jcgonzalez.org
+
+#+SETUPFILE: ./webconfig.inc
+
+#+INCLUDE: pv/pv.org        :minlevel 1
+#+INCLUDE: lsc/lsc.org      :minlevel 1
+#+INCLUDE: libros/libros.org  :minlevel 1
+#+INCLUDE: libros/nl.org  :minlevel 1
+#+INCLUDE: yebsh/yebsh.org  :minlevel 1

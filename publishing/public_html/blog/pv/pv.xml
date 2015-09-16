@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+    <title>(Primum vivere)</title>
+    <atom:link href="http://www.jcgonzalez.org/pv.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.jcgonzalez.org/</link>
+    <description><![CDATA[]]></description>
+    <language>en</language>
+    <pubDate>Tue, 15 Sep 2015 22:55:25 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 22:55:25 +0200</lastBuildDate>
+    <generator>Emacs 24.5 Org-mode 8.2.10</generator>
+    <webMaster>jcg@jcgonzalez.org (J. C. Gonzalez)</webMaster>
+    <image>
+        <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
+        <title>(Primum vivere)</title>
+        <link>http://www.jcgonzalez.org/</link>
+    </image>
+
+    <div id="table-of-contents">
+        <h2>Table of Contents</h2>
+        <div id="text-table-of-contents">
+            <ul>
+                <li><a href="#sec-1">Primum vivere</a>
+                <ul>
+                    <li><a href="#sec-1-1">I³ - Creatividad</a></li>
+                    <li><a href="#sec-1-2">Ser un líder (I)</a></li>
+                    <li><a href="#sec-1-3">El poder de la innovación (II): experimentos con Systematic Inventive Thinking</a></li>
+                    <li><a href="#sec-1-4">El poder de la innovación (I)</a></li>
+                    <li><a href="#sec-1-5">Liderazgo militar (I)</a></li>
+                    <li><a href="#sec-1-6">El buen diseño</a></li>
+                    <li><a href="#sec-1-7">¡Arrancamos!</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <item>
+        <title>Primum vivere</title>
+        <link>http://www.jcgonzalez.org/pv.html#orgheadline1</link>
+        <author>J. C. Gonzalez</author>
+        <guid isPermaLink="false">http://www.jcgonzalez.org/pv.html#orgheadline1</guid>
+        <pubDate>Wed, 08 Jul 2015 00:04:00 +0200</pubDate>
+
+        <description><![CDATA[
+        <p>
+            En este blog incluyo pequeños artículos sobre liderazgo, creatividad, innovación, y gestión de proyectos.  Espero que os resulten interesantes.
+        </p>
+        ]]></description>
+    </item>
+</channel>
+</rss>
