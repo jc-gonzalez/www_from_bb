@@ -17,6 +17,29 @@
 
 En este blog incluyo curiosidades que me encuentro en el día a día.  Espero que os resulten interesantes.
 
+** [2015-10-04 Sun] Cerveza artesana
+:PROPERTIES:
+:ID:       65849CC8-52B9-40B3-8387-7795D8CC26C5
+:END:
+
+El año pasado me regalaron un kit para hacer cerveza de manera artesanal.  Lo cierto es que me hizo mucha ilusión, ya que si bien no soy un gran bebedor de cerveza, si es cierto que me gusta; pero sobre todo, me llamaba la atención conocer la manera en que se producía la cerveza (igual que casi cualquier otra cosa).  Mi curiosidad, de nuevo.
+
+El kit se componía de dos cajas.  En una venían las botellas vacías, una docena, donde habría de embotellarse la cerveza una vez producida.  Venían acompañadas de unos tapones de esos de aire retro que se sujetan al cuello de la botella por unos gruesos alambres y que consisten en un tapón cerámico con un aro de goma rojo.  Valga decir, para aquellos que tengan ya cierta edad, que era como los tapones de la gaseosa de hace 40 años.
+
+En la otra caja venía el kit de producción propiamente dicho.  Para el tipo de cerveza que se produciría con este kit (/Irish Stout/) los ingredientes eran una bolsa de maltas tostadas, un par de sobre de lúpulos, al vacío, y un sobrecito de levadura.  Venían estos componentes acompañados por un botellón enorme, estilo matraz, donde se produciría la fermentación, y una serie de elementos adicionales, como un tapón multicomponente, una goma, un tubo, y otras cosas más pequeñas.
+
+El problema era que nunca encontraba el momento para hacerlo.  Y así, ocurrió que los consumibles me caducaron antes de realizar el ejercicio de la producción cervecera.  Mal por mí.
+
+Afortunadamente, hace un par de meses me dijo mi amigo Fernando que le habían regalado un kit similar.  Así que nos apañamos para quedar en su casa ha intentar la producción de nuestros galones de cerveza.
+
+Esto ocurrió hace dos semanas.  Durante estos últimos quince días, la cerveza ha estado fermentando en su matraz, y los restos de malta se han ido sedimentando.  Hasta ayer, día en que trasvasamos la cerveza, eliminando los posos, añadiéndoles un punto de miel para que la fermentación se acelerase y se generase más gas, y procediendo a su embotellado.
+
+Como fin de fiesta, mi amigo había hecho unas pegatinas para que pudiesemos hacer lo que el denominó "intercambio de banderines".  En la imagen puede verse el resultado final.  En dos semanas, probaremos el resultado, y actualizaremos este post.
+
+#+attr_html: :width 200px;
+[[../../img/cerveza.jpg]]
+
+
 ** [2015-06-25 jue] Países donde he estado
 :PROPERTIES:
 :ID:       D2DCEC24-482B-434C-BBD0-D519E4DC553C
@@ -33,6 +56,7 @@ En este blog incluyo curiosidades que me encuentro en el día a día.  Espero qu
 Algo que ya conocía: una página web donde puedes marcar los países en los que uno ha estado, y que dibuja un mapamundi coloreando esos países.  Cortesía de [[http://bighugelabs.com/map.php][BigHugeLabs.com]].
 
 Realmente he estado en pocos lugares del mundo.  Quizá haya que comenzar a plantearnos hacer un viajecito al extranjero de vez en cuando...
+
 
 ** [2013-05-24 vie] Creo que mi cerebro está muerto
 :PROPERTIES:
