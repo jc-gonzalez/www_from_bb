@@ -169,7 +169,8 @@ Built with %c - (%v HTML)</td></tr></table>
 <link href=\"http://fonts.googleapis.com/css?family=Martel+Sans:200\" rel=\"stylesheet\" type=\"text/css\"/>
 <link rel=\"stylesheet\" href=\"css/jcg.css\" type=\"text/css\"/>"
          :html-preamble "<div class=\"nav\">"
-         :html-postamble "<div class=\"footer\">
+         :html-postamble "<div style=\"position:absolute;top:10px;right:30px;\"><a href=\"http://www.jcgonzalez.org\"><img src=\"../../img/home.png\"/></a></div>
+<div class=\"footer\">
 Copyright 2015 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)
 </div>"
@@ -244,7 +245,8 @@ Built with %c - (%v HTML)</td></tr></table>
                 href=\"http://www.jcgonzalez.org/jcg/blog/yebsh/yebsh.xml\"
                 title=\"RSS blogs feed\">"
          :html-preamble "<div class=\"header\"></div>"
-         :html-postamble "<div id=\"disqus_thread\"></div>
+         :html-postamble "<div style=\"position:absolute;top:10px;right:30px;\"><a href=\"http://www.jcgonzalez.org\"><img src=\"../../img/home.png\"/></a></div>
+<div id=\"disqus_thread\"></div>
 <script type=\"text/javascript\">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'jcgonzalezorg';
@@ -293,7 +295,8 @@ Built with %c - (%v HTML)</td></tr></table>
                 href=\"http://www.jcgonzalez.org/jcg/blog/lsc/lsc.xml\"
                 title=\"RSS blogs feed\">"
          :html-preamble "<div class=\"header\"></div>"
-         :html-postamble "<div id=\"disqus_thread\"></div>
+         :html-postamble "<div style=\"position:absolute;top:10px;right:30px;\"><a href=\"http://www.jcgonzalez.org\"><img src=\"../../img/home.png\"/></a></div>
+<div id=\"disqus_thread\"></div>
 <script type=\"text/javascript\">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'jcgonzalezorg';
@@ -342,7 +345,8 @@ Built with %c - (%v HTML)</td></tr></table>
                 href=\"http://www.jcgonzalez.org/jcg/blog/libros/nl.xml\"
                 title=\"RSS blogs feed\">"
          :html-preamble "<div class=\"header\"></div>"
-         :html-postamble "<div id=\"disqus_thread\"></div>
+         :html-postamble "<div style=\"position:absolute;top:10px;right:30px;\"><a href=\"http://www.jcgonzalez.org\"><img src=\"../../img/home.png\"/></a></div>
+<div id=\"disqus_thread\"></div>
 <script type=\"text/javascript\">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'jcgonzalezorg';
