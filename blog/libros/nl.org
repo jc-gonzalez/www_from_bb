@@ -21,15 +21,42 @@ De momento los artículos de esta novísima sección están por escribir, pero h
 :ID:       87A6AB41-6B59-4E44-B7A3-4786B8F0250F
 :END:
 
-** TODO Autopublicación
+** [2015-11-08 Sun] Autopublicación
 :PROPERTIES:
 :ID:       D551C789-CF2F-4AAE-AD58-B0E98F25B8C0
 :END:
 
-** TODO Maquetando
+Mi libro, como la de decenas de miles de personas, ha sido autopublicado.  ¿Qué quiere decir esto exactamente?  En pocas palabras, que uno mismo se lo guisa y se lo come, y corre con todos los gastos de la publicación.
+
+Tras estudiar mucho el tema, me quedó claro que la publicación por parte de una editorial de la primera novela de un autor novel es poco menos que un milagro.  Dicho de otra manera: si se escribiese una novela acerca de ello, sería catalogada en el extremo duro de la Fantasía y Ciencia Ficción.  Así que, francamente, no veo posibilidad de que un autor como yo vea su libro en la calle si no es mediante la autopublicación.
+
+Una vez que has decidido autopublicarte, queda la duda de mediante qué plataforma.  Esta decisión se ve afectada por la idea de querer tu libro en electrónico o en formato físico.  En mi caso, tenía claro que deseaba un libro físico, si bien también me seducía la idea de ofrecerlo en electrónico.  Para libros electrónicos me sugirieron el uso de la plataforma [[https://kdp.amazon.com][Kindle Direct Publishing]] (de [[http://www.amazon.com][Amazon]]).  Sin embargo, era un poco reacio a limitarme al libro electrónico.  Los libros electrónicos son fabulosos, espero que no me malinterprete el lector.  Pero aún, lamentablemente, tienen un espíritu de intangibilidad que, siquiera psicológicamente, hace que se les vea como perecederos en el tiempo.  Es fácil regalar a otra persona, a tu pareja, a tu hijo, un libro que para ti tiene cierto valor sentimental.  No así con los libros electrónicos.  Por qué no decirlo, una de las cosas que más ilusión me hacía era poder regalarles un ejemplar de mi libro a mis padres.  (Curiosamente, mi madre se leyó el libro en formato electrónico; sobre todo debido a que, de esta manera, podía fijar el tamaño de la letra a uno más grande, mejorando así su lectura.)  También resulta emocionante y tremendamente satisfactorio poder dedicar a mano uno de los ejemplares de tu libro a algún amigo.  En definitiva, la autopublicación por medio de la plataforma [[https://kdp.amazon.com][KDP]] no cumplía todos mis requisitos.
+
+Afortunadamente me enteré en seguida de que [[http://www.amazon.com][Amazon]] posee otra plataforma, esta sí para autopublicación de libros físicos: [[https://www.createspace.com][CreateSpace]].  Además, es posible ligar un título en formato físico en esta plataforma con el mismo título en formato electrónico isncrito en la plataforma [[https://kdp.amazon.com][KDP]].  Esto, junto a la sencillez con que uno puede darse de alta, así como la ventaja de que [[http://www.amazon.com][Amazon]] se ocupe de todos los trámites relativos a impuestos, pagos y cobros, etc., me hizo decantarme por el gigante de la publicación para mis libros.
+
+Y realmente estoy bastante contento con la decisión.
+
+** [2015-11-06 Fri] Maquetando
 :PROPERTIES:
 :ID:       E5B3AA03-7D5F-4ABB-A3B5-609E641F1E31
 :END:
+
+La fase de maquetación es una de las más importantes.  En realidad, todas son importantes.  Lo que quiero decir es que la maquetación es fundamental para la consolidación de un buen producto como tal.  Una mala novela, por muy buena maquetación y portada que posea, al final quedará relegada al olvido, por mucho que el atractivo de su portada o lo llamativo de su título atraiga al principio a un puñado de lectores que se puedan sentir atraídos y finalmente "piquen".  Lamentablemente lo contrario no es cierto: una buena novela no sólo ha de serlo; también ha de parecerlo.  Quiero decir con ello que una mala maquetación de una novela puede hacer desistir a muchos lectores de continuar su lectura hasta el final; puede producir esa especie de pereza lectora que hace que tras pasar unas pocas páginas te apetezca más cerrar el libro que seguir leyendo.
+
+En mi caso, la maquetación, que también hice yo mismo, fue realmente fascinante.  Primero, has de saber qué tamaño de libro (ancho por alto) deseas que tenga el producto final.  En base a ello hay que determinar el tipo de fuente y el tamaño de letra más adecuado.  Y aquí, como aficionado a la Tipografía, es donde me sentí inmerso en un mundo nuevo, donde conceptos como el /kerning/ o las /ligaduras/, entre otros muchos, habían de ser tenidos en cuenta para que la lectura para el lector resultase confortable además de apasionante.
+
+Navegué en numerosas webs donde se explicaban cuáles eran los parámetros más adecuados para determinar si una fuente tipográfica era o no adecuada para un libro impreso o electrónico, y me encontré con múltiples listas de fuentes preferidas por varios entendidos en el tema.  Finalmente, para un libro de 203 x 127 mm (o de 8 x 5 pulgadas), me decanté por la fuente /Garamond/ en tamaño 11pt.
+
+En la maquetación, además, hay que tener en cuenta:
+- dónde se desea que aparezcan los inicios de los capítulos (si en la página izquierda, derecha, o en cualquiera de ellas sin distinción),
+- El tamaño de los títulos, subtítulos, citas, etc.,
+- las páginas en blanco que se desea que aparezcan (por ejemplo, en mi caso hay una hoja en blanco antes de la hoja con el título, es decir dos páginas en blanco),
+- dónde aparecerán los títulos, copyright, ISBN, etc.
+- y, por supuesto, posibles secciones adicionales como agradecimientos, dedicatorias, prólogos, índices, etc.
+
+Finalmente, hay que tener en cuenta que cuando se maqueta para un libro electrónico, hay muchas de estas cosas que pueden obviarse (como las hojas en blanco), y otras que han de ser adaptadas (como el tipo o tamaño de fuente, quizá).
+
+En conjunto, me siento bastante satisfecho con el resultado de mi primera maquetación oficial.  Veremos con las próximas...
 
 ** [2015-08-31 lun] La portada
 :PROPERTIES:
@@ -43,7 +70,6 @@ No quiero entrar en detalles acerca del diseño de la portada.  Pero sí contar�
 Tras un par de días sin tocar la portada (seguía trabajando en el texto del libro, que aún no estaba concluído del todo), se me ocurrió una cosa al llegar a casa.  Ese día iba a estar solo por una hora o así, ya que no había salido tarde del trabajo, y quien iba a recoger a los niños al cole era mi mujer.  Así que cogí un folio en blanco, y unas ceras de colores (creo que unos marrones, rojo, naranja, negro, y no sé si incluso azul o morado), y me puse a dibujar más o menos el paisaje que se ve en la portada, pero con trazos irregulares y a toda velocidad.  No tardé en concluir mi obra ni cinco minutos.  Tras observar que podía haber conseguido lo que perseguía, escaneé el folio, e incluí la imagen resultante como nueva capa en la imagen de la portada.  La mezclé adecuadamente y /voilá!//  Funcionó.  La rugosidad del dibujo de las ceras hizo que la imagen de la portada adquiriese la textura irregular que yo deseaba.  Apenas la toqué posteriormente.
 
 Como comentario final, señalar que semanas después de la publicación, comenté varios temas acerca del libro con un amigo.  Y me dijo que hacía tiempo, él había leído una serie de consejos para hacer una portada atractiva al público.  Y que la mía cumplía con todos ellos.  Aquello me puso realmente muy contento: aunque mi éxito editorial se quedase en un puñado de amigos, siempre podía decir que mi portada cumplía con ciertos criterios de éxito reconocidos.
-
 
 ** [2015-08-30 lun] Revisiones
 :PROPERTIES:
