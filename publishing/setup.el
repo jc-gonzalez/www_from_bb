@@ -2,9 +2,11 @@
 ;;; Code:
 ;;; Commentary:
 
-(add-to-list 'load-path "~/Personal/www/publishing/lisp")
-;(add-to-list 'load-path "~/Personal/www/elisp/org-mode/lisp")
-;(add-to-list 'load-path "~/Personal/www/elisp/org-mode/contrib/lisp")
+(setq www-base-dir "~/Personal/www")
+
+(add-to-list 'load-path (concat www-base-dir (convert-standard-filename "publishing/lisp")))
+;(add-to-list 'load-path (concat www-base-dir (convert-standard-filename "elisp/org-mode/lisp")))
+;(add-to-list 'load-path (concat www-base-dir (convert-standard-filename "elisp/org-mode/contrib/lisp")))
 
 (require 'org-install)
 (require 'org)
