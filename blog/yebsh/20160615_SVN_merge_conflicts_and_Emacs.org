@@ -1,0 +1,41 @@
+#+SETUPFILE: webconfig.inc
+
+* SVN merge conflicts and Emacs
+
+HAce un montón que no escribo ninguna entrada en este blog (o en cualquiera de ellos, ya que lo mencionamos).  Pero me he propuesto volver a las andadas, al menos poco a poco.  Y para retomar la cuestión, cualquier excusa es buena.  En este caso, hacer un merge con SVN.
+
+He usado muchos gestores de versiones de ficheros de codigo fuente, y todos sin excepción tienen sus ventajas e inconvenientes.  Así que no viene al caso discutirlas.  Tomemos como un hecho simplemente que en la actualidad me veo obligado a usar SVN.  Y vayamos al problema.
+
+Tengo un tronco principal (`trunk`) que es donde se realiza normalmente el desarrollo de la aplicación de marras.  Y de vez en cuando me veo en la situación de hacer un desarrollo suficientemente extenso y a la vez desacoplado de la evolución actual de la aplicación, como para que me sea útil y conveniente crear una rama en la que desarrollar esa nueva y compleja funcionalidad.
+
+En el caso que nos ocupa, la rama a seguido evolucionando, pero también el tronco.  Éste no ha evolucionado lo suficiente, pero sí lo bastante como para que sea conveniente actualizar la rama con aquellas modificaciones que llevamos hechas en el tronco.  Esto se hace fácilmente, situándonos en la copia de trabajo de la rama y haciendo un merge dando como origen de las modificaciones el tronco, así:
+
+#+BEGIN_SRC sh
+$ cd <base_dir>/branches/mybranch
+$ svn merge <base_url>/trunk 2>&1 | tee merge.log
+#+END_SRC
+
+En general se realizará un merge con éxito, pero pueden surgir *conflictos*.  SVN nos pedirá la acción a realizar para cada uno de ellos:
+
+#+BEGIN_SRC sh
+Conflict discovered in '<file>'.
+Select: (p) postpone, (df) diff-full, (e) edit,
+        (mc) mine-conflict, (tc) theirs-conflict,
+        (s) show all options: p
+#+END_SRC
+
+Por sistema selecciono `postpone` para todos los conflictos, dado que después los solucionaré con `Emacs`.
+
+Una vez realizado el merge, haciendo un `svn status` comprobaremos que en efecto tenemos algunos conflictos por resolver.  En este momento, nos vamos a `Emacs` y habrimos el directorio con `vc-dir`.
+
+Nos aparecerá el estado de los ficheros del directorio en cuestión, y observaremos que tenemos algunos conflictos.  Para resolverlos, editamos uno por uno los ficheros.
+
+Los ficheros, al editarlos, nos aparecen con las secciones conflictivas en forma de diferencias, donde tendremos que seleccionar una de las versiones, o editarlas para realizar la mezcla convenientemente.  Pero para facilitar este proceso, podemos pedir que se nos abra esto en forma de `ediff merge`.  Para ello, tecleamos `C-c ^ E`.  Nos aparece el frame partido en las habituales ventanas de diff y merge.  *A* es la versión inicial, *B* es la versión con la que queremos hacer merge (en nuestro caso, la del `trunk`), y *C* es la versión final.
+
+Una vez que hemos llegado a una versión final satisfactoria, tecleando `q` salimos del modo `ediff/emerge` y volvemos al modo de edición del fichero en cuestión, que se corresponde con el *C* que estabamos viendo.  Bastará salvar el fichero.
+
+Al volver a la pantalla de `vc-dir`, si tecleamos `g` para actualizar el status de los ficheros que se muestran, veremos que aquellos que aparecían con conflictos ahora aparecen como `edited`.
+
+A partir de aquí, podremos continuar con nuestras modificaciones, hacer `commits` o lo que deseemos.
+
+#+TITLE: SVN merge conflicts and Emacs
