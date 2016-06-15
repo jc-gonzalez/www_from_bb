@@ -16,10 +16,19 @@ Este pequeño blog es una especie de registro de cómo escribí /Noctis Labyrint
 
 De momento los artículos de esta novísima sección están por escribir, pero he querido al menos incluir los títulos con una doble motivación: primero, dar a conocer al lector lo que iré incluyendo; y segundo, para que me sirvan a mí mismo de recordatorio de todo lo que quiero incluir.  Como los artículos que aquí aparezcan lo harán ordenados siguiento un criterio de antigüedad creciente en cuanto a su contenido, así aparecen ahora los títulos de los artículos vacíos.
 
-** TODO Mis primeros royalties
+** [2016-06-15 Wed] Mis primeros royalties
 :PROPERTIES:
 :ID:       87A6AB41-6B59-4E44-B7A3-4786B8F0250F
 :END:
+
+Me quedaba esta pequeña entrada para concluir la serie de mini-artículos que he dedicado al proceso de publicación de mi primera novela.  No hay mucho que decir, realmente.  Nada más que se siente una gran satisfacción al ingresar, un mes y medio después de las ventas, más o menos, del porcentaje correspondiente en calidad de royalties por tu trabajo.  Es algo que en mi caso me ingresan automáticamente los de  [[http://www.amazon.com][Amazon]] en mi cuenta.
+
+Como nota curiosa, ahora que ha pasado algo más de un año desde la publicación de *Noctis Labyrinthus*, diré que con todos los ejemplares vendidos, en formato papel y electrónico, aún no he cubierto los costes del ISBN que tuve que solicitar para la novela impresa (ya que es obligatorio).  Pero no es que mi porcentaje sea muy bajo... que lo es...
+
+Es que he vendido muy pocos ejemplares...
+
+Pero tampoco un gran volumen de ventas era el objetivo, ¿verdad? 
+
 
 ** [2015-11-08 Sun] Autopublicación
 :PROPERTIES:
