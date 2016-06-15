@@ -9,52 +9,53 @@
      xmlns:georss="http://www.georss.org/georss"
      xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
      xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>(Y el bit ss ehizo)</title>
+  <atom:link href="http://www.jcgonzalez.org/yebsh.xml" rel="self" type="application/rss+xml" />
+  <link>http://www.jcgonzalez.org/</link>
+  <description><![CDATA[]]></description>
+  <language>en</language>
+  <pubDate>Wed, 15 Jun 2016 15:26:30 +0200</pubDate>
+  <lastBuildDate>Wed, 15 Jun 2016 15:26:30 +0200</lastBuildDate>
+  <generator>Emacs 24.5 Org-mode 8.2.10</generator>
+  <webMaster>jcg@jcgonzalez.org (J. C. Gonzalez)</webMaster>
+  <image>
+    <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
     <title>(Y el bit ss ehizo)</title>
-    <atom:link href="http://www.jcgonzalez.org/yebsh.xml" rel="self" type="application/rss+xml" />
     <link>http://www.jcgonzalez.org/</link>
-    <description><![CDATA[]]></description>
-    <language>en</language>
-    <pubDate>Mon, 05 Oct 2015 22:23:26 +0200</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2015 22:23:26 +0200</lastBuildDate>
-    <generator>Emacs 24.5 Org-mode 8.2.10</generator>
-    <webMaster>jcg@jcgonzalez.org (J. C. Gonzalez)</webMaster>
-    <image>
-        <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
-        <title>(Y el bit ss ehizo)</title>
-        <link>http://www.jcgonzalez.org/</link>
-    </image>
+  </image>
 
-    <div id="table-of-contents">
-        <h2>Table of Contents</h2>
-        <div id="text-table-of-contents">
-            <ul>
-                <li><a href="#sec-1">Y el bit se hizo</a>
-                <ul>
-                    <li><a href="#sec-1-1">Importando datos en Python</a></li>
-                    <li><a href="#sec-1-2">Incrustando Python en C++</a></li>
-                    <li><a href="#sec-1-3">¡Arrancamos!</a></li>
-                </ul>
-                </li>
-            </ul>
-        </div>
+  <div id="table-of-contents">
+    <h2>Table of Contents</h2>
+    <div id="text-table-of-contents">
+      <ul>
+	<li><a href="#sec-1">Y el bit se hizo</a>
+	<ul>
+	  <li><a href="#sec-1-1">SVN merge conflicts and Emacs</a></li>
+	  <li><a href="#sec-1-2">Importando datos en Python</a></li>
+	  <li><a href="#sec-1-3">Incrustando Python en C++</a></li>
+	  <li><a href="#sec-1-4">¡Arrancamos!</a></li>
+	</ul>
+	</li>
+      </ul>
     </div>
+  </div>
 
-    <item>
-        <title>Y el bit se hizo</title>
-        <link>http://www.jcgonzalez.org/yebsh.html#orgheadline1</link>
-        <author>J. C. Gonzalez</author>
-        <guid isPermaLink="false">http://www.jcgonzalez.org/yebsh.html#orgheadline1</guid>
-        <pubDate>Tue, 07 Jul 2015 23:35:00 +0200</pubDate>
+  <item>
+    <title>Y el bit se hizo</title>
+    <link>http://www.jcgonzalez.org/yebsh.html#orgheadline1</link>
+    <author>J. C. Gonzalez</author>
+    <guid isPermaLink="false">http://www.jcgonzalez.org/yebsh.html#orgheadline1</guid>
+    <pubDate>Tue, 07 Jul 2015 23:35:00 +0200</pubDate>
 
-        <description><![CDATA[
-        <p>
-        En este blog incluyo experiencias, recetas y otras cosas, todas relacionadas con el mundo del software.  También me pondré en plan &ldquo;abuelo Cebolleta&rdquo; de vez en cuando, y contaré historietas de mis comienzos.
-        </p>
+    <description><![CDATA[
+    <p>
+    En este blog incluyo experiencias, recetas y otras cosas, todas relacionadas con el mundo del software.  También me pondré en plan &ldquo;abuelo Cebolleta&rdquo; de vez en cuando, y contaré historietas de mis comienzos.
+    </p>
 
-        <p>
-        ¡Que lo disfrutéis!
-        </p>
-        ]]></description>
-    </item>
+    <p>
+    ¡Que lo disfrutéis!
+    </p>
+    ]]></description>
+  </item>
 </channel>
 </rss>

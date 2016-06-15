@@ -9,127 +9,127 @@
      xmlns:georss="http://www.georss.org/georss"
      xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
      xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>(J. C. Gonzalez Personal Web Site)</title>
+  <atom:link href="http://www.jcgonzalez.org/index.xml" rel="self" type="application/rss+xml" />
+  <link>http://www.jcgonzalez.org/</link>
+  <description><![CDATA[]]></description>
+  <language>en</language>
+  <pubDate>Wed, 15 Jun 2016 15:14:56 +0200</pubDate>
+  <lastBuildDate>Wed, 15 Jun 2016 15:14:56 +0200</lastBuildDate>
+  <generator>Emacs 24.5 Org-mode 8.2.10</generator>
+  <webMaster>jcg@jcgonzalez.org (J. C. Gonzalez)</webMaster>
+  <image>
+    <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
     <title>(J. C. Gonzalez Personal Web Site)</title>
-    <atom:link href="http://www.jcgonzalez.org/index.xml" rel="self" type="application/rss+xml" />
     <link>http://www.jcgonzalez.org/</link>
-    <description><![CDATA[]]></description>
-    <language>en</language>
-    <pubDate>Sun, 04 Oct 2015 22:05:46 +0200</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2015 22:05:46 +0200</lastBuildDate>
-    <generator>Emacs 24.5 Org-mode 8.2.10</generator>
-    <webMaster>jcg@jcgonzalez.org (J. C. Gonzalez)</webMaster>
-    <image>
-        <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
-        <title>(J. C. Gonzalez Personal Web Site)</title>
-        <link>http://www.jcgonzalez.org/</link>
-    </image>
+  </image>
 
-    <div id="table-of-contents">
-        <h2>Table of Contents</h2>
-        <div id="text-table-of-contents">
-            <ul>
-                <li><a href="#sec-1">Inicio</a>
-                <ul>
-                    <li><a href="#sec-1-1">Bienvenidos</a></li>
-                </ul>
-                </li>
-                <li><a href="#sec-2">Curriculum Vitae</a>
-                <ul>
-                    <li><a href="#sec-2-1">Estudios Superiores</a></li>
-                    <li><a href="#sec-2-2">Especialidad</a></li>
-                    <li><a href="#sec-2-3">Idiomas</a></li>
-                    <li><a href="#sec-2-4">Experiencia Profesional</a>
-                    <ul>
-                        <li><a href="#sec-2-4-1">2015-actualidad - Telespazio Vega UK / ESAC</a></li>
-                        <li><a href="#sec-2-4-2">2001–2015 - GMV Aerospace and Defence S.A.</a></li>
-                        <li><a href="#sec-2-4-3">1997-2000 - Max-Planck-Institut für Physik (Munich)</a></li>
-                        <li><a href="#sec-2-4-4">1995-1996 - Depto. de Física Atómica, Molecular y Nuclear de la Facultad de CC. Físicas, Univ. Computense de Madrid</a></li>
-                        <li><a href="#sec-2-4-5">1988-1990 - I.M.S. Ibérica S.A.</a></li>
-                    </ul>
-                    </li>
-                    <li><a href="#sec-2-5">Publicaciones y Contribuciones a Conferencias Internacionales</a></li>
-                    <li><a href="#sec-2-6">Trabajos dirigidos</a></li>
-                    <li><a href="#sec-2-7">Cursos Impartidos</a></li>
-                    <li><a href="#sec-2-8">Charlas y Conferencias</a></li>
-                    <li><a href="#sec-2-9">Intereses, aficiones y más</a></li>
-                </ul>
-                </li>
-                <li><a href="#sec-3">Artículos</a>
-                <ul>
-                    <li><a href="#sec-3-1">Pequeños textos, notas, etc.</a></li>
-                    <li><a href="#sec-3-2">Pequeñas presentaciones</a></li>
-                    <li><a href="#sec-3-3">Artículos científicos</a>
-                    <ul>
-                        <li><a href="#sec-3-3-1">The TEV Energy Spectrum of Markarian 501 Measured with the Stereoscopic Telescope System of HEGRA during 1998 and 1999</a></li>
-                        <li><a href="#sec-3-3-2">The cosmic electron background in low energy imaging atmospheric Cherenkov telescopes: effect of the geomagnetic field</a></li>
-                        <li><a href="#sec-3-3-3">Evidence for TeV gamma ray emission from Cassiopeia A</a></li>
-                        <li><a href="#sec-3-3-4">Search for a TeV gamma-ray halo of Mkn 501</a></li>
-                        <li><a href="#sec-3-3-5">Reanalysis of the high energy cutoff of the 1997 Mkn 501 TeV energy spectrum</a></li>
-                        <li><a href="#sec-3-3-6">Monte Carlo Simulations for High Zenith Angles</a></li>
-                        <li><a href="#sec-3-3-7">Rejection of the Hypothesis That Markarian 501 TEV Photons Are Pure Bose-Einstein Condensates</a></li>
-                        <li><a href="#sec-3-3-8">The Energy Spectrum of TEV Gamma Rays from the Crab Nebula as Measured by the HEGRA System of Imaging Air Cerenkov Telescopes</a></li>
-                        <li><a href="#sec-3-3-9">Correlated Intense X-Ray and TEV Activity of Markarian 501 in 1998 June</a></li>
-                        <li><a href="#sec-3-3-10">On the optimum spacing of stereoscopic imaging atmospheric Cherenkov telescopes</a></li>
-                        <li><a href="#sec-3-3-11">Optimizing the angular resolution of the HEGRA telescope system to study the emission region of VHE gamma rays in the Crab Nebula</a></li>
-                        <li><a href="#sec-3-3-12">Comparison Between HEGRA and RXTE ASM Data from Mkn 501</a></li>
-                        <li><a href="#sec-3-3-13">Energy spectrum and chemical composition of cosmic rays between 0.3 and 10 PeV determined from the cherenkov-light and charged-particle distributions in air showers</a></li>
-                        <li><a href="#sec-3-3-14">HEGRA search for TeV emission from BL Lacertae objects</a></li>
-                        <li><a href="#sec-3-3-15">Cherenkov light based measurement of extensive air showers around the knee with the HEGRA experiment</a></li>
-                        <li><a href="#sec-3-3-16">TeV gamma-ray observations of the Crab and MKN 501 during moonshine and twilight</a></li>
-                        <li><a href="#sec-3-3-17">The time structure of Cherenkov images generated by TeV gamma-rays and by cosmic rays</a></li>
-                        <li><a href="#sec-3-3-18">Performance of the stereoscopic system of the HEGRA imaging air Cerenkov telescopes: Monte Carlo simulations and observations</a></li>
-                        <li><a href="#sec-3-3-19">Measurement of the radial distribution of Cherenkov light generated by TeV gamma-ray air showers</a></li>
-                        <li><a href="#sec-3-3-20">Observations of MKN 421 during 1997 and 1998 in the energy range above 500 GeV with the HEGRA stereoscopic Cherenkov telescope system</a></li>
-                        <li><a href="#sec-3-3-21">The Energy Resolution of The MAGIC Telescope</a></li>
-                        <li><a href="#sec-3-3-22">The temporal characteristics of the TeV gamma -emission from MKN 501 in 1997. II. Results from HEGRA CT1 and CT2</a></li>
-                        <li><a href="#sec-3-3-23">The time averaged TeV energy spectrum of MKN 501 of the extraordinary 1997 outburst as measured with the stereoscopic Cherenkov telescope system of HEGRA</a></li>
-                        <li><a href="#sec-3-3-24">Phase-resolved TeV gamma-ray characteristics of the Crab and Geminga pulsars</a></li>
-                        <li><a href="#sec-3-3-25">The temporal characteristics of the TeV gamma-radiation from MKN 501 in 1997. I. Data from the stereoscopic imaging atmospheric Cherenkov telescope system of HEGRA</a></li>
-                        <li><a href="#sec-3-3-26">Search for gamma-ray bursts above 20 TeV with the HEGRA AIROBICC Cherenkov array</a></li>
-                        <li><a href="#sec-3-3-27">First results on the performance of the HEGRA IACT array</a></li>
-                        <li><a href="#sec-3-3-28">Measurement of the flux, spectrum, and variability of TeV {gamma}-rays from MKN 501 during a state of high activity.</a></li>
-                        <li><a href="#sec-3-3-29">Monte Carlo Studies for The MAGIC Telescope Project</a></li>
-                        <li><a href="#sec-3-3-30">Detection of {gamma}-rays above 1.5TeV from MKN 501.</a></li>
-                        <li><a href="#sec-3-3-31">An optimized method for the reconstruction of the direction of air showers for scintillator arrays</a></li>
-                        <li><a href="#sec-3-3-32">Detection of gamma rays above 1 TeV from the Crab Nebula by the second HEGRA imaging atmospheric Cherenkov telescope at La Palma</a></li>
-                        <li><a href="#sec-3-3-33">Search for very high energy {gamma} radiation from the radio bright region DR4 of the SNR G78.2+2.1.</a></li>
-                        <li><a href="#sec-3-3-34">Detection of VHE {gamma}-rays from MKN 421 with the HEGRA Cherenkov Telescopes.</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <li><a href="#sec-4">Software</a></li>
-        <li><a href="#sec-5">Arte</a>
-        <ul>
-            <li><a href="#sec-5-1">The city</a></li>
-            <li><a href="#sec-5-2">Mariví</a></li>
-            <li><a href="#sec-5-3">Atardecer</a></li>
-            <li><a href="#sec-5-4">Cielo y tierra</a></li>
-            <li><a href="#sec-5-5">Ayer, hoy, mañana</a></li>
-        </ul>
-        </li>
-        <li><a href="#sec-6">Libros</a>
-        <ul>
-            <li><a href="#NoctisLab">Noctis Labyrinthus</a></li>
-            <li><a href="#sec-6-2">Mi próxima novela</a></li>
-        </ul>
-        </li>
-        <li><a href="#sec-7">Blogs</a>
-        <ul>
-            <li><a href="#sec-7-1">Ciencia en sí misma</a></li>
-            <li><a href="#sec-7-2">Primum Vivere</a></li>
-            <li><a href="#sec-7-3">La sana curiosidad</a></li>
-            <li><a href="#sec-7-4">Y el bit se hizo</a></li>
-        </ul>
-        </li>
-        <li><a href="#sec-8">Estado</a></li>
-        <li><a href="#sec-9">Acerca de &#x2026;</a>
-        <ul>
-            <li><a href="#sec-9-1">Sobre este sitio web</a></li>
-            <li><a href="#sec-9-2">Contacto</a></li>
-        </ul>
-        </li>
+  <div id="table-of-contents">
+    <h2>Table of Contents</h2>
+    <div id="text-table-of-contents">
+      <ul>
+	<li><a href="#sec-1">Inicio</a>
+	<ul>
+	  <li><a href="#sec-1-1">Bienvenidos</a></li>
+	</ul>
+	</li>
+	<li><a href="#sec-2">Curriculum Vitae</a>
+	<ul>
+	  <li><a href="#sec-2-1">Estudios Superiores</a></li>
+	  <li><a href="#sec-2-2">Especialidad</a></li>
+	  <li><a href="#sec-2-3">Idiomas</a></li>
+	  <li><a href="#sec-2-4">Experiencia Profesional</a>
+	  <ul>
+	    <li><a href="#sec-2-4-1">2015-actualidad - Telespazio Vega UK / ESAC</a></li>
+	    <li><a href="#sec-2-4-2">2001–2015 - GMV Aerospace and Defence S.A.</a></li>
+	    <li><a href="#sec-2-4-3">1997-2000 - Max-Planck-Institut für Physik (Munich)</a></li>
+	    <li><a href="#sec-2-4-4">1995-1996 - Depto. de Física Atómica, Molecular y Nuclear de la Facultad de CC. Físicas, Univ. Computense de Madrid</a></li>
+	    <li><a href="#sec-2-4-5">1988-1990 - I.M.S. Ibérica S.A.</a></li>
+	  </ul>
+	  </li>
+	  <li><a href="#sec-2-5">Publicaciones y Contribuciones a Conferencias Internacionales</a></li>
+	  <li><a href="#sec-2-6">Trabajos dirigidos</a></li>
+	  <li><a href="#sec-2-7">Cursos Impartidos</a></li>
+	  <li><a href="#sec-2-8">Charlas y Conferencias</a></li>
+	  <li><a href="#sec-2-9">Intereses, aficiones y más</a></li>
+	</ul>
+	</li>
+	<li><a href="#sec-3">Artículos</a>
+	<ul>
+	  <li><a href="#sec-3-1">Pequeños textos, notas, etc.</a></li>
+	  <li><a href="#sec-3-2">Pequeñas presentaciones</a></li>
+	  <li><a href="#sec-3-3">Artículos científicos</a>
+	  <ul>
+	    <li><a href="#sec-3-3-1">The TEV Energy Spectrum of Markarian 501 Measured with the Stereoscopic Telescope System of HEGRA during 1998 and 1999</a></li>
+	    <li><a href="#sec-3-3-2">The cosmic electron background in low energy imaging atmospheric Cherenkov telescopes: effect of the geomagnetic field</a></li>
+	    <li><a href="#sec-3-3-3">Evidence for TeV gamma ray emission from Cassiopeia A</a></li>
+	    <li><a href="#sec-3-3-4">Search for a TeV gamma-ray halo of Mkn 501</a></li>
+	    <li><a href="#sec-3-3-5">Reanalysis of the high energy cutoff of the 1997 Mkn 501 TeV energy spectrum</a></li>
+	    <li><a href="#sec-3-3-6">Monte Carlo Simulations for High Zenith Angles</a></li>
+	    <li><a href="#sec-3-3-7">Rejection of the Hypothesis That Markarian 501 TEV Photons Are Pure Bose-Einstein Condensates</a></li>
+	    <li><a href="#sec-3-3-8">The Energy Spectrum of TEV Gamma Rays from the Crab Nebula as Measured by the HEGRA System of Imaging Air Cerenkov Telescopes</a></li>
+	    <li><a href="#sec-3-3-9">Correlated Intense X-Ray and TEV Activity of Markarian 501 in 1998 June</a></li>
+	    <li><a href="#sec-3-3-10">On the optimum spacing of stereoscopic imaging atmospheric Cherenkov telescopes</a></li>
+	    <li><a href="#sec-3-3-11">Optimizing the angular resolution of the HEGRA telescope system to study the emission region of VHE gamma rays in the Crab Nebula</a></li>
+	    <li><a href="#sec-3-3-12">Comparison Between HEGRA and RXTE ASM Data from Mkn 501</a></li>
+	    <li><a href="#sec-3-3-13">Energy spectrum and chemical composition of cosmic rays between 0.3 and 10 PeV determined from the cherenkov-light and charged-particle distributions in air showers</a></li>
+	    <li><a href="#sec-3-3-14">HEGRA search for TeV emission from BL Lacertae objects</a></li>
+	    <li><a href="#sec-3-3-15">Cherenkov light based measurement of extensive air showers around the knee with the HEGRA experiment</a></li>
+	    <li><a href="#sec-3-3-16">TeV gamma-ray observations of the Crab and MKN 501 during moonshine and twilight</a></li>
+	    <li><a href="#sec-3-3-17">The time structure of Cherenkov images generated by TeV gamma-rays and by cosmic rays</a></li>
+	    <li><a href="#sec-3-3-18">Performance of the stereoscopic system of the HEGRA imaging air Cerenkov telescopes: Monte Carlo simulations and observations</a></li>
+	    <li><a href="#sec-3-3-19">Measurement of the radial distribution of Cherenkov light generated by TeV gamma-ray air showers</a></li>
+	    <li><a href="#sec-3-3-20">Observations of MKN 421 during 1997 and 1998 in the energy range above 500 GeV with the HEGRA stereoscopic Cherenkov telescope system</a></li>
+	    <li><a href="#sec-3-3-21">The Energy Resolution of The MAGIC Telescope</a></li>
+	    <li><a href="#sec-3-3-22">The temporal characteristics of the TeV gamma -emission from MKN 501 in 1997. II. Results from HEGRA CT1 and CT2</a></li>
+	    <li><a href="#sec-3-3-23">The time averaged TeV energy spectrum of MKN 501 of the extraordinary 1997 outburst as measured with the stereoscopic Cherenkov telescope system of HEGRA</a></li>
+	    <li><a href="#sec-3-3-24">Phase-resolved TeV gamma-ray characteristics of the Crab and Geminga pulsars</a></li>
+	    <li><a href="#sec-3-3-25">The temporal characteristics of the TeV gamma-radiation from MKN 501 in 1997. I. Data from the stereoscopic imaging atmospheric Cherenkov telescope system of HEGRA</a></li>
+	    <li><a href="#sec-3-3-26">Search for gamma-ray bursts above 20 TeV with the HEGRA AIROBICC Cherenkov array</a></li>
+	    <li><a href="#sec-3-3-27">First results on the performance of the HEGRA IACT array</a></li>
+	    <li><a href="#sec-3-3-28">Measurement of the flux, spectrum, and variability of TeV {gamma}-rays from MKN 501 during a state of high activity.</a></li>
+	    <li><a href="#sec-3-3-29">Monte Carlo Studies for The MAGIC Telescope Project</a></li>
+	    <li><a href="#sec-3-3-30">Detection of {gamma}-rays above 1.5TeV from MKN 501.</a></li>
+	    <li><a href="#sec-3-3-31">An optimized method for the reconstruction of the direction of air showers for scintillator arrays</a></li>
+	    <li><a href="#sec-3-3-32">Detection of gamma rays above 1 TeV from the Crab Nebula by the second HEGRA imaging atmospheric Cherenkov telescope at La Palma</a></li>
+	    <li><a href="#sec-3-3-33">Search for very high energy {gamma} radiation from the radio bright region DR4 of the SNR G78.2+2.1.</a></li>
+	    <li><a href="#sec-3-3-34">Detection of VHE {gamma}-rays from MKN 421 with the HEGRA Cherenkov Telescopes.</a></li>
+	  </ul>
+	</li>
+      </ul>
+    </li>
+    <li><a href="#sec-4">Software</a></li>
+    <li><a href="#sec-5">Arte</a>
+    <ul>
+      <li><a href="#sec-5-1">The city</a></li>
+      <li><a href="#sec-5-2">Mariví</a></li>
+      <li><a href="#sec-5-3">Atardecer</a></li>
+      <li><a href="#sec-5-4">Cielo y tierra</a></li>
+      <li><a href="#sec-5-5">Ayer, hoy, mañana</a></li>
     </ul>
+    </li>
+    <li><a href="#sec-6">Libros</a>
+    <ul>
+      <li><a href="#NoctisLab">Noctis Labyrinthus</a></li>
+      <li><a href="#sec-6-2">Mi próxima novela</a></li>
+    </ul>
+    </li>
+    <li><a href="#sec-7">Blogs</a>
+    <ul>
+      <li><a href="#sec-7-1">Ciencia en sí misma</a></li>
+      <li><a href="#sec-7-2">Primum Vivere</a></li>
+      <li><a href="#sec-7-3">La sana curiosidad</a></li>
+      <li><a href="#sec-7-4">Y el bit se hizo</a></li>
+    </ul>
+    </li>
+    <li><a href="#sec-8">Estado</a></li>
+    <li><a href="#sec-9">Acerca de &#x2026;</a>
+    <ul>
+      <li><a href="#sec-9-1">Sobre este sitio web</a></li>
+      <li><a href="#sec-9-2">Contacto</a></li>
+    </ul>
+    </li>
+  </ul>
 </div>
 </div>
 

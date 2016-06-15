@@ -3,5 +3,6 @@
    + [[file:20150714_Importando_datos_en_Python.org][Importando datos en Python]]
    + [[file:20150713_Incrustando_Python_en_Cpp.org][Incrustando Python en C++]]
    + [[file:theindex.org][Index]]
+   + [[file:20160615_SVN_merge_conflicts_and_Emacs.org][SVN merge conflicts and Emacs]]
    + [[file:yebsh.org][Y el bit ss ehizo]]
    + [[file:20150713_Arrancamos.org][¡Arrancamos!]]

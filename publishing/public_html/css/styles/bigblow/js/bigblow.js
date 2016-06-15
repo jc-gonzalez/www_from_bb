@@ -1,3 +1,4 @@
+
 // bigblow.js --- BigBlow JS file
 //
 // Copyright (C) 2011-2014 All Right Reserved, Fabrice Niessen
@@ -299,10 +300,10 @@ function togglePanel(e) {
 }
 
 $(function() {
-    $('<!-- div id="left-panel-wrapper" class="dontprint"><div id="left-panel-contents" style="opacity: 0.9"></div><div id="left-panel-button" class="dontprint"><a href="#">Dashboard</a></div></div -->')
+    $('<div id="left-panel-wrapper" class="dontprint"><div id="left-panel-contents" style="opacity: 0.9"></div><div id="left-panel-button" class="dontprint"><a href="#">Dashboard</a></div></div>')
         .appendTo('body');
 
-    $('<!-- div id="right-panel-wrapper" class="dontprint"><div id="right-panel-contents" style="opacity: 0.9"></div></div -->')
+    $('<div id="right-panel-wrapper" class="dontprint"><div id="right-panel-contents" style="opacity: 0.9"></div></div>')
         .appendTo('body');
 
     $('#left-panel-button').click(togglePanel);
