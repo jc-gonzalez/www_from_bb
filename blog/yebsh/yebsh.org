@@ -16,6 +16,11 @@ En este blog incluyo experiencias, recetas y otras cosas, todas relacionadas con
 
 ¡Que lo disfrutéis!
 
+#+INCLUDE: 20160615_SVN_merge_conflicts_and_Emacs.org :minlevel 2  :lines "2-8"
+ ...
+
+([[./20160615_SVN_merge_conflicts_and_Emacs.html][ver más...]])
+
 #+INCLUDE: 20150714_Importando_datos_en_Python.org :minlevel 2  :lines "2-8"
  ...
 
@@ -30,3 +35,4 @@ En este blog incluyo experiencias, recetas y otras cosas, todas relacionadas con
  ...
 
 ([[./20150713_Arrancamos.html][ver más...]])
+
