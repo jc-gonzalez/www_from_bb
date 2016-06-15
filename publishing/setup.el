@@ -2,7 +2,7 @@
 ;;; Code:
 ;;; Commentary:
 
-(setq www-base-dir "~/Personal/www")
+(setq www-base-dir "~/Personal/www/")
 
 (add-to-list 'load-path (concat www-base-dir (convert-standard-filename "publishing/lisp")))
 ;(add-to-list 'load-path (concat www-base-dir (convert-standard-filename "elisp/org-mode/lisp")))
@@ -13,6 +13,8 @@
 (require 'ox)
 (require 'ox-publish)
 (require 'ox-html)
+
+;(load-file (concat www-base-dir (convert-standard-filename "publishing/lisp/ox-rss")))
 (require 'ox-rss)
 
 ;;;; For References
