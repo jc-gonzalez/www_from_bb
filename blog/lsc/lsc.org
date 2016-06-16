@@ -17,6 +17,33 @@
 
 En este blog incluyo curiosidades que me encuentro en el día a día.  Espero que os resulten interesantes.
 
+** [2016-06-16 Thu] Naturalismo en el pensamiento chino
+:PROPERTIES:
+:ID:       431de377-10e8-4c5a-9bd1-00acf25fdc9e
+:END:
+
+Ayer me llegó un e-mail de una de esas plataformas de cursos online.  Últimamente no les hago demasiado caso a estos e-mails, ya que ando más que liado con la casa nueva, la novela nueva, el trabajo nuevo...  Pero en el e-mail de ayer vi un curso que me intrigó: *Humanity and Nature in Chinese Thought*, por la Hong-Kong University.  Así que comencé a echarle un vistazo.
+
+El curso dura 8 semanas, y trata esencialmente de dar un repaso al Naturalismo que impregna la filosofía del pensamiento chino, en contraposición al Supernaturalismo del pensamiento occidental.  El profesor, en la presentación del curso, sabe como atraer alumnos:
+
+#+BEGIN_QUOTE
+We are going to be presenting a course to you on Chinese Philosophy
+that focuses on the concept of ‘dao’. This is a concept that we kind
+of like to think of as the inspiration for the Star Wars idea of the
+guide that Luke focuses on when he goes to target Darth Vader’s Death
+Star. Use the force Luke, so follow the ‘dao’ and it will take you to
+your target. Han Solo treats all of this talk about the force as an
+ancient, old, weird religion but we’ll see that it’s not really
+religious but it lies on the boundary between religion and
+philosophy. It’s a natural scheme of nature’s guidance. Guidance that
+does not depend on a supernatural force but that we just discover in
+nature. The practical impact of knowing ‘dao’ is knowing how to do
+things; knowing how to follow nature’s guiding paths.
+#+END_QUOTE
+
+Sí, me he apuntado al curso.  Ya veremos si lo concluyo, aunque las dos primeras lecciones han sido muy interesantes.  Y además, es gratuito.
+
+
 ** [2015-10-04 Sun] Cerveza artesana
 :PROPERTIES:
 :ID:       65849CC8-52B9-40B3-8387-7795D8CC26C5
