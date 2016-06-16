@@ -1,5 +1,5 @@
 #+TITLE: Primum vivere
-#+DATE: <2015-04-28 ma.>
+#+DATE: <2016-06-14 mar>
 #+AUTHOR: J. C. Gonzalez
 #+EMAIL: jcg@jcgonzalez.org
 
@@ -13,6 +13,12 @@
 :END:
 
 En este blog incluyo pequeños artículos sobre liderazgo, creatividad, innovación, y gestión de proyectos.  Espero que os resulten interesantes.
+
+#+INCLUDE: 20160615_Pint_Of_Science_2016.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20140320_I3_Creatividad.html][ver más...]])
+
 
 #+INCLUDE: 20140320_I3_Creatividad.org :minlevel 2  :lines "2-10"
  ...
