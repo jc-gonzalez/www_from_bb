@@ -142,7 +142,7 @@ objects of the same type."
 <td><a href=\"https://www.google.com/+JCGonzalezGcia\"><img src=\"img/googleplus.jpg\"/></a></td>
 <td><a href=\"http://www.jcgonzalez.org/jcg/index.xml\"><img src=\"img/rss.png\" width=\"24px\"/></a></td>
 <td style=\"width:30%%\"></td>
-<td>Copyright 2015 %a %e - Last updated %C <br>
+<td>Copyright 2014-2017 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)</td></tr></table>
     <script type=\"text/javascript\">stLight.options({publisher: \"44a394fb-c51c-44d8-a9f1-48559d120e78\", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
     <script>
@@ -175,7 +175,7 @@ Built with %c - (%v HTML)</td></tr></table>
          :html-preamble "<div class=\"nav\">"
          :html-postamble "<div style=\"position:absolute;top:10px;right:30px;\"><a href=\"http://www.jcgonzalez.org\"><img src=\"../../img/home.png\"/></a></div>
 <div class=\"footer\">
-Copyright 2015 %a %e - Last updated %C <br>
+Copyright 2014-2017 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)
 </div>"
          :headline-levels 2
@@ -221,7 +221,7 @@ Built with %c - (%v HTML)
 <td><a href=\"https://www.google.com/+JCGonzalezGcia\"><img src=\"../../img/googleplus.jpg\"/></a></td>
 <td><a href=\"http://www.jcgonzalez.org/jcg/blog/pv/pv.xml\"><img src=\"../../img/rss.png\" width=\"24px\"/></a></td>
 <td style=\"width:30%%\"></td>
-<td>Copyright 2015 %a %e - Last updated %C <br>
+<td>Copyright 2014-2017 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)</td></tr></table>
 </div>"
          :auto-index t
@@ -271,7 +271,7 @@ Built with %c - (%v HTML)</td></tr></table>
 <td><a href=\"https://www.google.com/+JCGonzalezGcia\"><img src=\"../../img/googleplus.jpg\"/></a></td>
 <td><a href=\"http://www.jcgonzalez.org/jcg/blog/yebsh/yebsh.xml\"><img src=\"../../img/rss.png\" width=\"24px\"/></a></td>
 <td style=\"width:30%%\"></td>
-<td>Copyright 2015 %a %e - Last updated %C <br>
+<td>Copyright 2014-2017 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)</td></tr></table>
 </div>"
          :auto-index t
@@ -321,7 +321,7 @@ Built with %c - (%v HTML)</td></tr></table>
 <td><a href=\"https://www.google.com/+JCGonzalezGcia\"><img src=\"../../img/googleplus.jpg\"/></a></td>
 <td><a href=\"http://www.jcgonzalez.org/jcg/blog/lsc/lsc.xml\"><img src=\"../../img/rss.png\" width=\"24px\"/></a></td>
 <td style=\"width:30%%\"></td>
-<td>Copyright 2015 %a %e - Last updated %C <br>
+<td>Copyright 2014-2017 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)</td></tr></table>
 </div>"
          :auto-index t
@@ -371,7 +371,7 @@ Built with %c - (%v HTML)</td></tr></table>
 <td><a href=\"https://www.google.com/+JCGonzalezGcia\"><img src=\"../../img/googleplus.jpg\"/></a></td>
 <td><a href=\"http://www.jcgonzalez.org/jcg/blog/libros/nl.xml\"><img src=\"../../img/rss.png\" width=\"24px\"/></a></td>
 <td style=\"width:30%%\"></td>
-<td>Copyright 2015 %a %e - Last updated %C <br>
+<td>Copyright 2014-2017 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)</td></tr></table>
 </div>"
          :auto-index t
