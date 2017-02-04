@@ -1,12 +1,12 @@
 #+SETUPFILE: config.inc
 
-* Arte
+* Pintura
 
-Quizá titular esta sección con “Arte” pueda resultar presuntuoso... pero el título era corto, y conveniente.  En cualquier caso, son pequeñas obras que he ido haciendo a lo largo de los años.  Es posible que artísticamente no sean gran cosa, pero desde luego siempre he puesto lo mejor de mí en ellos.
+Esta sección se titulba antes "Arte"... pero al final me ha resultado un tanto pretencioso, así que la he rebautizado.  En cualquier caso, son pequeñas obras pictóricas que he ido haciendo a lo largo de los años.  Es posible que artísticamente no sean gran cosa, pero desde luego siempre he puesto lo mejor de mí en ellos.
 
 Y pintar me relaja un montón...
 
-** The city 
+** The city
 
 #+CAPTION: The City - Óleo sobre lienzo
 #+NAME:   fig:TheCity
@@ -31,9 +31,7 @@ Y pintar me relaja un montón...
 [[./img/Arte_Cielo_y_Tierra.jpg]]
 
 ** Ayer, hoy, mañana
- 
+
 #+CAPTION: Ayer, hoy, mañana - Acrílico sobre lienzo
 #+NAME:   fig:AyerHoyManana
 [[./img/Arte_Ayer-hoy-manana.jpg]]
-
-
