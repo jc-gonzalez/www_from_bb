@@ -5,7 +5,7 @@
 
 #+SETUPFILE: ./webconfig.inc
 
-
+ 
 #+INCLUDE: inicio.org       :minlevel 1
 #+INCLUDE: cv.org           :minlevel 1
 #+INCLUDE: articulos.org    :minlevel 1
