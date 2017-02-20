@@ -17,10 +17,36 @@
 
 Este blog es la fusión de dos blogs que mantenía en el pasado, *La sana curiosidad* y *Primum vivere*, acerca de innovación y liderazgo el primero, y un batiburrillo de otras cosas el segundo.  Pero de alguna manera sentía que no tenía sentido mantener dos blogs, aunque fuesen de temáticas distintas.  Así que los he fusionado.  Espero que, entre otras cosas, me sirva para escribir un poco más a menudo.
 
+
+** [2017-02-20] Navegantes
+:PROPERTIES:
+:ID:       8DAC1B1E-FFC3-4101-90AA-22139470F51D
+:END:
+
+Leo en "Los propios dioses", una de las mejores novelas de ciencia ficción de Isaac Asimov, que tras la instauración de colonias en la Luna algunas muertes se produjeron al intentar establecerse en la Tierra gente nacida en la luna, selenitas de nacimiento.  Es claro que esto jamás ocurriría en la realidad, ya que todo estaría previsto de antemano, y los estudios mostrarían los problemas óseos de los selenitas.  Por tanto, lo tomo como una licencia literaria del autor, que intentaría probablemente añadir cierto dramatismo a la segregación de la Humanidad en varios planetas.
+
+Y sin embargo, considero muy cierto que aún estamos, y supongo que estaremos durante mucho tiempo, limitados por nuestro propio organismo, por nuestro propio ser biológico.  Y no sólo a nivel físico.  Es muy probable que no estemos preparados psicológicamente para viajes interestelares, sin la luz del Sol, o para vivir en una planeta extraño sin la presencia nocturna de nuestra Luna.
+
+No obstante, veo inevitable que el ser humano acabe explorando otros mundos.  Es posible que solamente una clase de personas sea capaz, al principio, de ser los pioneros en este capítulo de nuestra historia, del mismo modo que no todo el mundo estaba preparado siglos atrás para navegar durante meses o años por los océanos.  Un día llegará en el que sea normal para nosotros navegar entre las estrellas.
+
+
+** [2017-02-20] La ignorancia
+:PROPERTIES:
+:ID:       02BBB5EF-6CD6-47C5-B80D-F5FF57605658
+:END:
+
+En el día a día de las personas se difumina completamente toda la gloria de la existencia humana.  No tenemos presente la vastedad del espacio, ni la inmensidad del tiempo, en este Universo nuestro.
+
+Quizá el ser humano haya crecido con esta capacidad de manera intrínseca; es decir, quizá el ser humano no sea capaz de vivir un día a día con ese conocimiento consciente.  Quizá tener presente todos esas cosas haga que el ser humano se plantee demasiadas preguntas sin respuesta, que le hagan la vida demasiado difícil de soportar.
+
+En este sentido, la ignorancia podría ser un mecanismo de supervivencia de la especie.
+
+
 ** [2017-02-06] Francés
 :PROPERTIES:
 :ID:       3EEEE1D6-5FF3-476F-AB29-2619BC114DEE
 :END:
+
 Me he apuntado a clases de francés.  La verdad es que llevo desde el pasado noviembre.  Y se me da fatal.
 
 En el lugar donde trabajo hay una gran cantidad de clubes sociales, a los que se puede apuntar la gente para realizar diferentes actividades.  Hay club de /running/, club de robótica, club de vela, club de golf, de tenis, padel, fútbol...  Lo bueno de estos clubes es que la ESA los subvenciona, de manera que el pago que hay que realizar por una cierta actividad siempre es menor al coste que tendría de realizarla fuera del trabajo.

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+    <title>(Notas)</title>
+    <atom:link href="http://www.jcgonzalez.org/notas.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.jcgonzalez.org/</link>
+    <description><![CDATA[]]></description>
+    <language>en</language>
+    <pubDate>Mon, 20 Feb 2017 21:19:42 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 21:19:42 +0100</lastBuildDate>
+    <generator>Emacs 24.5 Org-mode 8.2.10</generator>
+    <webMaster>jcg@jcgonzalez.org (J. C. Gonzalez)</webMaster>
+    <image>
+        <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
+        <title>(Notas)</title>
+        <link>http://www.jcgonzalez.org/</link>
+    </image>
+
+    <div id="table-of-contents">
+        <h2>Table of Contents</h2>
+        <div id="text-table-of-contents">
+            <ul>
+                <li><a href="#sec-1">Notas</a>
+                <ul>
+                    <li><a href="#sec-1-1"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-20]</span></span> Navegantes</a></li>
+                    <li><a href="#sec-1-2"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-20]</span></span> La ignorancia</a></li>
+                    <li><a href="#sec-1-3"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-06]</span></span> Francés</a></li>
+                    <li><a href="#sec-1-4"><span class="timestamp-wrapper"><span class="timestamp">[2016-06-16]</span></span> Naturalismo en el pensamiento chino</a></li>
+                    <li><a href="#sec-1-5"><span class="timestamp-wrapper"><span class="timestamp">[2016-06-15]</span></span> Pint Of Science 2016</a></li>
+                    <li><a href="#sec-1-6"><span class="timestamp-wrapper"><span class="timestamp">[2015-10-04]</span></span> Cerveza artesana</a></li>
+                    <li><a href="#sec-1-7"><span class="timestamp-wrapper"><span class="timestamp">[2015-06-25]</span></span> Países donde he estado</a></li>
+                    <li><a href="#sec-1-8"><span class="timestamp-wrapper"><span class="timestamp">[2014-03-20]</span></span> I³ - Creatividad</a></li>
+                    <li><a href="#sec-1-9"><span class="timestamp-wrapper"><span class="timestamp">[2013-11-10]</span></span> Ser un líder (I)</a></li>
+                    <li><a href="#sec-1-10"><span class="timestamp-wrapper"><span class="timestamp">[2013-10-22]</span></span> El poder de la innovación (II): experimentos con Systematic Inventive Thinking</a></li>
+                    <li><a href="#sec-1-11"><span class="timestamp-wrapper"><span class="timestamp">[2013-10-14]</span></span> El poder de la innovación (I)</a></li>
+                    <li><a href="#sec-1-12"><span class="timestamp-wrapper"><span class="timestamp">[2013-08-01]</span></span> Liderazgo militar (I)</a></li>
+                    <li><a href="#sec-1-13"><span class="timestamp-wrapper"><span class="timestamp">[2013-08-01]</span></span> El buen diseño</a></li>
+                    <li><a href="#sec-1-14"><span class="timestamp-wrapper"><span class="timestamp">[2013-05-24]</span></span> Creo que mi cerebro está muerto</a></li>
+                    <li><a href="#sec-1-15"><span class="timestamp-wrapper"><span class="timestamp">[2013-05-14]</span></span> El latir de la Sociedad Global en directo, a través de Wikipedia</a></li>
+                    <li><a href="#sec-1-16"><span class="timestamp-wrapper"><span class="timestamp">[2013-02-06]</span></span> El retorno del geocentrismo</a></li>
+                    <li><a href="#sec-1-17"><span class="timestamp-wrapper"><span class="timestamp">[2012-12-28]</span></span> Atmorphophallus titanum</a></li>
+                    <li><a href="#sec-1-18"><span class="timestamp-wrapper"><span class="timestamp">[2012-10-22]</span></span> De cursos y post-its</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="figure">
+        <p><img src="http://www.jcgonzalez.org/../../img/lsc.png" alt="lsc.png" style="position: relative; right: -252px; top: -20px;" />
+        </p>
+    </div>
+
+    <item>
+        <title>Notas</title>
+        <link>http://www.jcgonzalez.org/notas.html#orgheadline1</link>
+        <author>J. C. Gonzalez</author>
+        <guid isPermaLink="false">http://www.jcgonzalez.org/notas.html#orgheadline1</guid>
+        <pubDate>Wed, 08 Jul 2015 00:04:00 +0200</pubDate>
+
+        <description><![CDATA[
+        <p>
+        Este blog es la fusión de dos blogs que mantenía en el pasado, <b>La sana curiosidad</b> y <b>Primum vivere</b>, acerca de innovación y liderazgo el primero, y un batiburrillo de otras cosas el segundo.  Pero de alguna manera sentía que no tenía sentido mantener dos blogs, aunque fuesen de temáticas distintas.  Así que los he fusionado.  Espero que, entre otras cosas, me sirva para escribir un poco más a menudo.
+        </p>
+        ]]></description>
+    </item>
+</channel>
+</rss>
