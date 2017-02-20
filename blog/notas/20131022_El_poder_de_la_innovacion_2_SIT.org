@@ -1,6 +1,6 @@
 #+SETUPFILE: webconfig.inc
 #+KEYWORDS: innovación,sit
-* El poder de la innovación (II): experimentos con Systematic Inventive Thinking
+* [2013-10-22] El poder de la innovación (II): experimentos con Systematic Inventive Thinking
   :PROPERTIES:
   :ID:       25EA967D-C368-4260-960F-10CEDBD144BD
   :PUBDATE:  <2015-07-08 Wed 00:04>

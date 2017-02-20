@@ -1,6 +1,6 @@
 #+SETUPFILE: webconfig.inc
 #+KEYWORDS: liderazgo
-* Liderazgo militar (I)
+* [2013-08-01] Liderazgo militar (I)
   :PROPERTIES:
   :ID:       822FF202-A509-46F3-9EF0-EF5DACAEDB78
   :PUBDATE:  <2015-07-08 Wed 00:04>

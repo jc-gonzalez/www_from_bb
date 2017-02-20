@@ -182,12 +182,12 @@ Built with %c - (%v HTML)
          :recursive t
          :auto-preamble t
          )
-        ("pv"
+        ("notas"
          :author "J.C.González"
          :email "jcg@jcgonzalez.org"
-         :base-directory "~/Personal/www/blog/pv"
+         :base-directory "~/Personal/www/blog/notas"
          :base-extension "org"
-         :publishing-directory "~/Personal/www/publishing/public_html/blog/pv"
+         :publishing-directory "~/Personal/www/publishing/public_html/blog/notas"
          :publishing-function org-html-publish-to-html
          :section-numbers nil
          :with-toc nil
@@ -195,7 +195,7 @@ Built with %c - (%v HTML)
 <link href=\"http://fonts.googleapis.com/css?family=Martel+Sans:200\" rel=\"stylesheet\" type=\"text/css\"/>
 <link rel=\"stylesheet\" href=\"css/jcg.css\" type=\"text/css\"/>"
          :html-head-extra "<link rel=\"alternate\" type=\"application/rss+xml\"
-                href=\"http://www.jcgonzalez.org/jcg/blog/pv/pv.xml\"
+                href=\"http://www.jcgonzalez.org/jcg/blog/notas/notas.xml\"
                 title=\"RSS blogs feed\">"
          :html-preamble "<div class=\"header\"></div>"
          :html-postamble "
@@ -219,7 +219,7 @@ Built with %c - (%v HTML)
 <tr><td><a href=\"https://es.linkedin.com/in/jcglez\"><img src=\"../../img/linkedin.jpg\"/></a></td>
 <td><a href=\"https://twitter.com/JoseCGlezGcia\"><img src=\"../../img/twitter.jpg\"/></a></td>
 <td><a href=\"https://www.google.com/+JCGonzalezGcia\"><img src=\"../../img/googleplus.jpg\"/></a></td>
-<td><a href=\"http://www.jcgonzalez.org/jcg/blog/pv/pv.xml\"><img src=\"../../img/rss.png\" width=\"24px\"/></a></td>
+<td><a href=\"http://www.jcgonzalez.org/jcg/blog/notas/notas.xml\"><img src=\"../../img/rss.png\" width=\"24px\"/></a></td>
 <td style=\"width:30%%\"></td>
 <td>Copyright 2014-2017 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)</td></tr></table>
@@ -270,56 +270,6 @@ Built with %c - (%v HTML)</td></tr></table>
 <td><a href=\"https://twitter.com/JoseCGlezGcia\"><img src=\"../../img/twitter.jpg\"/></a></td>
 <td><a href=\"https://www.google.com/+JCGonzalezGcia\"><img src=\"../../img/googleplus.jpg\"/></a></td>
 <td><a href=\"http://www.jcgonzalez.org/jcg/blog/yebsh/yebsh.xml\"><img src=\"../../img/rss.png\" width=\"24px\"/></a></td>
-<td style=\"width:30%%\"></td>
-<td>Copyright 2014-2017 %a %e - Last updated %C <br>
-Built with %c - (%v HTML)</td></tr></table>
-</div>"
-         :auto-index t
-         :auto-sitemap t                ; Generate sitemap.org automagically...
-         :sitemap-filename "sitemap.org"  ; ... call it sitemap.org (it's the default)...
-         :sitemap-title "Sitemap"         ; ... with title 'Sitemap'.
-         :headline-levels 3
-         :recursive t
-         :auto-preamble t
-         :makeindex t
-         )
-        ("lsc"
-         :author "J.C.González"
-         :email "jcg@jcgonzalez.org"
-         :base-directory "~/Personal/www/blog/lsc"
-         :base-extension "org"
-         :publishing-directory "~/Personal/www/publishing/public_html/blog/lsc"
-         :publishing-function org-html-publish-to-html
-         :section-numbers nil
-         :with-toc nil
-         :html-head "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>
-<link href=\"http://fonts.googleapis.com/css?family=Martel+Sans:200\" rel=\"stylesheet\" type=\"text/css\"/>
-<link rel=\"stylesheet\" href=\"css/jcg.css\" type=\"text/css\"/>"
-         :html-head-extra "<link rel=\"alternate\" type=\"application/rss+xml\"
-                href=\"http://www.jcgonzalez.org/jcg/blog/lsc/lsc.xml\"
-                title=\"RSS blogs feed\">"
-         :html-preamble "<div class=\"header\"></div>"
-         :html-postamble "<div style=\"position:absolute;top:10px;right:30px;\"><a href=\"http://www.jcgonzalez.org\"><img src=\"../../img/home.png\"/></a></div>
-<div id=\"disqus_thread\"></div>
-<script type=\"text/javascript\">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'jcgonzalezorg';
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href=\"https://disqus.com/?ref_noscript\" rel=\"nofollow\">comments powered by Disqus.</a></noscript>
-<a href=\"http://disqus.com\" class=\"dsq-brlink\">comments powered by <span class=\"logo-disqus\">Disqus</span></a>
-<div class=\"footer\">
-<table bordeer=\"0\" cellpadding=\"0\">
-<tr><td><a href=\"https://es.linkedin.com/in/jcglez\"><img src=\"../../img/linkedin.jpg\"/></a></td>
-<td><a href=\"https://twitter.com/JoseCGlezGcia\"><img src=\"../../img/twitter.jpg\"/></a></td>
-<td><a href=\"https://www.google.com/+JCGonzalezGcia\"><img src=\"../../img/googleplus.jpg\"/></a></td>
-<td><a href=\"http://www.jcgonzalez.org/jcg/blog/lsc/lsc.xml\"><img src=\"../../img/rss.png\" width=\"24px\"/></a></td>
 <td style=\"width:30%%\"></td>
 <td>Copyright 2014-2017 %a %e - Last updated %C <br>
 Built with %c - (%v HTML)</td></tr></table>
@@ -403,17 +353,17 @@ Built with %c - (%v HTML)</td></tr></table>
          :exclude ".*"
          :include ("index.orgp")
          )
-        ("rss-pv"
-         :base-directory "~/Personal/www/blog/pv"
+        ("rss-notas"
+         :base-directory "~/Personal/www/blog/notas"
          :base-extension "org"
-         :publishing-directory "~/Personal/www/publishing/public_html/blog/pv"
+         :publishing-directory "~/Personal/www/publishing/public_html/blog/notas"
          :publishing-function (org-rss-publish-to-rss)
          :html-link-home "http://www.jcgonzalez.org/"
          :html-link-use-abs-url t
          :recursive f
          :auto-preamble t
          :exclude ".*"
-         :include ("pv.org")
+         :include ("notas.org")
          )
         ("rss-yebsh"
          :base-directory "~/Personal/www/blog/yebsh"
@@ -426,18 +376,6 @@ Built with %c - (%v HTML)</td></tr></table>
          :auto-preamble t
          :exclude ".*"
          :include ("yebsh.org")
-         )
-        ("rss-lsc"
-         :base-directory "~/Personal/www/blog/lsc"
-         :base-extension "org"
-         :publishing-directory "~/Personal/www/publishing/public_html/blog/lsc"
-         :publishing-function (org-rss-publish-to-rss)
-         :html-link-home "http://www.jcgonzalez.org/"
-         :html-link-use-abs-url t
-         :recursive f
-         :auto-preamble t
-         :exclude ".*"
-         :include ("lsc.org")
          )
         ("rss-nl"
          :base-directory "~/Personal/www/blog/libros"
@@ -454,9 +392,9 @@ Built with %c - (%v HTML)</td></tr></table>
         ("jcg-site"
          :components ("org"
                       "blog"
-                      "pv" "yebsh" "lsc" "libros"
+                      "notas" "yebsh" "libros"
                       "rss"
-                      "rss-pv" "rss-yebsh" "rss-lsc" "rss-nl"
+                      "rss-notas" "rss-yebsh" "rss-nl"
                       "static"))
         )
       )

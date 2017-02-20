@@ -1,6 +1,6 @@
 #+SETUPFILE: webconfig.inc
 #+KEYWORDS: liderazgo
-* Ser un líder (I)
+* [2013-11-10] Ser un líder (I)
   :PROPERTIES:
   :ID:       5D5EA8FE-B33B-4738-865D-B2485D7622E0
   :PUBDATE:  <2015-07-08 Wed 00:04>

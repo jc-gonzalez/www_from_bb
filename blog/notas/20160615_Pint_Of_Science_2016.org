@@ -1,6 +1,6 @@
 #+SETUPFILE: webconfig.inc
 #+KEYWORDS: creatividad
-* Pint Of Science 2016
+* [2016-06-15] Pint Of Science 2016
   :PROPERTIES:
   :ID:       B1872574-638A-4AC4-A144-1EA0A472C273
   :PUBDATE:  <2015-07-08 Wed 00:04>

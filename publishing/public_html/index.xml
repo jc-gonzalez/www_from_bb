@@ -14,9 +14,9 @@
     <link>http://www.jcgonzalez.org/</link>
     <description><![CDATA[]]></description>
     <language>en</language>
-    <pubDate>Mon, 06 Feb 2017 20:08:06 +0100</pubDate>
-    <lastBuildDate>Mon, 06 Feb 2017 20:08:06 +0100</lastBuildDate>
-    <generator>Emacs 24.5 Org-mode 8.2.10</generator>
+    <pubDate>Mon, 20 Feb 2017 12:16:49 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 12:16:49 +0100</lastBuildDate>
+    <generator>Emacs 25.1 Org-mode 8.2.10</generator>
     <webMaster>jcg@jcgonzalez.org (J. C. Gonzalez)</webMaster>
     <image>
         <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
@@ -117,9 +117,8 @@
         <li><a href="#sec-7">Blogs</a>
         <ul>
             <li><a href="#sec-7-1">Ciencia en sí misma</a></li>
-            <li><a href="#sec-7-2">Primum Vivere</a></li>
-            <li><a href="#sec-7-3">La sana curiosidad</a></li>
-            <li><a href="#sec-7-4">Y el bit se hizo</a></li>
+            <li><a href="#sec-7-2">Notas</a></li>
+            <li><a href="#sec-7-3">Y el bit se hizo</a></li>
         </ul>
         </li>
         <li><a href="#sec-8">Estado</a></li>

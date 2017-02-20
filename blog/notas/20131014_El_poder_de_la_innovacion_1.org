@@ -1,6 +1,6 @@
 #+SETUPFILE: webconfig.inc
 #+KEYWORDS: innovación,sit
-* El poder de la innovación (I)
+* [2013-10-14] El poder de la innovación (I)
   :PROPERTIES:
   :ID:       94AF703C-90C0-437D-9F41-B851FE14C810
   :PUBDATE:  <2015-07-08 Wed 00:04>

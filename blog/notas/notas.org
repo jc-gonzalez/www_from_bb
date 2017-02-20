@@ -1,5 +1,5 @@
 #+TITLE: Notas
-#+DATE: <2016-06-14 mar>
+#+DATE: <2017-02-20 lun>
 #+AUTHOR: J. C. Gonzalez
 #+EMAIL: jcg@jcgonzalez.org
 
@@ -17,7 +17,7 @@
 
 Este blog es la fusión de dos blogs que mantenía en el pasado, *La sana curiosidad* y *Primum vivere*, acerca de innovación y liderazgo el primero, y un batiburrillo de otras cosas el segundo.  Pero de alguna manera sentía que no tenía sentido mantener dos blogs, aunque fuesen de temáticas distintas.  Así que los he fusionado.  Espero que, entre otras cosas, me sirva para escribir un poco más a menudo.
 
-** [2017-02-06 Mon] Francés
+** [2017-02-06] Francés
 :PROPERTIES:
 :ID:       3EEEE1D6-5FF3-476F-AB29-2619BC114DEE
 :END:
@@ -32,7 +32,7 @@ Ahora me he apuntado a francés, y además estamos en el nivel básico, desde el
 Pero voy a darle una oportunidad, porque de momento no me resulta demasiado exigente.  El tiempo dirá adonde llegamos con esto.  Ya os comentaré.
 
 
-** [2016-06-16 Thu] Naturalismo en el pensamiento chino
+** [2016-06-16] Naturalismo en el pensamiento chino
 :PROPERTIES:
 :ID:       431de377-10e8-4c5a-9bd1-00acf25fdc9e
 :END:
@@ -65,7 +65,7 @@ Sí, me he apuntado al curso.  Ya veremos si lo concluyo, aunque las dos primera
 ([[./20140320_I3_Creatividad.html][ver más...]])
 
 
-** [2015-10-04 Sun] Cerveza artesana
+** [2015-10-04] Cerveza artesana
 :PROPERTIES:
 :ID:       65849CC8-52B9-40B3-8387-7795D8CC26C5
 :END:
@@ -88,7 +88,7 @@ Como fin de fiesta, mi amigo había hecho unas pegatinas para que pudiesemos hac
 [[../../img/cerveza.jpg]]
 
 
-** [2015-06-25 jue] Países donde he estado
+** [2015-06-25] Países donde he estado
 :PROPERTIES:
 :ID:       D2DCEC24-482B-434C-BBD0-D519E4DC553C
 :END:
@@ -143,7 +143,7 @@ Realmente he estado en pocos lugares del mundo.  Quizá haya que comenzar a plan
 
 
 
-** [2013-05-24 vie] Creo que mi cerebro está muerto
+** [2013-05-24] Creo que mi cerebro está muerto
 :PROPERTIES:
 :ID:       96033EE8-3A8D-44A8-9E71-C4A8334B2EC5
 :END:
@@ -162,7 +162,7 @@ Los que sufren esta enfermedad suelen morir de inanición, dado que piensan que 
 (Ver artículo en *New Scientist*, [[http://www.newscientist.com/article/dn23583-mindscapes-first-interview-with-a-dead-man.html][Mindscapes: First interview with a dead man]]).
 
 
-** [2013-05-14 mar] El latir de la Sociedad Global en directo, a través de Wikipedia
+** [2013-05-14] El latir de la Sociedad Global en directo, a través de Wikipedia
 :PROPERTIES:
 :ID:       C2526B55-337D-42A1-91B8-378C50AF36B4
 :END:
@@ -175,7 +175,7 @@ Hoy me he encontrado con algo que me ha parecido terrible y bello a la vez: una 
 A mí me ha parecido, sinceramente, una visión de la Sociedad Global en su estado puro.
 
 
-** [2013-02-06 mie] El retorno del geocentrismo
+** [2013-02-06] El retorno del geocentrismo
 :PROPERTIES:
 :ID:       4853ED89-5186-4955-B76F-3EC6953F1528
 :END:
@@ -192,7 +192,7 @@ Solamente se me ocurre decir que podía ser peor: podían afirmar que la Tierra 
 En fin, vaya tela...
 
 
-** [2012-12-28 vie] Atmorphophallus titanum
+** [2012-12-28] Atmorphophallus titanum
 :PROPERTIES:
 :ID:       00294A20-693D-4377-8241-F2C421F37112
 :END:
@@ -207,7 +207,7 @@ Esta curiosa flor es siempre noticia.  Mejor dicho, es noticia siempre que flore
 Claro, que con su fétido olor no apetece estar mucho tiempo contemplándola de cerca.
 
 
-** [2012-10-22 lun] De cursos y post-its
+** [2012-10-22] De cursos y post-its
 :PROPERTIES:
 :ID:       377E46E4-4CF4-41E0-8758-DB9705928552
 :END:

@@ -1,6 +1,6 @@
 #+SETUPFILE: webconfig.inc
 #+KEYWORDS: diseño
-* El buen diseño
+* [2013-08-01] El buen diseño
   :PROPERTIES:
   :ID:       1954CBA8-C15D-4D03-8E4F-3459FB3608FB
   :PUBDATE:  <2015-07-08 Wed 00:04>

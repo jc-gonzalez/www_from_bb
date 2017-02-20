@@ -1,6 +1,6 @@
 #+SETUPFILE: webconfig.inc
 
-* ¡Arrancamos!
+* [2015-05-08] ¡Arrancamos!
   :PROPERTIES:
   :ID:       F178993A-3F1B-4902-8B14-060C3224B2AE
   :PUBDATE:  <2015-07-08 Wed 00:04>
