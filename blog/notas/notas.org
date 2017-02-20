@@ -1,0 +1,228 @@
+#+TITLE: Notas
+#+DATE: <2016-06-14 mar>
+#+AUTHOR: J. C. Gonzalez
+#+EMAIL: jcg@jcgonzalez.org
+
+#+SETUPFILE: webconfig.inc
+#+SETUPFILE: config.inc
+
+#+attr_html: :style position: relative; right: -252px; top: -20px;
+[[../../img/lsc.png]]
+
+* Notas
+:PROPERTIES:
+:ID:       0B0FA748-B051-4988-AC50-C96A04B10B46
+:PUBDATE:  <2015-07-08 Wed 00:04>
+:END:
+
+Este blog es la fusión de dos blogs que mantenía en el pasado, *La sana curiosidad* y *Primum vivere*, acerca de innovación y liderazgo el primero, y un batiburrillo de otras cosas el segundo.  Pero de alguna manera sentía que no tenía sentido mantener dos blogs, aunque fuesen de temáticas distintas.  Así que los he fusionado.  Espero que, entre otras cosas, me sirva para escribir un poco más a menudo.
+
+** [2017-02-06 Mon] Francés
+:PROPERTIES:
+:ID:       3EEEE1D6-5FF3-476F-AB29-2619BC114DEE
+:END:
+Me he apuntado a clases de francés.  La verdad es que llevo desde el pasado noviembre.  Y se me da fatal.
+
+En el lugar donde trabajo hay una gran cantidad de clubes sociales, a los que se puede apuntar la gente para realizar diferentes actividades.  Hay club de /running/, club de robótica, club de vela, club de golf, de tenis, padel, fútbol...  Lo bueno de estos clubes es que la ESA los subvenciona, de manera que el pago que hay que realizar por una cierta actividad siempre es menor al coste que tendría de realizarla fuera del trabajo.
+
+A mí la verdad es que lo que me interesaba era el japonés.  Pero no había suficiente gente para formar un grupo de japonés nivel principiante.  Me apunté al curso de chino, nivel intermedio, y la verdad es que era estupendo.  Pero al ser intermedio, y tener que ponerme al nivel de los demás alumnos, la cantidad de cosas, sobre todo vocabulario, que tenía que aprender era demasiado.  Al final abandoné, ya que me causaba demasiada frustración no poder dedicarle el tiempo necesario.
+
+Ahora me he apuntado a francés, y además estamos en el nivel básico, desde el principio.  Pero lo cierto es que no me gusta.  Nunca me ha gustado.  Quizá por eso se me da bastante mal.
+
+Pero voy a darle una oportunidad, porque de momento no me resulta demasiado exigente.  El tiempo dirá adonde llegamos con esto.  Ya os comentaré.
+
+
+** [2016-06-16 Thu] Naturalismo en el pensamiento chino
+:PROPERTIES:
+:ID:       431de377-10e8-4c5a-9bd1-00acf25fdc9e
+:END:
+
+Ayer me llegó un e-mail de una de esas plataformas de cursos online.  Últimamente no les hago demasiado caso a estos e-mails, ya que ando más que liado con la casa nueva, la novela nueva, el trabajo nuevo...  Pero en el e-mail de ayer vi un curso que me intrigó: *Humanity and Nature in Chinese Thought*, por la Hong-Kong University.  Así que comencé a echarle un vistazo.
+
+El curso dura 8 semanas, y trata esencialmente de dar un repaso al Naturalismo que impregna la filosofía del pensamiento chino, en contraposición al Supernaturalismo del pensamiento occidental.  El profesor, en la presentación del curso, sabe como atraer alumnos:
+
+#+BEGIN_QUOTE
+We are going to be presenting a course to you on Chinese Philosophy
+that focuses on the concept of ‘dao’. This is a concept that we kind
+of like to think of as the inspiration for the Star Wars idea of the
+guide that Luke focuses on when he goes to target Darth Vader’s Death
+Star. Use the force Luke, so follow the ‘dao’ and it will take you to
+your target. Han Solo treats all of this talk about the force as an
+ancient, old, weird religion but we’ll see that it’s not really
+religious but it lies on the boundary between religion and
+philosophy. It’s a natural scheme of nature’s guidance. Guidance that
+does not depend on a supernatural force but that we just discover in
+nature. The practical impact of knowing ‘dao’ is knowing how to do
+things; knowing how to follow nature’s guiding paths.
+#+END_QUOTE
+
+Sí, me he apuntado al curso.  Ya veremos si lo concluyo, aunque las dos primeras lecciones han sido muy interesantes.  Y además, es gratuito.
+
+
+#+INCLUDE: 20160615_Pint_Of_Science_2016.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20140320_I3_Creatividad.html][ver más...]])
+
+
+** [2015-10-04 Sun] Cerveza artesana
+:PROPERTIES:
+:ID:       65849CC8-52B9-40B3-8387-7795D8CC26C5
+:END:
+
+El año pasado me regalaron un kit para hacer cerveza de manera artesanal.  Lo cierto es que me hizo mucha ilusión, ya que si bien no soy un gran bebedor de cerveza, si es cierto que me gusta; pero sobre todo, me llamaba la atención conocer la manera en que se producía la cerveza (igual que casi cualquier otra cosa).  Mi curiosidad, de nuevo.
+
+El kit se componía de dos cajas.  En una venían las botellas vacías, una docena, donde habría de embotellarse la cerveza una vez producida.  Venían acompañadas de unos tapones de esos de aire retro que se sujetan al cuello de la botella por unos gruesos alambres y que consisten en un tapón cerámico con un aro de goma rojo.  Valga decir, para aquellos que tengan ya cierta edad, que era como los tapones de la gaseosa de hace 40 años.
+
+En la otra caja venía el kit de producción propiamente dicho.  Para el tipo de cerveza que se produciría con este kit (/Irish Stout/) los ingredientes eran una bolsa de maltas tostadas, un par de sobre de lúpulos, al vacío, y un sobrecito de levadura.  Venían estos componentes acompañados por un botellón enorme, estilo matraz, donde se produciría la fermentación, y una serie de elementos adicionales, como un tapón multicomponente, una goma, un tubo, y otras cosas más pequeñas.
+
+El problema era que nunca encontraba el momento para hacerlo.  Y así, ocurrió que los consumibles me caducaron antes de realizar el ejercicio de la producción cervecera.  Mal por mí.
+
+Afortunadamente, hace un par de meses me dijo mi amigo Fernando que le habían regalado un kit similar.  Así que nos apañamos para quedar en su casa ha intentar la producción de nuestros galones de cerveza.
+
+Esto ocurrió hace dos semanas.  Durante estos últimos quince días, la cerveza ha estado fermentando en su matraz, y los restos de malta se han ido sedimentando.  Hasta ayer, día en que trasvasamos la cerveza, eliminando los posos, añadiéndoles un punto de miel para que la fermentación se acelerase y se generase más gas, y procediendo a su embotellado.
+
+Como fin de fiesta, mi amigo había hecho unas pegatinas para que pudiesemos hacer lo que el denominó "intercambio de banderines".  En la imagen puede verse el resultado final.  En dos semanas, probaremos el resultado, y actualizaremos este post.
+
+#+attr_html: :width 200px;
+[[../../img/cerveza.jpg]]
+
+
+** [2015-06-25 jue] Países donde he estado
+:PROPERTIES:
+:ID:       D2DCEC24-482B-434C-BBD0-D519E4DC553C
+:END:
+
+#+begin_html
+<div style="{position: relative; left: 440px;}">
+<p align="center"><b>Países donde he estado</b><br/>
+<img src="http://chart.apis.google.com/chart?cht=t&chs=440x220&chco=ffffff,3399ff,3399ff&chf=bg,s,eaf7fe&chtm=world&chld=ATCRCZFRDEVAITZAESSZCHUS&chd=s:000000000000"/>
+</p>
+</div>
+#+end_html
+
+Algo que ya conocía: una página web donde puedes marcar los países en los que uno ha estado, y que dibuja un mapamundi coloreando esos países.  Cortesía de [[http://bighugelabs.com/map.php][BigHugeLabs.com]].
+
+Realmente he estado en pocos lugares del mundo.  Quizá haya que comenzar a plantearnos hacer un viajecito al extranjero de vez en cuando...
+
+
+#+INCLUDE: 20140320_I3_Creatividad.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20140320_I3_Creatividad.html][ver más...]])
+
+
+#+INCLUDE: 20131110_Ser_un_lider_1.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20131110_Ser_un_lider_1.html][ver más...]])
+
+
+#+INCLUDE: 20131022_El_poder_de_la_innovacion_2_SIT.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20131022_El_poder_de_la_innovacion_2_SIT.html][ver más...]])
+
+
+#+INCLUDE: 20131014_El_poder_de_la_innovacion_1.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20131014_El_poder_de_la_innovacion_1.html][ver más...]])
+
+
+#+INCLUDE: 20130801_Liderazgo_militar_1.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20130801_Liderazgo_militar_1.html][ver más...]])
+
+
+#+INCLUDE: 20130801_El_buen_diseno.org :minlevel 2  :lines "2-10"
+ ...
+
+([[./20130801_El_buen_diseno.html][ver más...]])
+
+
+
+** [2013-05-24 vie] Creo que mi cerebro está muerto
+:PROPERTIES:
+:ID:       96033EE8-3A8D-44A8-9E71-C4A8334B2EC5
+:END:
+
+#+attr_html: :width 200px :style position: relative; left: 200px;
+[[../../img/Cotard.jpg]]
+
+Hace poco he leído algo acerca de lo que se denomina el síndrome de Cotard: la impresión absolutamente irracional de que el cerebro propio está muerto.  Este mal, que parece estar relacionado con terribles formas de depresión profunda, resulta ser en la actualidad extraordinariamente raro en su profusión.
+
+El artículo que leí relataba el caso de una persona a la que se había entrevistado, y que había sufrido esta enfermedad.  Su testimonio es terrible: “No tenía sentido tomarse las cápsulas que el hospital me suministraba, dado no iban a hacerme ningún bien, puesto que mi cerebro estaba muerto.  Perdí el sentido del olfato y del gusto.  No necesitaba comer, ni hablar, ni hacer ninguna otra cosa.  Acabé por pasar el tiempo en los cementerios, ya que era el lugar donde podía encontrarme más cerca de la muerte.”
+
+Este caso, que los médicos han calificado de extraordinario, continúa siendo un enigma.  Por ejemplo, las piernas del paciente, un hombre, estaban anteriormente llenas de pelo, pero éste desapareció al caer el paciente enfermo.  Otra cosa que detectaron los médicos, y que podría estar directamente relacionado con la aparición del síndrome de Cotard, es el bajísimo nivel metabólico encontrado en pruebas PET (positron emission tomography) relizadas en los lóbulos frontal y parietal del cerebro, en areas relacionadas con el “Yo” y el pensamiento sobre uno mismo.  Los niveles metabólicos encontrados eran compatibles con una persona en estado vegetativo.
+
+Los que sufren esta enfermedad suelen morir de inanición, dado que piensan que no necesitan comer, respirar, etc.  El sujeto del artículo en cuestión fue bien cuidado por familiares y amigos, y mediante medicamentos ha conseguido una gran autonomía en su vida.  Y ya no cree que su cerebro ni ninguna otra parte de su ser está muerto.  Aunque aún se siente algo extraño.
+
+(Ver artículo en *New Scientist*, [[http://www.newscientist.com/article/dn23583-mindscapes-first-interview-with-a-dead-man.html][Mindscapes: First interview with a dead man]]).
+
+
+** [2013-05-14 mar] El latir de la Sociedad Global en directo, a través de Wikipedia
+:PROPERTIES:
+:ID:       C2526B55-337D-42A1-91B8-378C50AF36B4
+:END:
+
+#+attr_html: :width 200px :style position: relative; left: 200px;
+[[../../img/WikiRecentChangesMap.png]]
+
+Hoy me he encontrado con algo que me ha parecido terrible y bello a la vez: una visualización de las ediciones que se van realizando en las páginas de la Wikipedia, en todo el mundo, prácticamente en vivo y en directo.  La página, llamada [[http://rcmap.hatnote.com/#en][Hatnote Wikipedia Recent Changes Map]], va mostrando, a intervalos de segundos, la localización aproximada de las personas que en esos momentos han editado una página de la Wikipedia (y, ya de paso, te dice qué  página han modificado).
+
+A mí me ha parecido, sinceramente, una visión de la Sociedad Global en su estado puro.
+
+
+** [2013-02-06 mie] El retorno del geocentrismo
+:PROPERTIES:
+:ID:       4853ED89-5186-4955-B76F-3EC6953F1528
+:END:
+
+#+attr_html: :width 200px :style position: relative; left: 200px;
+[[../../img/turtleCosmos.png]]
+
+Leo en el ABC que /“un profesor de la Universidad del País Vasco y un doctor por la de Murcia aseguran en un libro que nuestro planeta no se mueve y que es el Sol el que gira a su alrededor”/ (ver en este [[http://www.abc.es/ciencia/20130205/abci-fisico-vasco-afirma-tierra-201302051334.html][enlace]]).  Estos dos caballeros afirman que la Tierra es el centro del Universo.
+
+Según la noticia, /“el físico Juan Carlos Gorostizaga, profesor de matemáticas aplicadas en la Escuela Técnica Superior de Náutica y Máquinas Navales de la Universidad del País Vasco (UPV), y Milenko Bernadic, doctor en Matemáticas por la Universidad de Murcia y actualmente profesor de Secundaria, han escrito un libro llamado «Sin embargo no se mueve», en el que desechan cientos de años de acumulación de conocimientos astronómicos y científicos y afirman, sencillamente, que la Tierra es el centro del Universo”/.  Según los autores del libro, el libro está indicado especialmente para /“católicos con buena formación en ciencias”/.
+
+Solamente se me ocurre decir que podía ser peor: podían afirmar que la Tierra es plana (como, por cierto, asegura aún un porcentaje significativo de la población de Estados Unidos).  O peor todavía, que en realidad la Tierra es una esfera hueca y vivimos en su superficie interior.
+
+En fin, vaya tela...
+
+
+** [2012-12-28 vie] Atmorphophallus titanum
+:PROPERTIES:
+:ID:       00294A20-693D-4377-8241-F2C421F37112
+:END:
+
+#+attr_html: :width 200px :style position: relative; left: 200px;
+[[../../img/amorphophallusTitanum.png]]
+
+El aro gigante, o bunga bangkai, que en indonesio quiere decir /“flor cadaver”/, es la flor más grande y apestosa del mundo.  Debe su nombre indonesio a su característico aroma a carne putrefacta.  Su nombre científico, Amorphophallus titanum, quiere decir literalmente /“falo gigante deforme”/.  Dicho nombre viene de su forma alargada.
+
+Esta curiosa flor es siempre noticia.  Mejor dicho, es noticia siempre que florece, ya que puede tardar hasta quince años en florecer; la flor, de hasta tres metros de altura, en cambio, durará solamente unos pocos días.
+
+Claro, que con su fétido olor no apetece estar mucho tiempo contemplándola de cerca.
+
+
+** [2012-10-22 lun] De cursos y post-its
+:PROPERTIES:
+:ID:       377E46E4-4CF4-41E0-8758-DB9705928552
+:END:
+
+#+attr_html: :width 200px :style position: relative; left: 200px;
+[[../../img/postits.png]]
+
+Hace poco he tenido que impartir de nuevo un curso cuya convocatoria suele ser más o menos anual.  Se trata de un curso eminentemente técnico, y que pretende ser todo lo práctico que sea posible.  Es un curso avanzado de C, el lenguaje de programación, en el cual, además, hago hincapié en programación concurrente, comunicación entre procesos, y cosas de este pelaje.  Pero estoy divagando...
+
+El caso es que tradicionalmente, tras el curso, se pasaba a los alumnos un formulario que debían cumplimentar, para evaluar tanto los contenidos del curso, como su idoneidad, y la capacidad del formador.  Rellenar este formulario era necesario... pero en la práctica solamente uno de cada tres asistentes lo hacía, y tarde.  Parte de la responsabilidad podíamos achacarla al momento en que se distribuía el formulario entre los asistentes: normalmente, meses después del proceso formativo, lo que hacía que la mayoría apenas recordase nada del curso ni de sus contenidos o la destreza formativa del profesor.  Esto, unido con la constatación de que se hace antes lo urgente que lo importante, nos daba ese 30% de formularios contestados.
+
+Por si fuera poco, esta información no solía distribuirse a los profesores; sólo si era solicitada de manera expresa se distribuían los datos recopilados (protegidos por el debido anonimato, por supuesto).
+
+Como a mí me interesa saber cuanto antes cómo de bien es el material que preparo, y qué tal son mis exposiciones, esta convocatoria se me ha ocurrido usar el método del "panel de post-its".  En la pared, cerca de la puerta de salida, disponía dos postits acotando un segmento de una línea horizontal imaginario, donde aparecían las palabras "Profesor mal" y "Profesor bien"; y otros dos acotando un segmento de línea vertical imaginario, con las palabras "Material mal" y "Material bien". de manera que uno de los extremos del segmento horizontal (el eje "Profe"), coincidiese con uno de los extremos del segmento vertical (o eje "Material").  En el extremo coincidente aparecían los post-its "Profe bien" y "Material bien".  Al inicio del curso distribuí entre los alumnos un paquetito de post-its, y les expliqué la dinámica a seguir.  Al finalizar la clase diaria, habrían de tomar un post-it por cada capítulo del curso tratado ese día, debían escribir el número de ese capítulo en un post-it, y pegarlo en el sistema de coordenadas definido por los ejes "Profe" y "Material", tanto más cerca de los extremos "bien" o "mal", cuanto mejor o peor hubiesen sido el tratamiento dado por el profesor y los materiales (presentación, textos y ejemplos) para ese capítulo.  Y así con todos.
+
+De esta forma, al terminar cada día de curso, obtenía una evaluación de grano fino (al nivel de capítulo del curso) tanto de mi exposición como de los materiales del curso.  Con hacer una foto con el móvil al panel de la pared, ya tenía la evaluación generada para ese día por mis alumnos.
+
+Al principio les resultó divertido lo que les conté, especialmente cuando pegué en la pared los post-its que representaban los extremos de los ejes; pero pronto se habituaron a ello.  Y, la verdad, estoy muy contento con los resultados.  El único problema creo que ha venido de que los post-its que distribuí eran un poco grandes, y en varias ocasiones varias personas han querido poner un post-it exactamente donde otra persona lo había puesto antes; y por no pegarlo encima, lo han puesto a un lado, o arriba, o abajo, falseando ligeramente su criterio.  En fin, poco a poco iré perfeccionando el sistema.

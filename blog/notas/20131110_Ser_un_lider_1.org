@@ -1,0 +1,49 @@
+#+SETUPFILE: webconfig.inc
+#+KEYWORDS: liderazgo
+* Ser un líder (I)
+  :PROPERTIES:
+  :ID:       5D5EA8FE-B33B-4738-865D-B2485D7622E0
+  :PUBDATE:  <2015-07-08 Wed 00:04>
+  :END:
+
+/Publicado 10 mayo 2013, 07:30/
+
+** ¿Qué es ser un líder?
+   :PROPERTIES:
+   :ID:       9C712CFF-7108-4762-BC1E-545C6FECD52A
+   :END:
+
+Ser un líder significa ser aquella persona cuya opinión es la más valorada en un grupo de personas con un interés común, ya sean componentes de un equipo de fútbol, un conjunto de amigos, o el personal del departamento de una empresa, hasta el punto de ser la persona de referencia en gran parte de las interacciones de ese grupo con el exterior, y en la toma de decisiones y movimientos internos al grupo.
+
+** Liderazgo frente a posición jerárquica
+   :PROPERTIES:
+   :ID:       4F0BE79C-9E01-4841-8DD7-0FE9CEA6038F
+   :END:
+
+A costa de decir algo ya bien conocido, hay que dejar claro que el liderazgo que puede ejercer una persona no tiene, en principio, nada que ver con la posición jerárquica que esa persona posea dentro de la estructura del grupo. Es decir, una persona puede ser el jefe de un grupo y no ser su líder y, al contrario, puede ser el líder sin ser el jefe.
+
+Esto queda meridianamente claro simplemente planteando cuál es la fuente de la autoridad de cada uno: en el caso del jefe, éste decide lo que hay que hacer en virtud de la autoridad que le otorga su posición jerárquica, y el resto de componentes del grupo le obedecen; en cambio, el líder determina también, o influye en, la actuación del grupo, pero lo hace en base a la “autoridad moral” que ejerce sobre el resto del equipo; el grupo le sigue.
+
+¿Y cuál es el efecto psicológico, más allá de la influencia en términos de identificación de metas y caminos a seguir, que produce el líder en el grupo? Puede decirse que el grupo obtiene psicológicamente el beneficio de sentirse más confiado en el futuro de sus actividades.
+
+** ¿Un líder nace, o se hace?
+   :PROPERTIES:
+   :ID:       7D767F8A-14BA-4575-A9FE-9B87A6158F10
+   :END:
+
+Unos de los grandes mitos es el de que los líderes nacen líderes. Que duda cabe que ciertas capacidades y actitudes innatas ayudan de manera fundamental al desarrollo de un líder. Pero se ha demostrado que más allá de estas cualidades propias, una persona puede convertirse en líder a traves del aprendizaje y de la experiencia. Hay técnicas de liderazgo, de toma de decisiones, de conducción de equipos, de motivación, de comunicación, etc. que el líder tiene que conocer y dominar, y en esto es fundamental el estudio y la formación. La práctica de lo aprendido se obtendrá al ir asumiendo responsabilidades, tomando decisiones, solucionando problemas, haciendo frente a situaciones difíciles. Todo ello tiene que complementarse de manera crucial con el feed-back del grupo para ver qué se está haciendo bien y donde hay que mejorar.
+
+** La visión de futuro de un líder
+   :PROPERTIES:
+   :ID:       129FB370-76EF-4161-BB0E-4E2B324365C3
+   :END:
+
+Una de las características más sobresalientes de un líder es su habilidad para conducir equipos: el líder consigue que cada componente de un grupo trabaje y aporte lo mejor de sí mismo en la lucha por alcanzar un objetivo común. Para desarrollar esta habilidad el líder se apoya en su visión de futuro.
+
+Un líder es una persona que mira al largo plazo, que frente a unos objetivos, por ambiciosos que parezcan, consigue ilusionar a su equipo con la consecución de los mismos. Esta visión de futuro es fundamental para el líder: una persona que no tuviera esta visión de futuro podría ser un buen gestor, un buen coordinador, pero nunca un auténtico líder. Esta capacidad de ilusionar a los miembros del grupo la consigue, en gran medida, debido a que el líder persigue, además del bien de la empresa, equipo, etc., el bien particular de cada uno de esos miembros del grupo. De esta manera, al hacer ver que parte del objetivo es el bien particular de cada persona, consigue que las personas se identifiquen con las metas marcadas, que proyecten su beneficio en el beneficio derivado de la consecución del objetivo, que esas metas las hagan propias y luchen por ellas con todo el empeño. Una persona a la que tan sólo le preocupara su bienestar futuro difícilmente podría ser un líder: el grupo terminaría por rechazarlo.
+
+La clara definición de la visión de futuro del líder alimentará su pasión para lograr los objetivos, convirtiéndose para el resto del grupo un auténtico ejemplo de dedicación, de entusiasmo y de coraje.
+
+
+
+#+TITLE: Ser un líder (I)

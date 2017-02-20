@@ -1,0 +1,70 @@
+#+SETUPFILE: webconfig.inc
+#+KEYWORDS: liderazgo
+* Liderazgo militar (I)
+  :PROPERTIES:
+  :ID:       822FF202-A509-46F3-9EF0-EF5DACAEDB78
+  :PUBDATE:  <2015-07-08 Wed 00:04>
+  :END:
+
+/Publicado 1 agosto 2013, 10:17/
+
+** Liderazgo en el ejército
+   :PROPERTIES:
+   :ID:       242FA011-B2F4-460C-8169-9077FC7BF08A
+   :END:
+
+Hace ya algún tiempo cayó en mis manos un texto sobre liderazgo en el ejército. Sin entrar en detalles, le he echado de vez en cuando un vistazo, primero con cierto grado de escepticismo, luego con agradable sorpresa, y finalmente con el sentimiento de estar en presencia de un conjunto de conocimientos acumulado a lo largo del tiempo, y de gran valor.
+
+Por supuesto, todo ha de ponerse en perspectiva, y el ámbito castrense no es el que a priori yo identificaría como el más indicado para encontrar características de líder, de acuerdo a lo que hoy en día entendemos (de ahí mi inicial escepticismo). Pero si realizamos ese pequeño ejercicio de análisis, si nos abstraemos del contexto en el que intenta inscribirse el mencionado documento, podemos encontrar lecciones ganas de ser tenidas en cuenta.
+
+En este primer artículo abordaré nada más (y nada menos) que las características esenciales que ha de poseer un líder, según aparecen ya en el prólogo.
+
+** Características de un líder
+   :PROPERTIES:
+   :ID:       C603C962-730B-40D4-A8B2-018F007222BD
+   :END:
+
+ + Competencia técnica y táctica ::
+Se resume en una corta frase, en inglés: Know your business. Uno de los pilares del ejercicio del liderazgo es la confianza, con dos vertientes elementales:
+    - la confianza de un equipo en la capacidad de un líder; y
+    - la confianza en sí mismo que todo líder ha de poseer
+
+Ambas se establecen sobre una misma base: el líder ha de ser técnicamente competente, dentro de su campo de conocimiento.
+
+Dentro de estas aptudes, el documento incluye la competencia táctica. Liberándonos un poco del jargón que impregna, como es natural, el documento, podríamos decir que, en efecto, el líder ha de poseer cierto grado de visión estratégica dentro de su campo. Este es un elemento fundamental que, como vimos en el artículo anterior, servirá al líder a desarrollar su visión, exponerla, y convertirla en el objetivo común suyo y del grupo.
+
+
+ + Enseña a tus subordinados ::
+Me sorprendió muy gratamente encontrar este punto en cuestión en el documto. Lo confieso, pensar que no lo hallaría no puede sino ser el fruto de ciertos prejuicios. Y me disculpo por ello.
+
+La cuestión es que una de las bases del liderazgo, algo que a veces falla y por tanto no se da un liderazgo real, sino una simple relación jerárquica, es la preocupación por la formación del equipo. En todos los ámbitos posibles. El verdadero líder posee ese punto de altruismo que hace que ponga como uno de los objetivos primarios de su ejercicio la formación del conjunto de personas a su cargo, incluso por encima de su bien personal. Y en esto, por supuesto, tampoco puede haber diferencias entre el mundo de la empresa y el ejército.
+
+Hay que hacer notar que el elemento de formación más barato, accesible, y quizá también el más valioso, es la transmisión de los conocimientos y experiencias del propio líder. Y eso es, a mi juicio, el punto clave donde se distingue con total claridad un líder de un simple jefe: el verdadero líder está abierto a dar a su equipo todo aquello que posee en términos de conocimiento y experiencia.
+
+
+ + Ser bueno escuchando ::
+Para mí este es un elemento crucial en el ejercicio de un líder: debe saber escuchar. Y hacerlo tanto con sus superiores e iguales, como con su equipo. De hecho, este último aspecto me parece el más fundamental, por una series de razones:
+    * primero, y aunque sea una obviedad, no podremos conocer ciertos problemas si no escuchamos a aquellos que los descubren, y nuestro equipo es el primero que descubrirá los problemas que afectan a su trabajo directo.
+    * escuchando a nuestro equipo tendremos una visión distinta de un problema ya conocido, dada por aquellos que más directamente trabajan en ese problema.
+    * y un elemento psicológico fundamental: las personas de nuestro equipo se sentirán más responsables, más parte de un colectivo que funciona y que se mueve en busca de un bien común. Crecerá su confianza en un líder que no sólo planifica el tiempo de sus subordinados, sino que toma opinión como algo de valor.
+
+
+ + Tratar a los subordinados con dignidad y respeto ::
+No me detendré demasiado en este punto, obvio y elemental como pudiera parecer. Simplemente decir que aún existen muchas personas en puestos jerárquicos relevantes que tratan a su gente como recursos. En otro artículo trataremos de los anti-líderes.
+
+
+ + Servir de ejemplo ::
+Un líder ha se ser consciente de que todo aquello que hace o dice, en cualquier momento, es susceptible de ser adoptado o imitado por los demás, y por ende por los miembros de su equipo. En este sentido, y aprovechando una expresión del documento del que hablamos, un líder siempre está de servicio.
+
+Esto a su vez puede y debe ser utilizado por el líder de manera proactiva como canal de transmisión de valores y comportamientos.
+
+
+ + Cumple y aboga por los estándares ::
+La empresa, en su sentido amplio, para la que trabaja el líder, poseerá un sistema de calidad o un conjunto de procedimientos, apoyado en una batería de estándares relaonados con su negocio. Es labor del líder no sólo cumplir y hacer cumplir los procedimientos establecidos, sino apoyar a la empresa en el desarrollo de ese sistema procedimental. Todo con vistas a un mejor desarrollo de la empresa y de su equipo, lo cual redundará en una mejor resolución de aquellos trabajos que acometa.
+
+Todo lo visto lleva a una conclusión, por otro lado esperada: el liderazgo, tanto en el ámbito industrial como en el ámbito castrense (y por extensión en otros ámbitos), requiere de personas con grandes aptitudes técnicas dentro de su campo, que además se preocupen de la formación de manera integral de su equipo, que sepa escucharle, y les sirva no sólo de ejemplo sino de inspiración.
+
+
+
+
+#+TITLE: Liderazgo militar (I)

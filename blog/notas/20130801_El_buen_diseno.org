@@ -1,0 +1,28 @@
+#+SETUPFILE: webconfig.inc
+#+KEYWORDS: diseño
+* El buen diseño
+  :PROPERTIES:
+  :ID:       1954CBA8-C15D-4D03-8E4F-3459FB3608FB
+  :PUBDATE:  <2015-07-08 Wed 00:04>
+  :END:
+
+/Publicado 1 agosto 2013, 23:19/
+
+Uno de los aspectos que encontramos relacionados con muchos de los ejemplos de ideas innovadoras es el buen diseño. Este concepto no es en modo alguno tan etéreo como podría pensarse. Ya en los años 70 del siglo pasado el diseñador industrial alemán Dieter Rams se hizo la pregunta de cuándo un diseño podía decirse que era bueno. En respuesta, elaboró sus famosos Diez Principios del Buen Diseño, que hacen que se le considere uno de los padres del diseño contemporáneo.
+Los Diez Principios del Buen Diseño
+
+    1. El buen diseño es innovador: siempre hay posibilidad de mejora. Y estas posibilidades vienen de la mano del desarrollo tecnológico, el cual a su vez se realimenta del diseño imaginativo.
+    2. El buen diseño hace productos útiles: un producto se compra, en la mayoría de los casos, para ser usado. Y aunque existen criterios psicológicos y estéticos que han de cumplirse, el buen diseño opta por primar el criterio funcional.
+    3. El buen diseño cumple criterios estéticos: la calidad estética de un producto va irremisiblemente ligada a su calidad funcional, desde el momento en que un producto es susceptible de ser usado a diario, y por tanto tiene un efecto diario en las personas y en su estado de bienestar. Sólo los productos bien ejecutados, bien finalizados, pueden ser bellos.
+    4. El buen diseño hace un producto más comprensible: el buen diseño de un producto no sólo permite discernir más claramente su estructura, sino que se apoya en la intuición del usuario para expresar su funcionalidad.
+    5. El buen diseño es no intrusivo: sus productos deben ser neutros en términos decorativos, no deben convertirse en el centro de atención, en el atractor de todas las miradas. Ha de permitir y estimular la expresión del yo del usuario.
+    6. Honestidad: un producto posee un buen diseño cuando no lo hace aparecer más innovador, con más valor o más funcionalidades de las que en realidad posee. Es esencial, además de moralmente imperativo, no intentar manipular al usuario con promesas que no se pueden, o peor no se quieren, cumplir.
+    7. Un producto con un buen diseño es duradero: no está sometido a las modas y no parece nunca anticuado. Incluso en la sociedad actual, en la que todo parece ser perecedero y la filosofía del “usar y tirar” se ha establecido, un buen diseño da a un producto una vida de muchos años.
+    8. El buen diseño no deja lugar al azar: debe cuidarse hasta el último detalle.
+    9. El buen diseño es ecológico, en el sentido de minimizar el impacto de la producción industrial sobre el medio ambiente, y de la conservación de los recursos a lo largo de toda la vida del producto.
+    10. Menos, pero mejor: el buen diseño se concentra en los aspectos esenciales. Pureza y simplicidad son su bandera.
+
+Pocas son las compañías que han adoptado estos principios en el diseño de sus productos, y desde luego aquí evitaré hacer referencia a ninguna de ellas (aunque posiblemente el lector tendrá ya alguna en mente). Pero desde luego, aquellas que lo han hecho han dejado y siguen dejando una gran huella en la sociedad.
+
+
+#+TITLE: El buen diseño
