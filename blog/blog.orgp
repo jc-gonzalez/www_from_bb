@@ -5,8 +5,7 @@
 
 #+SETUPFILE: ./webconfig.inc
 
-#+INCLUDE: pv/pv.org        :minlevel 1
-#+INCLUDE: lsc/lsc.org      :minlevel 1
+#+INCLUDE: notas/notas.org        :minlevel 1
 #+INCLUDE: libros/libros.org  :minlevel 1
 #+INCLUDE: libros/nl.org  :minlevel 1
 #+INCLUDE: yebsh/yebsh.org  :minlevel 1

@@ -10,19 +10,13 @@
 
 Al blog puede accederse a través de este enlace: [[http://www.jcgonzalez.org/cienciaensimisma][Ciencia en sí misma]].
 
-** Primum Vivere
+** Notas
 
-[[./blog/pv/pv.html][Primum vivere]] es un blog donde intento plasmar reflexiones y experiencias propias acerca del Liderazgo, la Innovación y la Creatividad.  No pretende ser nada exhaustivo ni tener capacidad académica, pero me alegrará saber si le ha servido de ayuda a alguien.
-
-Al blog puede accederse a través de este enlace: [[./blog/pv/pv.html][Primum vivere]].
-
-** La sana curiosidad
-
-[[./blog/lsc/lsc.html][La sana curiosidad]] es un blog donde intento incluir curiosidades que me encuentro aquí y allá.
+[[./blog/notas/notas.html][Notas]] es el resultado de la fusión de dos blogs que mantenía anteriormente: *Primum vivere*, donde intentaba plasmar reflexiones y experiencias propias acerca del Liderazgo, la Innovación y la Creatividad, y *La sana curiosidad*, con un contenido completamente heterogéneo.
 
 [[./img/lsc.png]]
 
-Al blog puede accederse a través de este enlace: [[./blog/lsc/lsc.html][La sana curiosidad]].
+Al blog puede accederse a través de este enlace: [[./blog/notas/notas.html][Notas]] .
 
 ** Y el bit se hizo
 
