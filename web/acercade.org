@@ -14,5 +14,3 @@ Este sitio web está realizado enteramente (salvo las imágenes) mediante el uso
 Si desea contactar conmigo, puede hacerlo a través de la dirección de correo [[mailto:jcg@jcgonzalez.org][jcg@jcgonzalez.org]].
 
 También puede contactar conmigo a través de mi perfil en [[http://es.linkedin.com/in/jcglez][LinkedIn]], en [[https://www.google.com/+JCGonzalezGcia][Google+]], o a través de mi cuenta en [[https://twitter.com/JoseCGlezGcia][Twitter]] ([[https://twitter.com/JoseCGlezGcia][@josecglezgcia]]).
-
-

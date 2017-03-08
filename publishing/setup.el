@@ -135,7 +135,9 @@ objects of the same type."
                 href=\"http://www.jcgonzalez.org/jcg/index.xml\"
                 title=\"RSS blogs feed\">"
          :html-preamble "<div class=\"header\"></div>"
-         :html-postamble "<div class=\"footer\">
+         :html-postamble "
+<a class=\"twitter-timeline\" href=\"https://twitter.com/JoseCGlezGcia\" data-widget-id=\"514163589913907200\">Tweets por el @JoseCGlezGcia.</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>
+<div class=\"footer\">
 <table bordeer=\"0\" cellpadding=\"0\">
 <tr><td><a href=\"https://es.linkedin.com/in/jcglez\"><img src=\"img/linkedin.jpg\"/></a></td>
 <td><a href=\"https://twitter.com/JoseCGlezGcia\"><img src=\"img/twitter.jpg\"/></a></td>

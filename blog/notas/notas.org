@@ -17,6 +17,33 @@
 
 Este blog es la fusión de dos blogs que mantenía en el pasado, *La sana curiosidad* y *Primum vivere*, acerca de innovación y liderazgo el primero, y un batiburrillo de otras cosas el segundo.  Pero de alguna manera sentía que no tenía sentido mantener dos blogs, aunque fuesen de temáticas distintas.  Así que los he fusionado.  Espero que, entre otras cosas, me sirva para escribir un poco más a menudo.
 
+** [2017-03-07] Por qué me gusta la ciencia ficción
+
+Hace poco una persona, a la que considero una amiga, me preguntó si leía mucha ciencia ficción.  La pregunta siguiente a ésta, formulada de manera explícita o intencionadamente silenciada pero visible a través de una mirada o un gesto apenas perceptible (como en esta última ocasión) suele ser por qué.  Y dado que esta pregunta me la han realizado ya un gran número de personas, creo que es hora de dar una respuesta adecuada y medianamente clara en su formulación y razonamiento.  Lo cual, dicho sea de paso, exigirá de una dura reflexión interna.
+
+Antes de nada, debería decir que no sólo leo ciencia ficción.  aunque es cierto que en los últimos tiempos esta temática ha cubierto la mayoría de los libros que han pasado por mis manos, ojos y cerebro.
+
+De pequeño leí muchos libros de venturas.  Nada del otro mundo, lo normal en un chaval inquieto que disfruta con la lectura.  En cierto momento comencé a leer ensayos, sobre todo de carácter científico y tñecnico.  Recuerdo que mi hermano, estimulado quizá por mi padre, comenzó a coleccionar una serie de libros, todos ellos de naturaleza técnica.  La colección se titulaba "Biblioteca de Divulgación Científica Muy Interesante".  La mayoría de los volúmenes tenían cierto contenido científico, antropológico, y algunos incluso filosófico.  Hay muy pocos de estos libros que no recuerde con gusto en referencia a lo que disfruté leyéndolos.  Posteriormente comencé a leer más y más libros de fantasía y ciencia ficción, a la vez que leía otros con contenido más orientado a la divulgación, en particular a la astronomía y a la astrofísica.  He de decir, quizá ya lo sepa el lector, que soy astrofísico de formación, aunque la inmensa mayoría de mi vida laboral la haya invertido en labores relacionadas con la gestión de proyectos y sobre todo con la ingeniería de software.
+
+Fue sin duda a partir del momento en que comencé a leer más y más novelas de ciencia ficción que quedé enamorado.  Pero debo hacer una aclaración, que quizá resulte superflua para otros amantes del género.  Ciencia ficción no significa exclusivamente, ni mucho menos, navecitas o viajes por el espacio.  Ni siquiera vivir en otros planetas, o luchar con especies alinígenas.  Aunque también hay mucho de ello, malo y bueno, como en todo.
+
+Pero no.  Me refiero a que la ciencia ficción, su histori, su hilo narrativo, puede transcurrir en una sociedad muy parecida a la nuestra.  Y en ocasiones indistinguible de ella.
+
+No vaya el lector a pensar que aquellos escenarios espaciales me disgustan, o que los hago de menos en alguna medida.  Muy al contrario, son mis favoritos.  La astrofísica es una disiplina altamente vocacional, y eso debe dar una pista sobre cuáles son mis preferencias.  Naves y cruceros estelares, surcando la inmensidad del cosmos, con la mayoría de sus pasajeros en estasis debido a las enormes distancias y tiempos necesarios para alcanzar su destino.  Con  la excepción de unos pocos pasajeros, artificialmente evolucionados y modificados para soportar física y psicológicamente esas condiciones.
+
+Y sin embargo, como digo, la ciencia ficción no es solamente eso.  Por ejemplo, la historia puede tratar de un futuro distópico en el que las sociedades de todo el mundo han entrado en una fractura crítica, bien por la escasez de cualquier tipo de recursos (agua, alimentos, energía, ...), bien a causa de una terrible guerra fraticida, bien por la imposición de un sistema de gobierno intrínsecamente autodestructivo.  O podemos tener un historia en la que la Humanidad se ha visto escindida en dos o más grupos, regidos por sistemas de gobierno antagónicos, cada uno con sus pros y sus contras.  O bien, en efecto, una historia en la que todo transcurre con normalidad para la inmensa mayoría de las personas, slvo para un protagonista o un selecto grupo de actores, que participan en mayor o menor medida de una cadena de acontecimientos que transcurren paralelos al devenir del mundo, ya sea visto desde dentro, o desde fuera, como una suerte de semidioses que resultan espectadores, o incluso experimentadores, ante esa realidad, o que viven en una realidad que trasciende a la que el resto de mortales perciben como real.
+
+Me vienen a la cabeza, mientras escribo esto, títulos que tal vez el lector conozca, como /Los desposeídos/, de Ursula K. Le Guin; o /Informe en minoría/ de Philip K. Dick, que inspiró la película /Minority Report/ de Steven Spielberg;  o /¿Sueñan los androides con ovejas eléctricas?/, del mismo autor e inspiradora de la gran película de Ridley Scott /Blade Runner/; o incluso /La máquina del tiempo/, obra de H. G. Wells.  También algunos títulos de películas que se han hecho más conocidos que las obras literarias de las que tomaban la idea, como /Soylent Green/, dirigida por Richard Fleischer e inspirada en la novela de Harry Harrison /Make Room! Make Room!/.  En todos estos casos la ciencia ficción no tiene que recurrir a naves espaciales o viajes interestelares para producir su efecto cautivador (en la novela de Ursula K. Le Guin sí aparecen naves espaciales, pero de manera casi anecdótica para el desarrollo de la historia.
+
+
+
+** [2017-03-01] Los propios dioses
+
+Estoy leyendo la novela de Isaac Asimov "Los propios dioses".   Es una novela de momento muy interesante, que casi me da vergüenza confesar que no conocía.  En una parte de la misma se intenta dar una visión de una civilización alienígena y sus costumbres sociales, así como su biología, morfología y demás características.  Decir alienígena es quedarse un poco corto, porque en realidad estos seres viven en un universo paralelo al nuestro.  La descripción que hace el autor y sus esfuerzos por transmitirnos toda una serie de comportamientos, sentimientos, vivencias de estos seres me parecen simplemente grandiosos.  Sobre todo teniendo en cuenta la distancia en términos cósmicos que su naturaleza y la nuestra mantienen.
+
+Pero, claro, es Isaac Asimov.
+
+
 ** [2017-02-22] Dios como destino evolutivo
 :PROPERTIES:
 :ID:       FA8EF507-D775-470D-B407-7B7D1C9B716A
