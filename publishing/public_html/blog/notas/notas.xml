@@ -14,9 +14,9 @@
     <link>http://www.jcgonzalez.org/</link>
     <description><![CDATA[]]></description>
     <language>en</language>
-    <pubDate>Wed, 22 Feb 2017 19:28:24 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2017 19:28:24 +0100</lastBuildDate>
-    <generator>Emacs 24.5 Org-mode 8.2.10</generator>
+    <pubDate>Wed, 08 Mar 2017 15:18:30 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2017 15:18:30 +0100</lastBuildDate>
+    <generator>Emacs 25.1 Org-mode 8.2.10</generator>
     <webMaster>jcg@jcgonzalez.org (J. C. Gonzalez)</webMaster>
     <image>
         <url>http://orgmode.org/img/org-mode-unicorn-logo.png</url>
@@ -30,27 +30,29 @@
             <ul>
                 <li><a href="#sec-1">Notas</a>
                 <ul>
-                    <li><a href="#sec-1-1"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-22]</span></span> Dios como destino evolutivo</a></li>
-                    <li><a href="#sec-1-2"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-21]</span></span> Winston Churchill</a></li>
-                    <li><a href="#sec-1-3"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-21]</span></span> Horarios nocturnos</a></li>
-                    <li><a href="#sec-1-4"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-20]</span></span> Navegantes</a></li>
-                    <li><a href="#sec-1-5"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-20]</span></span> La ignorancia</a></li>
-                    <li><a href="#sec-1-6"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-06]</span></span> Francés</a></li>
-                    <li><a href="#sec-1-7"><span class="timestamp-wrapper"><span class="timestamp">[2016-06-16]</span></span> Naturalismo en el pensamiento chino</a></li>
-                    <li><a href="#sec-1-8"><span class="timestamp-wrapper"><span class="timestamp">[2016-06-15]</span></span> Pint Of Science 2016</a></li>
-                    <li><a href="#sec-1-9"><span class="timestamp-wrapper"><span class="timestamp">[2015-10-04]</span></span> Cerveza artesana</a></li>
-                    <li><a href="#sec-1-10"><span class="timestamp-wrapper"><span class="timestamp">[2015-06-25]</span></span> Países donde he estado</a></li>
-                    <li><a href="#sec-1-11"><span class="timestamp-wrapper"><span class="timestamp">[2014-03-20]</span></span> I³ - Creatividad</a></li>
-                    <li><a href="#sec-1-12"><span class="timestamp-wrapper"><span class="timestamp">[2013-11-10]</span></span> Ser un líder (I)</a></li>
-                    <li><a href="#sec-1-13"><span class="timestamp-wrapper"><span class="timestamp">[2013-10-22]</span></span> El poder de la innovación (II): experimentos con Systematic Inventive Thinking</a></li>
-                    <li><a href="#sec-1-14"><span class="timestamp-wrapper"><span class="timestamp">[2013-10-14]</span></span> El poder de la innovación (I)</a></li>
-                    <li><a href="#sec-1-15"><span class="timestamp-wrapper"><span class="timestamp">[2013-08-01]</span></span> Liderazgo militar (I)</a></li>
-                    <li><a href="#sec-1-16"><span class="timestamp-wrapper"><span class="timestamp">[2013-08-01]</span></span> El buen diseño</a></li>
-                    <li><a href="#sec-1-17"><span class="timestamp-wrapper"><span class="timestamp">[2013-05-24]</span></span> Creo que mi cerebro está muerto</a></li>
-                    <li><a href="#sec-1-18"><span class="timestamp-wrapper"><span class="timestamp">[2013-05-14]</span></span> El latir de la Sociedad Global en directo, a través de Wikipedia</a></li>
-                    <li><a href="#sec-1-19"><span class="timestamp-wrapper"><span class="timestamp">[2013-02-06]</span></span> El retorno del geocentrismo</a></li>
-                    <li><a href="#sec-1-20"><span class="timestamp-wrapper"><span class="timestamp">[2012-12-28]</span></span> Atmorphophallus titanum</a></li>
-                    <li><a href="#sec-1-21"><span class="timestamp-wrapper"><span class="timestamp">[2012-10-22]</span></span> De cursos y post-its</a></li>
+                    <li><a href="#sec-1-1"><span class="timestamp-wrapper"><span class="timestamp">[2017-03-07]</span></span> Por qué me gusta la ciencia ficción</a></li>
+                    <li><a href="#sec-1-2"><span class="timestamp-wrapper"><span class="timestamp">[2017-03-01]</span></span> Los propios dioses</a></li>
+                    <li><a href="#sec-1-3"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-22]</span></span> Dios como destino evolutivo</a></li>
+                    <li><a href="#sec-1-4"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-21]</span></span> Winston Churchill</a></li>
+                    <li><a href="#sec-1-5"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-21]</span></span> Horarios nocturnos</a></li>
+                    <li><a href="#sec-1-6"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-20]</span></span> Navegantes</a></li>
+                    <li><a href="#sec-1-7"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-20]</span></span> La ignorancia</a></li>
+                    <li><a href="#sec-1-8"><span class="timestamp-wrapper"><span class="timestamp">[2017-02-06]</span></span> Francés</a></li>
+                    <li><a href="#sec-1-9"><span class="timestamp-wrapper"><span class="timestamp">[2016-06-16]</span></span> Naturalismo en el pensamiento chino</a></li>
+                    <li><a href="#sec-1-10"><span class="timestamp-wrapper"><span class="timestamp">[2016-06-15]</span></span> Pint Of Science 2016</a></li>
+                    <li><a href="#sec-1-11"><span class="timestamp-wrapper"><span class="timestamp">[2015-10-04]</span></span> Cerveza artesana</a></li>
+                    <li><a href="#sec-1-12"><span class="timestamp-wrapper"><span class="timestamp">[2015-06-25]</span></span> Países donde he estado</a></li>
+                    <li><a href="#sec-1-13"><span class="timestamp-wrapper"><span class="timestamp">[2014-03-20]</span></span> I³ - Creatividad</a></li>
+                    <li><a href="#sec-1-14"><span class="timestamp-wrapper"><span class="timestamp">[2013-11-10]</span></span> Ser un líder (I)</a></li>
+                    <li><a href="#sec-1-15"><span class="timestamp-wrapper"><span class="timestamp">[2013-10-22]</span></span> El poder de la innovación (II): experimentos con Systematic Inventive Thinking</a></li>
+                    <li><a href="#sec-1-16"><span class="timestamp-wrapper"><span class="timestamp">[2013-10-14]</span></span> El poder de la innovación (I)</a></li>
+                    <li><a href="#sec-1-17"><span class="timestamp-wrapper"><span class="timestamp">[2013-08-01]</span></span> Liderazgo militar (I)</a></li>
+                    <li><a href="#sec-1-18"><span class="timestamp-wrapper"><span class="timestamp">[2013-08-01]</span></span> El buen diseño</a></li>
+                    <li><a href="#sec-1-19"><span class="timestamp-wrapper"><span class="timestamp">[2013-05-24]</span></span> Creo que mi cerebro está muerto</a></li>
+                    <li><a href="#sec-1-20"><span class="timestamp-wrapper"><span class="timestamp">[2013-05-14]</span></span> El latir de la Sociedad Global en directo, a través de Wikipedia</a></li>
+                    <li><a href="#sec-1-21"><span class="timestamp-wrapper"><span class="timestamp">[2013-02-06]</span></span> El retorno del geocentrismo</a></li>
+                    <li><a href="#sec-1-22"><span class="timestamp-wrapper"><span class="timestamp">[2012-12-28]</span></span> Atmorphophallus titanum</a></li>
+                    <li><a href="#sec-1-23"><span class="timestamp-wrapper"><span class="timestamp">[2012-10-22]</span></span> De cursos y post-its</a></li>
                 </ul>
                 </li>
             </ul>
